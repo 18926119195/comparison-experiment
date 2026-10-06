@@ -1,0 +1,311 @@
+材料：
+⟦1⟧ = "Team Australasia
+⟦2⟧ = "The Australasian Mens Championships
+⟦3⟧ = (Tony Wilding
+⟦4⟧ = 1 March
+⟦5⟧ = 10 players
+⟦6⟧ = 12 December
+⟦7⟧ = 16 March 1923 New Zealand Lawn Tennis Association
+⟦8⟧ = 1870s
+⟦9⟧ = 1904 New Zealand Lawn Tennis Association
+⟦10⟧ = 1924 International Lawn Tennis Challenge
+⟦11⟧ = 1972 World Championship Tennis circuit
+⟦12⟧ = 7 December
+⟦13⟧ = 9 June
+⟦14⟧ = a combined men
+⟦15⟧ = a conference
+⟦16⟧ = a group
+⟦17⟧ = a meeting
+⟦18⟧ = a New Zealander
+⟦19⟧ = a series
+⟦20⟧ = a significant role
+⟦21⟧ = a small field
+⟦22⟧ = a tennis event
+⟦23⟧ = a tennis tour
+⟦24⟧ = a title
+⟦25⟧ = a variety
+⟦26⟧ = ADNA
+⟦27⟧ = adult
+⟦28⟧ = affiliation
+⟦29⟧ = alias
+⟦30⟧ = all international amateur tennis players
+⟦31⟧ = all nationalities
+⟦32⟧ = Allan Stone
+⟦33⟧ = amount
+⟦34⟧ = an American professional tennis player
+⟦35⟧ = an American sports apparel company
+⟦36⟧ = an Australian former professional tennis player
+⟦37⟧ = an independent event
+⟦38⟧ = apparel
+⟦39⟧ = appearances
+⟦40⟧ = associations
+⟦41⟧ = athletes
+⟦42⟧ = Athletic DNA
+⟦43⟧ = attempts
+⟦44⟧ = Auckland
+⟦45⟧ = Australasia
+⟦46⟧ = Australia
+⟦47⟧ = Australian Open
+⟦48⟧ = Australian tennis players
+⟦49⟧ = basis
+⟦50⟧ = Benson
+⟦51⟧ = Bob
+⟦52⟧ = both the countries
+⟦53⟧ = brother
+⟦54⟧ = career
+⟦55⟧ = Caroline Wozniacki
+⟦56⟧ = challenge
+⟦57⟧ = champion
+⟦58⟧ = Championnats
+⟦59⟧ = champions
+⟦60⟧ = championship
+⟦61⟧ = championships
+⟦62⟧ = Christchurch
+⟦63⟧ = circuit
+⟦64⟧ = clay
+⟦65⟧ = clothing
+⟦66⟧ = coach
+⟦67⟧ = company
+⟦68⟧ = competition
+⟦69⟧ = conference
+⟦70⟧ = countries
+⟦71⟧ = courts
+⟦72⟧ = Davis Cup
+⟦73⟧ = decade
+⟦74⟧ = December
+⟦75⟧ = development
+⟦76⟧ = doubles
+⟦77⟧ = edition
+⟦78⟧ = England
+⟦79⟧ = event
+⟦80⟧ = events
+⟦81⟧ = exception
+⟦82⟧ = Farndon
+⟦83⟧ = female tennis players
+⟦84⟧ = field
+⟦85⟧ = final appearances
+⟦86⟧ = foreign players
+⟦87⟧ = fourth all-time
+⟦88⟧ = France
+⟦89⟧ = French
+⟦90⟧ = grass
+⟦91⟧ = group
+⟦92⟧ = hander
+⟦93⟧ = Hastings
+⟦94⟧ = Hawkes Bay
+⟦95⟧ = Hedges
+⟦96⟧ = his brother
+⟦97⟧ = his twin brother
+⟦98⟧ = history
+⟦99⟧ = i.e. not part
+⟦100⟧ = ILTF
+⟦101⟧ = inauguration
+⟦102⟧ = inequality
+⟦103⟧ = international tennis events
+⟦104⟧ = its first challenge
+⟦105⟧ = its inauguration
+⟦106⟧ = its own right
+⟦107⟧ = Kerry Melville
+⟦108⟧ = Las Vegas
+⟦109⟧ = Lawn Tennis Association
+⟦110⟧ = Lleyton Hewitt
+⟦111⟧ = Mahesh Bhupathi
+⟦112⟧ = male tennis players
+⟦113⟧ = Mark Knowles
+⟦114⟧ = meeting
+⟦115⟧ = member
+⟦116⟧ = men
+⟦117⟧ = men's titles
+⟦118⟧ = Michael Carl Bryan
+⟦119⟧ = Mike Bryan
+⟦120⟧ = modern tennis
+⟦121⟧ = money
+⟦122⟧ = nation
+⟦123⟧ = nationalities
+⟦124⟧ = Nevada
+⟦125⟧ = New Zealand
+⟦126⟧ = New Zealand Lawn Tennis Association
+⟦127⟧ = New Zealand players
+⟦128⟧ = New Zealand venues
+⟦129⟧ = No
+⟦130⟧ = NZLTA
+⟦131⟧ = Oceania Tennis Federation
+⟦132⟧ = only two Australians
+⟦133⟧ = Open
+⟦134⟧ = order
+⟦135⟧ = origin
+⟦136⟧ = originally nine female professional players
+⟦137⟧ = others
+⟦138⟧ = outdoor grass courts
+⟦139⟧ = Paris
+⟦140⟧ = part
+⟦141⟧ = partnership
+⟦142⟧ = player
+⟦143⟧ = players
+⟦144⟧ = precursor
+⟦145⟧ = prize
+⟦146⟧ = prize money
+⟦147⟧ = professional tennis
+⟦148⟧ = quarterfinals
+⟦149⟧ = ranking
+⟦150⟧ = Ray Ruffels
+⟦151⟧ = Raymond Owen "Ray" Ruffels
+⟦152⟧ = reasons
+⟦153⟧ = records
+⟦154⟧ = remoteness
+⟦155⟧ = right
+⟦156⟧ = role
+⟦157⟧ = runner
+⟦158⟧ = Seattle
+⟦159⟧ = Select Junior Tennis players
+⟦160⟧ = September
+⟦161⟧ = series
+⟦162⟧ = singles
+⟦163⟧ = six Australian state tennis associations
+⟦164⟧ = six times
+⟦165⟧ = slam
+⟦166⟧ = sponsorship
+⟦167⟧ = sponsorship reasons
+⟦168⟧ = sports
+⟦169⟧ = state
+⟦170⟧ = sur
+⟦171⟧ = Sydney
+⟦172⟧ = Tatiana Poutchek
+⟦173⟧ = team
+⟦174⟧ = tennis
+⟦175⟧ = Tennis Channel Open
+⟦176⟧ = Tennis New Zealand
+⟦177⟧ = tennis players
+⟦178⟧ = the 1870s
+⟦179⟧ = the 1972 Grand Prix
+⟦180⟧ = The 1972 New Zealand Open
+⟦181⟧ = the 2006 runner-up
+⟦182⟧ = the 2007 ATP Tour
+⟦183⟧ = The 2007 Tennis Channel Open
+⟦184⟧ = the 2012 Summer Olympics
+⟦185⟧ = the alias
+⟦186⟧ = the amount
+⟦187⟧ = the ATP Tour
+⟦188⟧ = the Australian Open
+⟦189⟧ = the basis
+⟦190⟧ = the career golden slam
+⟦191⟧ = the championship
+⟦192⟧ = the clay courts
+⟦193⟧ = the Darling Tennis Center
+⟦194⟧ = the defending champion
+⟦195⟧ = the defending champions
+⟦196⟧ = the development
+⟦197⟧ = the doubles champions
+⟦198⟧ = The event
+⟦199⟧ = the exception
+⟦200⟧ = The first "New Zealand Tennis Championships
+⟦201⟧ = the founding member
+⟦202⟧ = the French Championships
+⟦203⟧ = the French Open
+⟦204⟧ = The geographical remoteness
+⟦205⟧ = The history
+⟦206⟧ = the inaugural edition
+⟦207⟧ = the International Lawn Tennis Association
+⟦208⟧ = the International Lawn Tennis Challenge
+⟦209⟧ = the International Lawn Tennis Federation
+⟦210⟧ = The ITF women's competition
+⟦211⟧ = the last several years
+⟦212⟧ = the Lawn Tennis Association
+⟦213⟧ = the most ATP men's doubles titles
+⟦214⟧ = the New Zealand Association
+⟦215⟧ = the Open Era
+⟦216⟧ = the origin
+⟦217⟧ = the others
+⟦218⟧ = the Parc de Saint-Cloud
+⟦219⟧ = The players
+⟦220⟧ = the precursor
+⟦221⟧ = the quarterfinals
+⟦222⟧ = the records
+⟦223⟧ = The right-hander
+⟦224⟧ = the second men's doubles team
+⟦225⟧ = the singles champion
+⟦226⟧ = the singles titles
+⟦227⟧ = the Stade Français
+⟦228⟧ = the Stanley Street Courts
+⟦229⟧ = the team
+⟦230⟧ = The tournament
+⟦231⟧ = the twelve national associations
+⟦232⟧ = the United States Lawn Tennis Association
+⟦233⟧ = The Virginia Slims Circuit
+⟦234⟧ = The WHCC
+⟦235⟧ = the wide inequality
+⟦236⟧ = the World Covered Court Championships
+⟦237⟧ = the World Grass Court Championships
+⟦238⟧ = the World Hard Court Championships tennis tournament
+⟦239⟧ = their nation
+⟦240⟧ = this partnership
+⟦241⟧ = This tournament
+⟦242⟧ = this trans-tasmanian partnership
+⟦243⟧ = time
+⟦244⟧ = times
+⟦245⟧ = title
+⟦246⟧ = titles
+⟦247⟧ = top ranking
+⟦248⟧ = tour
+⟦249⟧ = tournament
+⟦250⟧ = United States Lawn Tennis Association
+⟦251⟧ = up
+⟦252⟧ = USLTA
+⟦253⟧ = variety
+⟦254⟧ = venues
+⟦255⟧ = Victoria Azarenka
+⟦256⟧ = Warehouseman's Cricket Ground
+⟦257⟧ = WHCC
+⟦258⟧ = William Bowrey
+⟦259⟧ = Wimbledon
+⟦260⟧ = women
+⟦261⟧ = women's professional tennis tournament
+⟦262⟧ = world
+⟦263⟧ = world championships
+⟦264⟧ = WTA Tour
+⟦265⟧ = years
+⟦266⟧ = young tennis athletes
+⟦267⟧ = youth
+⟦268⟧ = youth and adult tennis players
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦183⟧⟦22⟧⟦174⟧⟦79⟧⟦182⟧⟦110⟧⟦181⟧⟦157⟧⟦251⟧⟦225⟧⟦162⟧⟦57⟧⟦51⟧⟦119⟧⟦197⟧⟦76⟧⟦59⟧⟦198⟧⟦79⟧⟦108⟧⟦124⟧⟦193⟧⟦175⟧⟦108⟧⟦210⟧⟦260⟧⟦68⟧⟦55⟧⟦162⟧⟦162⟧⟦255⟧⟦172⟧⟦76⟧⟦76⟧⟦233⟧⟦23⟧⟦174⟧⟦248⟧⟦16⟧⟦91⟧⟦136⟧⟦143⟧⟦233⟧⟦189⟧⟦49⟧⟦264⟧⟦219⟧⟦143⟧⟦232⟧⟦252⟧⟦235⟧⟦102⟧⟦186⟧⟦33⟧⟦145⟧⟦146⟧⟦121⟧⟦112⟧⟦174⟧⟦143⟧⟦83⟧⟦174⟧⟦143⟧⟦257⟧⟦89⟧⟦58⟧⟦58⟧⟦170⟧⟦206⟧⟦77⟧⟦238⟧⟦174⟧⟦249⟧⟦220⟧⟦144⟧⟦203⟧⟦192⟧⟦64⟧⟦71⟧⟦227⟧⟦218⟧⟦139⟧⟦13⟧⟦241⟧⟦249⟧⟦30⟧⟦174⟧⟦143⟧⟦140⟧⟦140⟧⟦19⟧⟦161⟧⟦262⟧⟦263⟧⟦61⟧⟦209⟧⟦100⟧⟦217⟧⟦137⟧⟦237⟧⟦259⟧⟦236⟧⟦25⟧⟦253⟧⟦70⟧⟦70⟧⟦234⟧⟦31⟧⟦123⟧⟦202⟧⟦174⟧⟦177⟧⟦143⟧⟦88⟧⟦118⟧⟨¶⟩⟦34⟧⟦174⟧⟨¸⟩⟦142⟧⟦223⟧⟦92⟧⟦97⟧⟦53⟧⟦51⟧⟦262⟧⟦129⟧⟦129⟧⟦142⟧⟦142⟧⟦211⟧⟦265⟧⟦247⟧⟦149⟧⟦160⟧⟦224⟧⟦116⟧⟦173⟧⟦190⟧⟦54⟧⟦165⟧⟦184⟧⟦222⟧⟦153⟧⟦213⟧⟦116⟧⟦76⟧⟦246⟧⟦85⟧⟦39⟧⟦87⟧⟦243⟧⟦116⟧⟦117⟧⟦246⟧⟦215⟧⟦96⟧⟦53⟧⟦199⟧⟦81⟧⟦111⟧⟦113⟧⟦258⟧⟦194⟧⟦57⟧⟦221⟧⟦148⟧⟦150⟧⟨ë⟩⟦150⟧⟨ì⟩⟦32⟧⟨í⟩⟦195⟧⟦59⟧⟨î⟩⟨ï⟩⟦151⟧⟨ð⟩⟦171⟧⟨ñ⟩⟦36⟧⟦174⟧⟨ó⟩⟦142⟧⟦66⟧⟦66⟧⟦180⟧⟦50⟧⟦95⟧⟦133⟧⟦166⟧⟦167⟧⟦152⟧⟦14⟧⟦116⟧⟦260⟧⟦261⟧⟦174⟧⟦249⟧⟦228⟧⟦44⟧⟦125⟧⟦37⟧⟦79⟧⟦99⟧⟦140⟧⟦179⟧⟦11⟧⟦63⟧⟦230⟧⟦249⟧⟦138⟧⟦90⟧⟦71⟧⟦12⟧⟦6⟧⟦150⟧⟦107⟧⟦226⟧⟦162⟧⟦246⟧⟦42⟧⟦26⟧⟦35⟧⟦168⟧⟦38⟧⟦67⟧⟦158⟧⟦26⟧⟦266⟧⟦174⟧⟦41⟧⟦159⟧⟦143⟧⟦65⟧⟦65⟧⟦267⟧⟦268⟧⟦27⟧⟦174⟧⟦143⟧⟦26⟧⟦147⟧⟦174⟧⟦143⟧⟦143⟧⟦187⟧⟦264⟧⟦205⟧⟦98⟧⟦174⟧⟦174⟧⟦125⟧⟦178⟧⟦8⟧⟦73⟧⟦196⟧⟦75⟧⟦120⟧⟦174⟧⟦200⟧⟦82⟧⟦94⟧⟦109⟧⟦45⟧⟦231⟧⟦40⟧⟦174⟧⟦174⟧⟦209⟧⟦100⟧⟦15⟧⟦69⟧⟦139⟧⟦88⟧⟦4⟧⟦125⟧⟦48⟧⟦174⟧⟦143⟧⟦208⟧⟦72⟧⟦185⟧⟦29⟧⟦1⟧⟦229⟧⟦173⟧⟦24⟧⟦245⟧⟦164⟧⟦244⟧⟦43⟧⟦43⟧⟦242⟧⟦141⟧⟦134⟧⟦134⟧⟦127⟧⟦143⟧⟦239⟧⟦122⟧⟦103⟧⟦174⟧⟦80⟧⟦125⟧⟦240⟧⟦141⟧⟦7⟧⟦28⟧⟦28⟧⟦207⟧⟦208⟧⟦106⟧⟦155⟧⟦126⟧⟦104⟧⟦56⟧⟦250⟧⟦10⟧⟦176⟧⟦201⟧⟦115⟧⟦131⟧⟦126⟧⟦130⟧⟦17⟧⟦114⟧⟦93⟧⟦74⟧⟦105⟧⟦101⟧⟦214⟧⟦212⟧⟦78⟧⟦9⟧⟦163⟧⟦169⟧⟦174⟧⟦40⟧⟦212⟧⟦45⟧⟦126⟧⟦20⟧⟦156⟧⟦216⟧⟦135⟧⟦188⟧⟦109⟧⟦45⟧⟦230⟧⟦249⟧⟦2⟧⟦47⟧⟦256⟧⟦61⟧⟦61⟧⟦128⟧⟦254⟧⟦125⟧⟦191⟧⟦60⟧⟦62⟧⟦204⟧⟦154⟧⟦52⟧⟦70⟧⟦46⟧⟦125⟧⟦86⟧⟦143⟧⟦230⟧⟦249⟧⟦62⟧⟦21⟧⟦84⟧⟦5⟧⟦143⟧⟦132⟧⟦230⟧⟦249⟧⟦18⟧⟦3⟧
+
+问题：
+Are Mike Bryan and Ray Ruffels both tennis players?
+
+占位符映射：
+⟨¶⟩ =  (born April 29, 1978) is 
+⟨¸⟩ =  
+⟨ë⟩ = .
+⟨ì⟩ =  and 
+⟨í⟩ =  were 
+⟨î⟩ = 
+⟨ï⟩ = .
+⟨ð⟩ =  (born 23 March 1946 in 
+⟨ñ⟩ = ) is 
+⟨ó⟩ =  
+
+---
+
+要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。
+
+格式：
+
+# 路径一：[标题]
+
+步骤1：使用⟦X⟧，提取...
+步骤2：综合⟦Y⟧⟦Z⟧，对比...
+
+结论：[此路径结论]
+
+（继续路径二、三...）
+
+**引用规范**：
+- 单个材料：使用⟦N⟧，提取...，判断...
+- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...
+
+**推理策略**：
+- 对比论证：对比不同材料中的矛盾或差异
+- 交叉验证：从多个材料中找到互相支撑的证据
+- 综合支撑：从多处提取一致的特征或模式

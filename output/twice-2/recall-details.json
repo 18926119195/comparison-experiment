@@ -1,0 +1,36 @@
+[
+  {
+    "qid": "hotpot_105",
+    "question": "Which American film actor and dancer starred in the 1945 film Johnny Angel?",
+    "expectedAnswer": "George Raft",
+    "predictedAnswer": "# 路径一：从影片《Johnny Angel》的演员阵容定位\n\n步骤1：使用⟦115⟧⟦17⟧⟦80⟧⟦148⟧，提取“Johnny Angel”对应一部1945年的film noir，即1945年黑色电影。\n\n步骤2：综合⟦209⟧⟦141⟧⟦86⟧⟦53⟧⟦178⟧⟦105⟧，在该影片语境中，主演阵容包括⟦86⟧ George Raft、⟦53⟧ Claire Trevor、⟦178⟧ Signe Hasso，并包含⟦105⟧ Hoagy Carmichael。\n\n步骤3：对比演员身份，问题要求的是“American film actor and dancer”。主演中，⟦86⟧ George Raft是男性电影演员，且材料中有⟦18⟧ a dancer、⟦63⟧ dancer等身份线索；⟦53⟧ Claire Trevor与⟦178⟧ Signe Hasso更常作为女演员出现，⟦105⟧ Hoagy Carmichael则更偏音乐人/演员。\n\n结论：在1945年电影《Johnny Angel》中出演的American film actor and dancer是George Raft。\n\n# 路径二：验证George Raft的职业身份\n\n步骤1：使用⟦86⟧⟦87⟧，提取George Raft与George Ranft指向同一人物，即George Raft。\n\n步骤2：使用⟦36⟧⟦29⟧，George Raft被归为American film actor / actor，符合“American film actor”的身份限定。\n\n步骤3：使用⟦18⟧⟦63⟧，材料中同时存在dancer身份线索，说明George Raft不仅从影，也具有dancer身份。\n\n步骤4：综合⟦99⟧⟦84⟧⟦171⟧⟦212⟧，其gangster roles、roles以及“Scarface”等履历进一步支撑他是具有代表性的美国电影演员。\n\n结论：George Raft同时具备American film actor与dancer身份。\n\n# 路径三：交叉验证问题中的多重限定\n\n步骤1：使用⟦115⟧⟦17⟧，确认Johnny Angel是1945年film noir，锁定问题所指影片。\n\n步骤2：使用⟦86⟧⟦53⟧⟦178⟧⟦105⟧，在影片相关演员中筛选，只有⟦86⟧ George Raft最符合“actor and dancer”的性别与职业限定。\n\n步骤3：综合⟦36⟧⟦18⟧⟦63⟧，George Raft兼具American film actor与dancer身份，且与⟦115⟧ Johnny Angel的演员阵容交叉吻合。\n\n结论：答案是George Raft。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦116⟧⟦39⟧⟦235⟧⟦145⟧⟦145⟧⟦164⟧⟦165⟧⟦189⟧⟦176⟧⟦106⟧⟦129⟧⟦103⟧",
+    "nounCount": 309,
+    "score": 0.8,
+    "recallUsage": {
+      "prompt_tokens": 5171,
+      "completion_tokens": 1011,
+      "total_tokens": 6182,
+      "prompt_tokens_details": {
+        "cached_tokens": 4992
+      },
+      "prompt_cache_hit_tokens": 4992,
+      "prompt_cache_miss_tokens": 179
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 9294,
+      "completion_tokens": 5158,
+      "total_tokens": 14452,
+      "prompt_tokens_details": {
+        "cached_tokens": 4992
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 4562
+      },
+      "prompt_cache_hit_tokens": 4992,
+      "prompt_cache_miss_tokens": 4302
+    }
+  }
+]

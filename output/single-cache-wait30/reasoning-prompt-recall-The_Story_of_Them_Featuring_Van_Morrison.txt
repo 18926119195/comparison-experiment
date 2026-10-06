@@ -1,0 +1,301 @@
+注意：你看到的拓扑链不是原文，而是符号化后的序列：
+- ⟦N⟧ 代表实体名词
+- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示"这里存在某种关系"
+
+你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。
+
+材料：
+⟦1⟧ = "Crazy Love
+⟦2⟧ = "Irish Heartbeat
+⟦3⟧ = "Reload
+⟦4⟧ = "The Best
+⟦5⟧ = ("Tupelo Honey
+⟦6⟧ = 11 June
+⟦7⟧ = 12 June
+⟦8⟧ = 13 March
+⟦9⟧ = 19 June
+⟦10⟧ = 1990s
+⟦11⟧ = 25 years
+⟦12⟧ = 27 August
+⟦13⟧ = 31 tracks
+⟦14⟧ = 4 June
+⟦15⟧ = a childhood influence
+⟦16⟧ = a cold
+⟦17⟧ = a compilation album
+⟦18⟧ = a concert
+⟦19⟧ = a critical and commercial success
+⟦20⟧ = a digital version
+⟦21⟧ = a limited edition live album
+⟦22⟧ = a live album
+⟦23⟧ = a Northern Irish band
+⟦24⟧ = a range
+⟦25⟧ = a second and third greatest hits volume
+⟦26⟧ = a song
+⟦27⟧ = Alan Henderson
+⟦28⟧ = album
+⟦29⟧ = albums
+⟦30⟧ = almost every song
+⟦31⟧ = an overview
+⟦32⟧ = April
+⟦33⟧ = artists
+⟦34⟧ = Austin City Limits Festival
+⟦35⟧ = B.B. King
+⟦36⟧ = band
+⟦37⟧ = Belfast
+⟦38⟧ = best shape
+⟦39⟧ = Billy Harrison
+⟦40⟧ = birthplace
+⟦41⟧ = Blue
+⟦42⟧ = Bob Rock
+⟦43⟧ = Bobby Womack
+⟦44⟧ = both "Avalon Sunset
+⟦45⟧ = career
+⟦46⟧ = charity
+⟦47⟧ = childhood
+⟦48⟧ = Chris Barber
+⟦49⟧ = Chris Farlowe
+⟦50⟧ = Clare Teal
+⟦51⟧ = cold
+⟦52⟧ = collaborations
+⟦53⟧ = collection
+⟦54⟧ = compilation
+⟦55⟧ = concert
+⟦56⟧ = concerts
+⟦57⟧ = Cyprus Avenue
+⟦58⟧ = daughter
+⟦59⟧ = death
+⟦60⟧ = disc
+⟦61⟧ = Don Was
+⟦62⟧ = Donegan's first studio album
+⟦63⟧ = duet
+⟦64⟧ = duets
+⟦65⟧ = edition
+⟦66⟧ = efforts
+⟦67⟧ = Eric Wrixon
+⟦68⟧ = finally Bobby Tench's prickly electric guitar
+⟦69⟧ = footage
+⟦70⟧ = four live shows
+⟦71⟧ = four songs
+⟦72⟧ = friends
+⟦73⟧ = garage
+⟦74⟧ = George Benson
+⟦75⟧ = Georgie Fame
+⟦76⟧ = Green
+⟦77⟧ = Gregory Porter
+⟦78⟧ = group
+⟦79⟧ = guests
+⟦80⟧ = guitar
+⟦81⟧ = Gulf Coast victims
+⟦82⟧ = Hammond organ
+⟦83⟧ = headliner
+⟦84⟧ = his career
+⟦85⟧ = his death
+⟦86⟧ = his large volume
+⟦87⟧ = his last two albums
+⟦88⟧ = his own skiffle
+⟦89⟧ = his recording career
+⟦90⟧ = his voice
+⟦91⟧ = history
+⟦92⟧ = Home
+⟦93⟧ = hurricane Katrina
+⟦94⟧ = Hyndford Street
+⟦95⟧ = images
+⟦96⟧ = influence
+⟦97⟧ = Ireland
+⟦98⟧ = Its success
+⟦99⟧ = iTunes Store
+⟦100⟧ = jazz
+⟦101⟧ = jazz singer Georgie Fame
+⟦102⟧ = John Lee Hooker
+⟦103⟧ = Jones' successful album
+⟦104⟧ = Joss Stone
+⟦105⟧ = Line"/"John
+⟦106⟧ = live Van Morrison concerts
+⟦107⟧ = long-time friends
+⟦108⟧ = Lonnie Donegan
+⟦109⟧ = Manhattan/EMI Music Catalog Marketing
+⟦110⟧ = March
+⟦111⟧ = Mark Knopfler
+⟦112⟧ = material
+⟦113⟧ = Mavis Staples
+⟦114⟧ = member
+⟦115⟧ = Michael Bublé
+⟦116⟧ = Mick Hucknall
+⟦117⟧ = money
+⟦118⟧ = Moondance
+⟦119⟧ = Morrison
+⟦120⟧ = Morrison's 1970 album
+⟦121⟧ = Morrison's best-seller
+⟦122⟧ = Morrison's birthplace
+⟦123⟧ = Morrison’s daughter
+⟦124⟧ = Morrison's last four recordings
+⟦125⟧ = Morrison's mainstream popularity
+⟦126⟧ = Morrison's work
+⟦127⟧ = Mose Allison
+⟦128⟧ = music
+⟦129⟧ = Natalie Cole
+⟦130⟧ = New York City
+⟦131⟧ = night
+⟦132⟧ = Northern Ireland
+⟦133⟧ = Northern Irish singer-songwriter Van Morrison
+⟦134⟧ = Northern Irish singer/songwriter Van Morrison
+⟦135⟧ = organ
+⟦136⟧ = overview
+⟦137⟧ = P.J. Proby
+⟦138⟧ = part
+⟦139⟧ = Performances
+⟦140⟧ = Polydor Records
+⟦141⟧ = popularity
+⟦142⟧ = previously unreleased collaborations
+⟦143⟧ = range
+⟦144⟧ = Ray Charles
+⟦145⟧ = RCA Records
+⟦146⟧ = recording
+⟦147⟧ = recordings
+⟦148⟧ = records
+⟦149⟧ = release
+⟦150⟧ = relief
+⟦151⟧ = relief efforts
+⟦152⟧ = resonance
+⟦153⟧ = reviewers
+⟦154⟧ = rock
+⟦155⟧ = Rock Island Line"/"John Henry
+⟦156⟧ = Ronnie Milling
+⟦157⟧ = sax
+⟦158⟧ = schoolmates
+⟦159⟧ = seller
+⟦160⟧ = September
+⟦161⟧ = sessions
+⟦162⟧ = Shana Morrison
+⟦163⟧ = shape
+⟦164⟧ = shows
+⟦165⟧ = singer
+⟦166⟧ = singer Van Morrison's musical career
+⟦167⟧ = Some reviewers
+⟦168⟧ = song
+⟦169⟧ = songs
+⟦170⟧ = songwriter
+⟦171⟧ = standard
+⟦172⟧ = states
+⟦173⟧ = Steve Winwood
+⟦174⟧ = studio
+⟦175⟧ = success
+⟦176⟧ = Taj Mahal
+⟦177⟧ = tenor
+⟦178⟧ = textures
+⟦179⟧ = the 1990s
+⟦180⟧ = The 2003 duet
+⟦181⟧ = the 35th studio album
+⟦182⟧ = the album
+⟦183⟧ = The album's thirty-one tracks
+⟦184⟧ = the artists
+⟦185⟧ = the Austin City Limits Festival concert
+⟦186⟧ = the band
+⟦187⟧ = The Best
+⟦188⟧ = the best-selling records
+⟦189⟧ = the British Invasion
+⟦190⟧ = The Caledonia Soul Orchestra
+⟦191⟧ = the Catalogue
+⟦192⟧ = the CD version
+⟦193⟧ = the charity album
+⟦194⟧ = the Chris Barber jazz band
+⟦195⟧ = The Concert
+⟦196⟧ = the dark resonance
+⟦197⟧ = The duet
+⟦198⟧ = the first night headliner
+⟦199⟧ = the first official video
+⟦200⟧ = the garage rock standard "Gloria
+⟦201⟧ = the Grand Opera House
+⟦202⟧ = the Grand Opera House Belfast
+⟦203⟧ = the group
+⟦204⟧ = the NME states
+⟦205⟧ = the Northern Irish band
+⟦206⟧ = The original five member band
+⟦207⟧ = the release
+⟦208⟧ = the same recording sessions
+⟦209⟧ = the second live album
+⟦210⟧ = the second video
+⟦211⟧ = The Skiffle Sessions
+⟦212⟧ = The Story
+⟦213⟧ = the two artists
+⟦214⟧ = the two-year history
+⟦215⟧ = the U.S.
+⟦216⟧ = the UK
+⟦217⟧ = the United States
+⟦218⟧ = the Van Morrison Official website
+⟦219⟧ = The video
+⟦220⟧ = the vocalist
+⟦221⟧ = their own songs
+⟦222⟧ = then Pat Kyle's bright sharp tenor sax
+⟦223⟧ = This new two-disc collection
+⟦224⟧ = This video
+⟦225⟧ = time
+⟦226⟧ = Tom Jones
+⟦227⟧ = Toni Marcus' violin
+⟦228⟧ = Tony Stewart
+⟦229⟧ = tracks
+⟦230⟧ = twenty years
+⟦231⟧ = two special guests
+⟦232⟧ = Van Morrison
+⟦233⟧ = Van Morrison Volume
+⟦234⟧ = version
+⟦235⟧ = victims
+⟦236⟧ = video
+⟦237⟧ = violin
+⟦238⟧ = vocalist
+⟦239⟧ = voice
+⟦240⟧ = volume
+⟦241⟧ = website
+⟦242⟧ = work
+⟦243⟧ = year
+⟦244⟧ = years
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦34⟧⟦133⟧⟦165⟧⟦170⟧⟦21⟧⟦65⟧⟦28⟧⟦185⟧⟦55⟧⟦198⟧⟦131⟧⟦83⟧⟦160⟧⟦106⟧⟦56⟧⟦218⟧⟦241⟧⟦187⟧⟦233⟧⟦17⟧⟦54⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦6⟧⟦216⟧⟦20⟧⟦234⟧⟦215⟧⟦99⟧⟦7⟧⟦109⟧⟦192⟧⟦234⟧⟦182⟧⟦28⟧⟦9⟧⟦217⟧⟦223⟧⟦60⟧⟦53⟧⟦13⟧⟦229⟧⟦119⟧⟦31⟧⟦136⟧⟦86⟧⟦240⟧⟦112⟧⟦112⟧⟦207⟧⟦149⟧⟦4⟧⟦233⟧⟦183⟧⟦28⟧⟦229⟧⟦142⟧⟦52⟧⟦226⟧⟦92⟧⟦92⟧⟦5⟧⟦64⟧⟦102⟧⟦35⟧⟦144⟧⟦180⟧⟦63⟧⟦144⟧⟦1⟧⟦26⟧⟦168⟧⟦120⟧⟦28⟧⟦118⟧⟦41⟧⟦76⟧⟦193⟧⟦46⟧⟦28⟧⟦117⟧⟦117⟧⟦150⟧⟦151⟧⟦66⟧⟦81⟧⟦235⟧⟦93⟧⟦197⟧⟦63⟧⟦226⟧⟦92⟧⟦92⟧⟦208⟧⟦146⟧⟦161⟧⟦63⟧⟦213⟧⟦33⟧⟦103⟧⟦28⟧⟦3⟧⟦92⟧⟦92⟧⟦14⟧⟦216⟧⟦41⟧⟦76⟧⟦12⟧⟦212⟧⟦232⟧⟦17⟧⟦54⟧⟦28⟧⟦30⟧⟦168⟧⟦205⟧⟦36⟧⟦214⟧⟦243⟧⟦91⟧⟦186⟧⟦36⟧⟦232⟧⟦220⟧⟦238⟧⟦203⟧⟦78⟧⟦211⟧⟦37⟧⟦22⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦108⟧⟦48⟧⟦128⟧⟦128⟧⟦108⟧⟦194⟧⟦100⟧⟦36⟧⟦155⟧⟦105⟧⟦15⟧⟦47⟧⟦96⟧⟦232⟧⟦88⟧⟦36⟧⟦158⟧⟦158⟧⟦244⟧⟦37⟧⟦132⟧⟦62⟧⟦174⟧⟦28⟧⟦230⟧⟦244⟧⟦84⟧⟦45⟧⟦85⟧⟦59⟧⟨î⟩⟨ï⟩⟦202⟧⟨ð⟩⟦22⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦128⟧⟦128⟧⟦70⟧⟦164⟧⟦110⟧⟦201⟧⟦37⟧⟦132⟧⟦122⟧⟦40⟧⟦182⟧⟦28⟧⟦169⟧⟦169⟧⟦124⟧⟦147⟧⟦209⟧⟦28⟧⟦119⟧⟦244⟧⟨Č⟩⟦23⟧⟦36⟧⟨č⟩⟨Ď⟩⟦37⟧⟦32⟧⟦200⟧⟦73⟧⟦154⟧⟦171⟧⟦165⟧⟦166⟧⟦45⟧⟦206⟧⟦114⟧⟦36⟧⟨Ě⟩⟦119⟧⟨ě⟩⟦27⟧⟨Ĝ⟩⟦156⟧⟨ĝ⟩⟦39⟧⟨Ğ⟩⟦67⟧⟨ğ⟩⟦203⟧⟦78⟧⟦217⟧⟦138⟧⟦138⟧⟦189⟧⟦187⟧⟦232⟧⟦17⟧⟦54⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦169⟧⟦169⟧⟦11⟧⟦244⟧⟨Ĳ⟩⟦89⟧⟦146⟧⟨Ĵ⟩⟦45⟧⟦140⟧⟦182⟧⟦28⟧⟦19⟧⟦175⟧⟦188⟧⟦148⟧⟦179⟧⟦10⟧⟦125⟧⟦141⟧⟦98⟧⟦175⟧⟦25⟧⟦240⟧⟦182⟧⟦28⟧⟦121⟧⟦159⟧⟦232⟧⟦97⟧⟦199⟧⟦236⟧⟦133⟧⟦165⟧⟦170⟧⟦18⟧⟦55⟧⟦119⟧⟦132⟧⟦244⟧⟦219⟧⟦236⟧⟦69⟧⟦69⟧⟦186⟧⟦36⟧⟦97⟧⟦95⟧⟦95⟧⟦37⟧⟦94⟧⟦57⟧⟦228⟧⟦204⟧⟦172⟧⟦186⟧⟦36⟧⟦24⟧⟦143⟧⟦178⟧⟦178⟧⟦190⟧⟦196⟧⟦152⟧⟦227⟧⟦237⟧⟦222⟧⟦177⟧⟦157⟧⟦68⟧⟦80⟧⟦64⟧⟦64⟧⟦191⟧⟦181⟧⟦174⟧⟨Ź⟩⟦28⟧⟦134⟧⟦165⟧⟦170⟧⟦8⟧⟦145⟧⟦232⟧⟦61⟧⟦42⟧⟦169⟧⟦169⟧⟦119⟧⟦225⟧⟦64⟧⟦64⟧⟦139⟧⟦184⟧⟦33⟧⟦43⟧⟦173⟧⟦111⟧⟦176⟧⟦113⟧⟦115⟧⟦129⟧⟦74⟧⟦77⟧⟦50⟧⟦137⟧⟦104⟧⟦75⟧⟦116⟧⟦49⟧⟦123⟧⟦58⟧⟦162⟧⟦232⟧⟦195⟧⟦210⟧⟦236⟧⟦133⟧⟦165⟧⟦170⟧⟦130⟧⟦243⟧⟦195⟧⟦55⟧⟦231⟧⟦79⟧⟦107⟧⟦225⟧⟦72⟧⟦127⟧⟦102⟧⟦221⟧⟦169⟧⟦224⟧⟦236⟧⟦126⟧⟦242⟧⟦87⟧⟦29⟧⟦71⟧⟦169⟧⟦44⟧⟦2⟧⟦219⟧⟦236⟧⟦100⟧⟦101⟧⟦165⟧⟦82⟧⟦135⟧⟦167⟧⟦153⟧⟦232⟧⟦38⟧⟦163⟧⟦195⟧⟦55⟧⟦90⟧⟦239⟧⟦16⟧⟦51⟧
+
+问题：
+The Story of Them Featuring Van Morrison is a compilation album recorded by what Northern Irish band formed in Belfast in April 1964?
+
+Recall 截断：
+⟦34⟧⟦133⟧⟦165⟧⟦170⟧⟦21⟧⟦65⟧⟦28⟧⟦185⟧⟦55⟧⟦198⟧⟦131⟧⟦83⟧⟦160⟧⟦106⟧⟦56⟧⟦218⟧⟦241⟧⟦187⟧⟦233⟧⟦17⟧⟦54⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦6⟧⟦216⟧⟦20⟧⟦234⟧⟦215⟧⟦99⟧⟦7⟧⟦109⟧⟦192⟧⟦234⟧⟦182⟧⟦28⟧⟦9⟧⟦217⟧⟦223⟧⟦60⟧⟦53⟧⟦13⟧⟦229⟧⟦119⟧⟦31⟧⟦136⟧⟦86⟧⟦240⟧⟦112⟧⟦112⟧⟦207⟧⟦149⟧⟦4⟧⟦233⟧⟦183⟧⟦28⟧⟦229⟧⟦142⟧⟦52⟧⟦226⟧⟦92⟧⟦92⟧⟦5⟧⟦64⟧⟦102⟧⟦35⟧⟦144⟧⟦180⟧⟦63⟧⟦144⟧⟦1⟧⟦26⟧⟦168⟧⟦120⟧⟦28⟧⟦118⟧⟦41⟧⟦76⟧⟦193⟧⟦46⟧⟦28⟧⟦117⟧⟦117⟧⟦150⟧⟦151⟧⟦66⟧⟦81⟧⟦235⟧⟦93⟧⟦197⟧⟦63⟧⟦226⟧⟦92⟧⟦92⟧⟦208⟧⟦146⟧⟦161⟧⟦63⟧⟦213⟧⟦33⟧⟦103⟧⟦28⟧⟦3⟧⟦92⟧⟦92⟧⟦14⟧⟦216⟧⟦41⟧⟦76⟧⟦12⟧⟦212⟧⟦232⟧⟦17⟧⟦54⟧⟦28⟧⟦30⟧⟦168⟧⟦205⟧⟦36⟧⟦214⟧⟦243⟧⟦91⟧⟦186⟧⟦36⟧⟦232⟧⟦220⟧⟦238⟧⟦203⟧⟦78⟧⟦211⟧⟦37⟧⟦22⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦108⟧⟦48⟧⟦128⟧⟦128⟧⟦108⟧⟦194⟧⟦100⟧⟦36⟧⟦155⟧⟦105⟧⟦15⟧⟦47⟧⟦96⟧⟦232⟧⟦88⟧⟦36⟧⟦158⟧⟦158⟧⟦244⟧⟦37⟧⟦132⟧⟦62⟧⟦174⟧⟦28⟧⟦230⟧⟦244⟧⟦84⟧⟦45⟧⟦85⟧⟦59⟧⟨î⟩⟨ï⟩⟦202⟧⟨ð⟩⟦22⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦128⟧⟦128⟧⟦70⟧⟦164⟧⟦110⟧⟦201⟧⟦37⟧⟦132⟧⟦122⟧⟦40⟧⟦182⟧⟦28⟧⟦169⟧⟦169⟧⟦124⟧⟦147⟧⟦209⟧⟦28⟧⟦119⟧⟦244⟧⟨Č⟩⟦23⟧⟦36⟧⟨č⟩⟨Ď⟩⟦37⟧⟦32⟧⟦200⟧⟦73⟧⟦154⟧⟦171⟧⟦165⟧⟦166⟧⟦45⟧⟦206⟧⟦114⟧⟦36⟧⟨Ě⟩⟦119⟧⟨ě⟩⟦27⟧⟨Ĝ⟩⟦156⟧⟨ĝ⟩⟦39⟧⟨Ğ⟩⟦67⟧⟨ğ⟩⟦203⟧⟦78⟧⟦217⟧⟦138⟧⟦138⟧⟦189⟧⟦187⟧⟦232⟧⟦17⟧⟦54⟧⟦28⟧⟦133⟧⟦165⟧⟦170⟧⟦169⟧⟦169⟧⟦11⟧⟦244⟧⟨Ĳ⟩⟦89⟧⟦146⟧⟨Ĵ⟩⟦45⟧⟦140⟧⟦182⟧⟦28⟧⟦19⟧⟦175⟧⟦188⟧⟦148⟧⟦179⟧⟦10⟧⟦125⟧⟦141⟧⟦98⟧⟦175⟧⟦25⟧⟦240⟧⟦182⟧⟦28⟧⟦121⟧⟦159⟧⟦232⟧⟦97⟧⟦199⟧⟦236⟧⟦133⟧⟦165⟧⟦170⟧⟦18⟧⟦55⟧⟦119⟧⟦132⟧⟦244⟧⟦219⟧⟦236⟧⟦69⟧⟦69⟧⟦186⟧⟦36⟧⟦97⟧⟦95⟧⟦95⟧⟦37⟧⟦94⟧⟦57⟧⟦228⟧⟦204⟧⟦172⟧⟦186⟧⟦36⟧⟦24⟧⟦143⟧⟦178⟧⟦178⟧⟦190⟧⟦196⟧⟦152⟧⟦227⟧⟦237⟧⟦222⟧⟦177⟧⟦157⟧⟦68⟧⟦80⟧⟦64⟧⟦64⟧⟦191⟧⟦181⟧⟦174⟧⟨Ź⟩⟦28⟧⟦134⟧⟦165⟧⟦170⟧⟦8⟧⟦145⟧⟦232⟧⟦61⟧⟦42⟧⟦169⟧⟦169⟧⟦119⟧⟦225⟧⟦64⟧⟦64⟧⟦139⟧⟦184⟧⟦33⟧⟦43⟧⟦173⟧⟦111⟧⟦176⟧⟦113⟧⟦115⟧⟦129⟧⟦74⟧⟦77⟧⟦50⟧⟦137⟧⟦104⟧⟦75⟧⟦116⟧⟦49⟧⟦123⟧⟦58⟧⟦162⟧⟦232⟧⟦195⟧⟦210⟧⟦236⟧⟦133⟧⟦165⟧⟦170⟧⟦130⟧⟦243⟧⟦195⟧⟦55⟧⟦231⟧⟦79⟧⟦107⟧⟦225⟧⟦72⟧⟦127⟧⟦102⟧⟦221⟧⟦169⟧⟦224⟧⟦236⟧⟦126⟧⟦242⟧⟦87⟧⟦29⟧⟦71⟧⟦169⟧⟦44⟧⟦2⟧⟦219⟧⟦236⟧⟦100⟧⟦101⟧⟦165⟧⟦82⟧⟦135⟧⟦167⟧⟦153⟧⟦232⟧⟦38⟧⟦163⟧⟦195⟧⟦55⟧⟦90⟧⟦239⟧⟦16⟧⟦51⟧
+
+占位符映射：
+⟨î⟩ =  in 2002.
+⟨ï⟩ = Live at 
+⟨ð⟩ =  is 
+⟨Č⟩ = Them were 
+⟨č⟩ = 
+⟨Ď⟩ =  formed in 
+⟨Ě⟩ =  consisted of 
+⟨ě⟩ = , 
+⟨Ĝ⟩ = , 
+⟨ĝ⟩ = , 
+⟨Ğ⟩ =  and 
+⟨ğ⟩ = .
+⟨Ĳ⟩ =  of 
+⟨Ĵ⟩ =  
+⟨Ź⟩ =  
+
+---
+
+要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。
+
+格式：
+
+# 路径一：[标题]
+
+步骤1：使用⟦X⟧，提取...
+步骤2：综合⟦Y⟧⟦Z⟧，对比...
+
+结论：[此路径结论]
+
+（继续路径二、三...）
+
+**引用规范**：
+- 单个材料：使用⟦N⟧，提取...，判断...
+- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...
+
+**推理策略**：
+- 对比论证：对比不同材料中的矛盾或差异
+- 交叉验证：从多个材料中找到互相支撑的证据
+- 综合支撑：从多处提取一致的特征或模式

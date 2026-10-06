@@ -1,0 +1,138 @@
+[
+  {
+    "qid": "hotpot_373",
+    "question": "which is traditionally drunk before retiring to bed, Hot toddy or Kir?",
+    "expectedAnswer": "Hot toddy",
+    "predictedAnswer": "# 路径一：Hot toddy 的夜间/睡前传统\n\n步骤1：使用⟦13⟧⟦91⟧，提取候选饮料之一为 Hot toddy / Hot toddy。  \n步骤2：综合⟦93⟧⟦95⟧⟦207⟧，Hot toddy 又称 hot whiskey，并与 Ireland、whiskey 相关，属于热饮型烈酒饮料。  \n步骤3：综合⟦178⟧⟦118⟧⟦206⟧⟦205⟧，拓扑链中 Hot toddy 段紧接 the night / night 与 wet or cold weather / weather，说明其传统使用场景是夜间、湿冷天气。  \n步骤4：综合⟦183⟧⟦155⟧⟦70⟧⟦184⟧⟦201⟧⟦79⟧，该饮料还与 symptoms、flu、vitamin C、health 相连，符合睡前饮用以缓解感冒的传统用法。  \n\n结论：Hot toddy 是传统上睡前饮用的选项。\n\n# 路径二：Kir 的鸡尾酒定位排除睡前传统\n\n步骤1：使用⟦102⟧，提取 Kir。  \n步骤2：综合⟦18⟧⟦51⟧，Kir 被描述为 a popular French cocktail / cocktail，而非夜间热饮。  \n步骤3：综合⟦55⟧⟦44⟧⟦2⟧⟦39⟧⟦208⟧⟦209⟧，Kir 由 crème de cassis、blackcurrant liqueur 与 white wine / wine 组成，属于法国鸡尾酒配方。  \n步骤4：对比 Hot toddy 段中的⟦178⟧⟦118⟧⟦206⟧，Kir 段没有 night / wet or cold weather 等睡前语境。  \n\n结论：Kir 不是传统睡前饮用；应选 Hot toddy。\n\n# 路径三：拓扑链交叉验证\n\n步骤1：使用⟦92⟧⟦189⟧⟦135⟧，Hot toddy recipes / toddy / recipes 位于同一拓扑链。  \n步骤2：综合⟦178⟧⟦118⟧⟦206⟧⟦205⟧，该链把 Hot toddy 与 the night / night、wet or cold weather / weather 直接相邻。  \n步骤3：对比⟦102⟧⟦18⟧⟦51⟧⟦55⟧⟦208⟧，Kir 相邻的是 French cocktail、cocktail、crème de cassis、white wine，属于鸡尾酒/开胃酒语境。  \n步骤4：再综合⟦167⟧⟦63⟧⟦183⟧⟦155⟧⟦70⟧，Hot toddy 段还出现 the drink / drink、symptoms / flu，进一步支撑其夜间或病时饮用。  \n\n结论：交叉验证后，传统上睡前饮用的是 Hot toddy。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦13⟧⟨A⟩⟦189⟧⟨B⟩⟦93⟧⟦207⟧⟦95⟧⟦17⟧⟦63⟧⟦106⟧⟦106⟧⟦204⟧",
+    "nounCount": 276,
+    "score": 0.8,
+    "recallUsage": {
+      "prompt_tokens": 6505,
+      "completion_tokens": 266,
+      "total_tokens": 6771,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6505
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 3670,
+      "completion_tokens": 5839,
+      "total_tokens": 9509,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 5198
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3670
+    }
+  },
+  {
+    "qid": "hotpot_4427",
+    "question": "Are Mike Bryan and Ray Ruffels both tennis players?",
+    "expectedAnswer": "yes",
+    "predictedAnswer": "# 路径一：直接职业描述验证\n\n步骤1：使用⟦118⟧⟦119⟧，提取 Michael Carl Bryan 与 Mike Bryan 的名称对应关系，判断 Mike Bryan 即 Michael Carl Bryan 的常用称呼。\n\n步骤2：结合⟦118⟧⟦34⟧，提取 Michael Carl Bryan 被描述为 “an American professional tennis player”，因此 Mike Bryan 是职业网球运动员。\n\n步骤3：使用⟦151⟧⟦150⟧⟦36⟧，提取 Raymond Owen \"Ray\" Ruffels 即 Ray Ruffels，并被描述为 “an Australian former professional tennis player”，因此 Ray Ruffels 也是网球运动员。\n\n结论：是。Mike Bryan 和 Ray Ruffels 都是网球运动员。\n\n# 路径二：赛事冠军语境与职业描述交叉验证\n\n步骤1：使用⟦51⟧⟦119⟧⟦197⟧⟦76⟧⟦59⟧，提取 Bob 与 Mike Bryan 出现在双打冠军语境中，判断 Mike Bryan 参与网球双打赛事并具有冠军身份。\n\n步骤2：使用⟦150⟧⟦195⟧⟦59⟧，提取 Ray Ruffels 与 Allan Stone 出现在卫冕冠军语境中，判断 Ray Ruffels 也参与网球竞赛并具有冠军身份。\n\n步骤3：综合⟦34⟧⟦36⟧⟦174⟧⟦142⟧，两人的赛事语境最终都与 “professional tennis player / former professional tennis player” 的职业描述一致。\n\n结论：是。赛事冠军语境和职业描述相互支撑，表明二者都是网球运动员。\n\n# 路径三：职业类别对比排除干扰\n\n步骤1：使用⟦34⟧，提取 Mike Bryan 的职业类别为 “American professional tennis player”。\n\n步骤2：使用⟦36⟧，提取 Ray Ruffels 的职业类别为 “Australian former professional tennis player”。\n\n步骤3：综合⟦174⟧⟦142⟧⟦177⟧，比较两者标签，虽然国籍不同、现役状态不同，但共同包含 tennis / player 特征，因此都属于网球运动员。\n\n结论：是。国籍和现役状态差异不影响判断，Mike Bryan 和 Ray Ruffels 都是网球运动员。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦183⟧⟦22⟧⟦174⟧⟦79⟧⟦182⟧⟦110⟧⟦181⟧⟦157⟧⟦251⟧⟦225⟧⟦162⟧⟦57⟧",
+    "nounCount": 373,
+    "score": 0,
+    "recallUsage": {
+      "prompt_tokens": 6505,
+      "completion_tokens": 266,
+      "total_tokens": 6771,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6505
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 4804,
+      "completion_tokens": 4653,
+      "total_tokens": 9457,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 4175
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 4804
+    }
+  },
+  {
+    "qid": "hotpot_1304",
+    "question": "Was Cars 2 released by the same company which used songs written by Lin-Manuel Miranda in another of",
+    "expectedAnswer": "yes",
+    "predictedAnswer": "# 路径一：先确认 Cars 2 的发行方，再核对 Moana 的歌曲作者与公司\n\n步骤1：使用⟦12⟧，提取 Cars 2 是“a 2011 American computer-animated action comedy spy film”；再综合⟦251⟧⟦200⟧⟦220⟧⟦7⟧⟦60⟧，确认它是 2006 年《Cars》的续集，即《Cars 2》。\n\n步骤2：综合⟦178⟧⟦275⟧，该片与 Pixar Animation Studios 及 Walt Disney Pictures 关联；在拓扑链中，⟦12⟧ 后接 ⟦178⟧⟦275⟧，可判断《Cars 2》的发行方为 Walt Disney Pictures / Disney。\n\n步骤3：综合⟦157⟧⟦222⟧，另一部电影是《Moana》，即“the 2016 Disney animated film”；再综合⟦139⟧⟦144⟧⟦87⟧⟦209⟧⟦254⟧，Lin-Manuel Miranda 参与了 Disney 的《Moana》原声歌曲/歌词创作。\n\n结论：是。《Cars 2》由 Disney 体系下的 Walt Disney Pictures 发行，而 Disney 又在《Moana》中使用了 Lin-Manuel Miranda 创作的歌曲。\n\n# 路径二：从 Lin-Manuel Miranda 的 Disney 歌曲反推公司\n\n步骤1：使用⟦139⟧，提取 Lin-Manuel Miranda；综合⟦144⟧⟦147⟧⟦168⟧，提取《Moana》歌曲/歌词由 Lin-Manuel Miranda、Mark Mancina、Opetaia Foa'i 等人参与创作。\n\n步骤2：综合⟦157⟧⟦222⟧⟦87⟧⟦254⟧⟦209⟧⟦276⟧，这些歌曲属于“Disney's Moana soundtrack”，对应 2016 Disney 动画电影《Moana》，并由 Walt Disney Records 发行，因此使用这些歌曲的公司是 Disney。\n\n步骤3：综合⟦12⟧⟦178⟧⟦275⟧，识别《Cars 2》为 2011 年动画间谍电影，并与 Pixar Animation Studios、Walt Disney Pictures 关联，即同样属于 Disney/Walt Disney 体系。\n\n结论：是。Disney 在《Moana》中使用了 Lin-Manuel Miranda 的歌曲，而《Cars 2》也由 Disney 体系发行。\n\n# 路径三：用公司层面交叉验证\n\n步骤1：使用⟦12⟧⟦220⟧⟦251⟧，确认《Cars 2》是《Cars》的续集，属于 Disney/Pixar 的动画电影序列。\n\n步骤2：综合⟦178⟧⟦275⟧，提取其制作/发行关联方为 Pixar Animation Studios 与 Walt Disney Pictures；Walt Disney Pictures 属于 The Walt Disney Company / Disney。\n\n步骤3：综合⟦87⟧⟦222⟧⟦276⟧，提取《Moana》是 Disney 动画电影，其原声属于 Disney's “Moana” soundtrack，并由 Walt Disney Records 发行；再结合⟦139⟧⟦144⟧，Lin-Manuel Miranda 为该片写歌。\n\n结论：是。《Cars 2》的发行方与使用 Lin-Manuel Miranda 歌曲的《Moana》所属公司均为 Disney/Walt Disney 体系。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦60⟧⟨A⟩⟦60⟧⟨B⟩⟦60⟧⟨C⟩⟦60⟧⟨D⟩⟦258⟧⟨E⟩⟦24⟧⟨F⟩",
+    "nounCount": 411,
+    "score": 0,
+    "recallUsage": {
+      "prompt_tokens": 6505,
+      "completion_tokens": 266,
+      "total_tokens": 6771,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6505
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 5318,
+      "completion_tokens": 6253,
+      "total_tokens": 11571,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 5493
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 5318
+    }
+  },
+  {
+    "qid": "hotpot_5239",
+    "question": "What country are both Dafeng District and Jixi in?",
+    "expectedAnswer": "China",
+    "predictedAnswer": "# 路径一：行政隶属直接链\n\n步骤1：使用⟦31⟧，提取“Dafeng District”是一个行政区；结合⟦30⟧，确认其名称为 Dafeng/Dafeng District。  \n步骤2：综合⟦95⟧⟦44⟧⟦65⟧⟦23⟧，提取 Dafeng District 关联 Yancheng、Jiangsu province、China，判断其行政背景属于中国江苏省盐城。  \n步骤3：使用⟦47⟧，提取“Jixi”；综合⟦38⟧⟦65⟧⟦62⟧⟦23⟧，Jixi 关联 Heilongjiang province、People's Republic、China，判断其属于中国黑龙江省。  \n步骤4：对比步骤2和步骤3，Dafeng District 与 Jixi 虽然分属不同省份，但共同上位国家节点都是⟦23⟧ China，并可由⟦62⟧ People's Republic 对应为中华人民共和国。  \n\n结论：Dafeng District 和 Jixi 都在中国（中华人民共和国）。\n\n# 路径二：省级交叉验证\n\n步骤1：综合⟦31⟧⟦95⟧⟦44⟧⟦65⟧，提取 Dafeng District 与 Yancheng、Jiangsu province 的隶属关系，说明其位于江苏省体系内。  \n步骤2：综合⟦47⟧⟦38⟧⟦65⟧，提取 Jixi 与 Heilongjiang province 的隶属关系，说明其位于黑龙江省体系内。  \n步骤3：使用⟦23⟧，提取“China”作为共同国家；再结合⟦62⟧“People's Republic”，确认该国家为中华人民共和国。  \n步骤4：交叉验证：Jiangsu province 与 Heilongjiang province 都处在⟦23⟧ China 的国家层级下，因此 Dafeng District 与 Jixi 的共同国家一致。  \n\n结论：两者同属中国。\n\n# 路径三：地理与政治语境辅助\n\n步骤1：综合⟦30⟧⟦31⟧⟦10⟧⟦34⟧，提取 Dafeng District 是 Dafeng 相关行政区，并被描述为 a coastal district/district。  \n步骤2：综合⟦95⟧⟦44⟧⟦65⟧⟦23⟧，提取其地理行政语境为 Yancheng、Jiangsu province、China。  \n步骤3：综合⟦47⟧⟦70⟧⟦37⟧⟦62⟧⟦23⟧，提取 Jixi 位于 southeastern Heilongjiang Province，并关联 People's Republic、China。  \n步骤4：对比两者所在的省级语境，Dafeng District 在江苏、Jixi 在黑龙江，但两者最终都归属⟦23⟧ China。  \n\n结论：Dafeng District 和 Jixi 的共同国家是中国。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦53⟧⟦13⟧⟦34⟧⟦79⟧⟦25⟧⟦47⟧⟦37⟧⟦62⟧⟦23⟧⟦47⟧⟦9⟧⟦25⟧",
+    "nounCount": 176,
+    "score": 0.8,
+    "recallUsage": {
+      "prompt_tokens": 6505,
+      "completion_tokens": 266,
+      "total_tokens": 6771,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6505
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 2127,
+      "completion_tokens": 2875,
+      "total_tokens": 5002,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2235
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2127
+    }
+  }
+]

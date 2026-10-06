@@ -1,0 +1,138 @@
+[
+  {
+    "qid": "hotpot_5973",
+    "question": "Mía Maestro had a role in the 2002 biopic directed by whom?",
+    "expectedAnswer": "Julie Taymor",
+    "predictedAnswer": "# 路径一：从“2002 biopic”定位影片再找导演\n\n步骤1：使用⟦10⟧，提取“a 2002 American biopic drama film”；使用⟦59⟧，提取片名“Frida”；使用⟦29⟧，确认其为“biopic”。综合判断：2002年的传记片是《Frida》。\n\n步骤2：结合拓扑链中 ⟦59⟧⟦10⟧⟦29⟧…⟨ directed by ⟩⟦79⟧，并引用⟦79⟧“Julie Taymor”，判断《Frida》的导演是 Julie Taymor。\n\n结论：Mía Maestro 参演的 2002 biopic 是《Frida》，导演为 **Julie Taymor**。\n\n# 路径二：从 Mía Maestro 的角色链定位到《Frida》\n\n步骤1：使用⟦90⟧“Mía Maestro”与⟦27⟧“Argentine actress Mía Maestro”，确认问题中的人物是 Mía Maestro。\n\n步骤2：综合⟦38⟧“Christina Kahlo”与⟦59⟧“Frida”，并结合拓扑链中角色链段 ⟦38⟧⟦59⟧，判断 Mía Maestro 在《Frida》中有一个角色，即 Christina/Cristina Kahlo。\n\n步骤3：使用⟦59⟧⟦10⟧确认《Frida》是 2002 年传记片；再使用⟦79⟧“Julie Taymor”，得到导演信息。\n\n结论：Mía Maestro 在《Frida》中的角色由 **Julie Taymor** 执导。\n\n# 路径三：通过传记对象与导演信息交叉验证\n\n步骤1：使用⟦151⟧“the surrealist Mexican painter Frida Kahlo”、⟦60⟧“Frida Kahlo”、⟦59⟧“Frida”，确认《Frida》是关于 Frida Kahlo 的传记片。\n\n步骤2：使用⟦10⟧“a 2002 American biopic drama film”与⟦29⟧“biopic”，确认该片符合“2002 biopic”描述。\n\n步骤3：使用⟦79⟧“Julie Taymor”，并与拓扑链中 ⟨ directed by ⟩⟦79⟧ 交叉验证，确认导演为 Julie Taymor。\n\n结论：该 2002 biopic 的导演是 **Julie Taymor**。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦120⟧⟦53⟧⟦56⟧⟦11⟧⟦44⟧⟦58⟧⟦77⟧⟦90⟧⟦73⟧⟦116⟧⟦141⟧⟦58⟧",
+    "nounCount": 210,
+    "score": 0.8,
+    "recallUsage": {
+      "prompt_tokens": 3671,
+      "completion_tokens": 111,
+      "total_tokens": 3782,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3671
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 3082,
+      "completion_tokens": 4672,
+      "total_tokens": 7754,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 4145
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3082
+    }
+  },
+  {
+    "qid": "hotpot_2623",
+    "question": "Where did the designer of the Van de Graaff generator teach at?",
+    "expectedAnswer": "Princeton University and Massachusetts Institute of Technology",
+    "predictedAnswer": "# 路径一：设计者身份直连\n\n步骤1：使用⟦239⟧⟦102⟧⟦259⟧，提取“the designer”与“the Van de Graaff generator”，锁定问题对象为 Van de Graaff 发电机的设计者。\n\n步骤2：综合⟦186⟧⟦42⟧⟦204⟧，材料将设计者对应到 “physicist Robert J. Van de Graaff” / “Robert Jemison Van de Graaff”。\n\n步骤3：综合⟦139⟧⟦101⟧⟦94⟧⟦138⟧，该人物以“his design”和“construction”关联到 high-voltage Van de Graaff generators。\n\n步骤4：综合⟦195⟧与⟦160⟧⟦225⟧，同一传记链列出 Princeton University 和 Massachusetts Institute of Technology。\n\n结论：设计者 Robert J. Van de Graaff 的教学/任职机构是普林斯顿大学和麻省理工学院（MIT）。\n\n# 路径二：生平句链重建\n\n步骤1：使用⟦204⟧及占位符映射，重建 “Robert Jemison Van de Graaff ... was an American engineer”，确认人物。\n\n步骤2：综合⟦48⟧⟦115⟧⟦185⟧，确认其身份为 American engineer / physicist。\n\n步骤3：使用⟦101⟧⟦139⟧⟦94⟧⟦138⟧，把“design/construction”与 high-voltage Van de Graaff generators 绑定。\n\n步骤4：使用⟦195⟧和⟦160⟧⟦225⟧，句法链以“and”连接 Princeton University 与 Massachusetts Institute Technology。\n\n结论：从生平句重建可知，该设计者与 Princeton University 和 MIT 相关；按“teach at/任职”理解，答案为这两所。\n\n# 路径三：排除同名干扰\n\n步骤1：使用⟦70⟧⟦124⟧⟦146⟧⟦27⟧，识别 Dutch rower/cox 等其他 van de Graaff，与发电机设计者无关。\n\n步骤2：使用⟦2⟧⟦3⟧⟦49⟧⟦119⟧，识别 Bully Van de Graaff 是 football player，非设计者。\n\n步骤3：使用⟦245⟧⟦43⟧⟦295⟧，识别 ZZ Top tour/productions 与发电机无关。\n\n步骤4：综合⟦204⟧⟦259⟧⟦127⟧，唯一匹配的是 Robert Jemison Van de Graaff 与 Van de Graaff generator。\n\n结论：排除干扰后仍指向 Robert J. Van de Graaff，其机构为 Princeton University 和 MIT。\n\n综合结论：设计者 Robert J. Van de Graaff 曾在/任教于普林斯顿大学（Princeton University）和麻省理工学院（MIT）。若只问最典型的教授教职，通常答 Massachusetts Institute of Technology（MIT）。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦245⟧⟦13⟧⟦93⟧⟦268⟧⟦257⟧⟦76⟧⟦43⟧⟦205⟧⟦61⟧⟦32⟧⟦214⟧⟦246⟧",
+    "nounCount": 394,
+    "score": 1,
+    "recallUsage": {
+      "prompt_tokens": 6462,
+      "completion_tokens": 117,
+      "total_tokens": 6579,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6462
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 5151,
+      "completion_tokens": 9705,
+      "total_tokens": 14856,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 9066
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 5151
+    }
+  },
+  {
+    "qid": "hotpot_6107",
+    "question": "Of all the teams John Nyskohus played for, which team was known as \"the Black and Whites?\"",
+    "expectedAnswer": "Adelaide City",
+    "predictedAnswer": "# 路径一：直接职业经历定位\n\n步骤1：使用⟦89⟧，并结合其后占位符 ⟨Ž⟩、⟨ƀ⟩ 与⟦52⟧⟦53⟧⟦184⟧⟦170⟧⟦26⟧⟦153⟧，提取 John Nyskohus 是前澳大利亚足球运动员，其俱乐部足球经历中包括 USC Lion、South Australian State League、Adelaide City、National Soccer League 等。\n\n步骤2：综合⟦27⟧⟦25⟧⟦120⟧⟦2⟧⟦192⟧⟦1⟧⟦191⟧，提取 Adelaide City Football Club 位于 Adelaide, South Australia，别称为 “The Zebras”/“Zebras”，并被称为 “the Black and Whites”。\n\n步骤3：交叉验证：John Nyskohus 的职业经历中出现了 ⟦26⟧ Adelaide City，而 “the Black and Whites” 的别称正属于 ⟦27⟧ Adelaide City Football Club。\n\n结论：John Nyskohus 效力过的球队中，被称为 “the Black and Whites” 的是 **Adelaide City**，即 **Adelaide City Football Club（The Zebras）**。\n\n# 路径二：别名共现排除\n\n步骤1：使用⟦2⟧⟦192⟧⟦1⟧⟦191⟧，材料链中 “The Zebras/Zebras” 与 “the Black and Whites” 连续共现，说明这两个别称指向同一俱乐部。\n\n步骤2：使用⟦89⟧及其后的⟦184⟧⟦170⟧⟦26⟧⟦153⟧，提取 John Nyskohus 的球队/比赛经历包括 USC Lion、South Australian State League、Adelaide City、National Soccer League 等。\n\n步骤3：对比其他候选：⟦184⟧ USC Lion 和⟦38⟧ Australia 未与 “the Black and Whites” 在材料中相关联；只有 ⟦26⟧ Adelaide City 同时与 “Zebras” 和 “the Black and Whites” 材料相连。\n\n结论：因此答案是 **Adelaide City**。\n\n# 路径三：拓扑链关键片段定位\n\n步骤1：在拓扑链中定位 “the Black and Whites” 的构成：⟦1⟧ + 占位符 ⟨⟩ + ⟦191⟧，并紧邻⟦2⟧⟦192⟧，对应 “The Zebras” 与 “the Black and Whites”。\n\n步骤2：该片段前接⟦27⟧⟦25⟧⟦120⟧，说明该别称属于 Adelaide City Football Club，位于 Adelaide, South Australia。\n\n步骤3：综合⟦89⟧及其后⟦26⟧⟦153⟧，John Nyskohus 的职业经历中确实包含 Adelaide City 和 National Soccer League 等。\n\n结论：John Nyskohus 效力过且被称为 “the Black and Whites” 的球队是 **Adelaide City Football Club**，简称 **Adelaide City**。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦21⟧⟦115⟧⟦72⟧⟦35⟧⟦72⟧⟦64⟧⟦20⟧⟦115⟧⟦71⟧⟦24⟧⟦115⟧⟦71⟧",
+    "nounCount": 513,
+    "score": 0.8,
+    "recallUsage": {
+      "prompt_tokens": 6550,
+      "completion_tokens": 99,
+      "total_tokens": 6649,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6550
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 4783,
+      "completion_tokens": 6271,
+      "total_tokens": 11054,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 5603
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 4783
+    }
+  },
+  {
+    "qid": "hotpot_1700",
+    "question": "What supernatural horror film did Miles Doleac have a role in?",
+    "expectedAnswer": "Sleepy Hollow",
+    "predictedAnswer": "# 路径一：直接传记链定位\n\n步骤1：使用⟦155⟧⟦156⟧，确认目标人物是 Miles Christopher Doleac / Miles Doleac。  \n步骤2：综合⟦51⟧⟦44⟧⟦43⟧⟦193⟧，材料将其描述为美国影视演员，并提到其 acting roles / roles。  \n步骤3：综合⟦261⟧⟦109⟧⟦8⟧⟦239⟧⟦27⟧，其近期电影列表包含 The Magnificent Seven 和 The Apparition；其中 The Apparition 被明确标为 a 2012 American supernatural horror film。  \n\n结论：Miles Doleac 参演的超自然恐怖片是 **The Apparition**。\n\n# 路径二：影片属性交叉验证\n\n步骤1：使用⟦239⟧⟦27⟧，确定 The Apparition 是 2012 年美国超自然恐怖片。  \n步骤2：综合⟦122⟧⟦108⟧⟦276⟧⟦118⟧，确认它属于 horror film，由 Todd Lincoln 执导，且是其导演处女作。  \n步骤3：综合⟦55⟧⟦201⟧⟦277⟧⟦140⟧⟦190⟧，该片主演包括 Ashley Greene、Sebastian Stan、Tom Felton、Julianna Guill、Rick Gomez，进一步锁定同一影片。  \n步骤4：结合⟦156⟧与⟦43⟧⟦193⟧⟦261⟧⟦109⟧⟦239⟧，Miles Doleac 的 acting roles 中出现 The Apparition。  \n\n结论：交叉验证支持答案为 **The Apparition**。\n\n# 路径三：排除其他候选\n\n步骤1：使用⟦24⟧⟦26⟧⟦25⟧⟦22⟧⟦23⟧⟦27⟧，材料中另有多部被描述为 supernatural horror film 的候选。  \n步骤2：综合⟦156⟧⟦30⟧⟦251⟧⟦29⟧，Miles Doleac 也关联到 2016 comedy horror film 和 The Hollow，但后者是 crime film，前者是 comedy horror，并非材料中精确标为 “supernatural horror film” 的条目。  \n步骤3：综合⟦239⟧⟦27⟧，在超自然恐怖片候选中，与 Miles Doleac 的近期电影角色列表直接相连的是 The Apparition。  \n\n结论：排除其他候选后，答案是 **The Apparition**。",
+    "recallMode": "recall",
+    "recallValid": true,
+    "recallTruncation": "⟦260⟧⟦186⟧⟦71⟧⟦24⟧⟦122⟧⟦108⟧⟦141⟧⟦37⟧⟦202⟧⟦237⟧⟦122⟧⟦108⟧",
+    "nounCount": 398,
+    "score": 0.5,
+    "recallUsage": {
+      "prompt_tokens": 6566,
+      "completion_tokens": 33,
+      "total_tokens": 6599,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6566
+    },
+    "reasoningUsage": {
+      "prompt_tokens": 5180,
+      "completion_tokens": 16996,
+      "total_tokens": 22176,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 16419
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 5180
+    }
+  }
+]

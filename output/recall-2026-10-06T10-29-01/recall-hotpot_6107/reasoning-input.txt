@@ -1,0 +1,236 @@
+材料：
+⟦1⟧ = "the Black
+⟦2⟧ = "The Zebras
+⟦3⟧ = (Tactical) Team Chess
+⟦4⟧ = [typically 4-6] players
+⟦5⟧ = 17 South Australian championships
+⟦6⟧ = 1950s
+⟦7⟧ = 1960s
+⟦8⟧ = 26 July
+⟦9⟧ = 27 seasons
+⟦10⟧ = 45 times
+⟦11⟧ = 5 August
+⟦12⟧ = 8 classical chess board
+⟦13⟧ = a black background
+⟦14⟧ = a black version
+⟦15⟧ = a Control
+⟦16⟧ = a game
+⟦17⟧ = A number
+⟦18⟧ = a quasi-national emblem
+⟦19⟧ = a series
+⟦20⟧ = a silver fern
+⟦21⟧ = A silver fern flag
+⟦22⟧ = a sport
+⟦23⟧ = a white background
+⟦24⟧ = a white silver fern
+⟦25⟧ = Adelaide
+⟦26⟧ = Adelaide City
+⟦27⟧ = Adelaide City Football Club
+⟦28⟧ = affairs
+⟦29⟧ = aim
+⟦30⟧ = an aim
+⟦31⟧ = an Australian football
+⟦32⟧ = an Australian former rugby league footballer
+⟦33⟧ = an Australian former soccer player
+⟦34⟧ = an unofficial flag
+⟦35⟧ = any flag design
+⟦36⟧ = arms
+⟦37⟧ = association
+⟦38⟧ = Australia
+⟦39⟧ = Australia's most decorated sides
+⟦40⟧ = background
+⟦41⟧ = Blacks
+⟦42⟧ = Blue Teams
+⟦43⟧ = board
+⟦44⟧ = both domestic and foreign characters
+⟦45⟧ = both sides
+⟦46⟧ = championships
+⟦47⟧ = characters
+⟦48⟧ = chess
+⟦49⟧ = China
+⟦50⟧ = Chinchilla's team
+⟦51⟧ = classified high level war games
+⟦52⟧ = club
+⟦53⟧ = club football
+⟦54⟧ = clubs
+⟦55⟧ = coat
+⟦56⟧ = coin
+⟦57⟧ = conditions
+⟦58⟧ = conduct
+⟦59⟧ = control
+⟦60⟧ = country
+⟦61⟧ = course
+⟦62⟧ = cricket
+⟦63⟧ = customary
+⟦64⟧ = design
+⟦65⟧ = dollar
+⟦66⟧ = each team
+⟦67⟧ = emblem
+⟦68⟧ = enemy
+⟦69⟧ = events
+⟦70⟧ = expertise
+⟦71⟧ = fern
+⟦72⟧ = flag
+⟦73⟧ = flags
+⟦74⟧ = football
+⟦75⟧ = footballer
+⟦76⟧ = forces
+⟦77⟧ = full international matches
+⟦78⟧ = future foreign affairs events
+⟦79⟧ = game
+⟦80⟧ = games
+⟦81⟧ = Green
+⟦82⟧ = half
+⟦83⟧ = high ranking officials
+⟦84⟧ = high-ranking officials
+⟦85⟧ = II-67 War Games
+⟦86⟧ = Indochina
+⟦87⟧ = ins
+⟦88⟧ = John Gleeson
+⟦89⟧ = John Nyskohus
+⟦90⟧ = league
+⟦91⟧ = level
+⟦92⟧ = matches
+⟦93⟧ = merchandise
+⟦94⟧ = motif
+⟦95⟧ = moves
+⟦96⟧ = New Zealand
+⟦97⟧ = New Zealand sports teams
+⟦98⟧ = number
+⟦99⟧ = officials
+⟦100⟧ = part
+⟦101⟧ = pieces
+⟦102⟧ = play
+⟦103⟧ = player
+⟦104⟧ = players
+⟦105⟧ = playing
+⟦106⟧ = premiership
+⟦107⟧ = Red
+⟦108⟧ = rules
+⟦109⟧ = season
+⟦110⟧ = seasons
+⟦111⟧ = series
+⟦112⟧ = set
+⟦113⟧ = several smaller teams
+⟦114⟧ = sides
+⟦115⟧ = silver
+⟦116⟧ = similar silver fern flags
+⟦117⟧ = simulations
+⟦118⟧ = soccer
+⟦119⟧ = soccer) club
+⟦120⟧ = South Australia
+⟦121⟧ = sport
+⟦122⟧ = sports
+⟦123⟧ = stand
+⟦124⟧ = stand-ins
+⟦125⟧ = standard (or usual) chess playing rules
+⟦126⟧ = standard set
+⟦127⟧ = symbols
+⟦128⟧ = team
+⟦129⟧ = teammates
+⟦130⟧ = teams
+⟦131⟧ = the 1950s
+⟦132⟧ = the 1960s
+⟦133⟧ = the 1967 BRL premiership
+⟦134⟧ = the All Blacks
+⟦135⟧ = The All Whites association football team
+⟦136⟧ = the All Whites club
+⟦137⟧ = the Black Team
+⟦138⟧ = the Brisbane Rugby League
+⟦139⟧ = the Brown Team
+⟦140⟧ = the burgeoning Vietnam War
+⟦141⟧ = The club
+⟦142⟧ = the coat
+⟦143⟧ = the conduct
+⟦144⟧ = the country
+⟦145⟧ = the course
+⟦146⟧ = the cricket team
+⟦147⟧ = the Democratic Republic
+⟦148⟧ = the fern
+⟦149⟧ = the friendly and enemy forces
+⟦150⟧ = The games
+⟦151⟧ = the league's final season
+⟦152⟧ = the National Premier Leagues South Australia
+⟦153⟧ = the National Soccer League
+⟦154⟧ = the New Zealand one dollar coin
+⟦155⟧ = the NSL
+⟦156⟧ = The opposing Blue and Red Teams customary
+⟦157⟧ = The Pentagon
+⟦158⟧ = the Peoples Republic
+⟦159⟧ = the pieces
+⟦160⟧ = the play
+⟦161⟧ = the Red Team
+⟦162⟧ = The Sigma
+⟦163⟧ = The Sigma I-66 war game
+⟦164⟧ = The Sigma II-64 war game
+⟦165⟧ = The Sigma II-65 war game
+⟦166⟧ = The Sigma II-66 war game
+⟦167⟧ = The silver fern
+⟦168⟧ = The silver fern motif
+⟦169⟧ = the Silver Ferns
+⟦170⟧ = the South Australian State League
+⟦171⟧ = the teammates
+⟦172⟧ = the Toowoomba Rugby League
+⟦173⟧ = the USSR
+⟦174⟧ = the Viet Cong
+⟦175⟧ = the Wynnum-Manly and Brothers clubs
+⟦176⟧ = the Yellow Team
+⟦177⟧ = their expertise
+⟦178⟧ = their official merchandise
+⟦179⟧ = then-current conditions
+⟦180⟧ = These simulations
+⟦181⟧ = three national championships
+⟦182⟧ = times
+⟦183⟧ = two teams
+⟦184⟧ = USC Lion
+⟦185⟧ = valid moves
+⟦186⟧ = various official symbols
+⟦187⟧ = version
+⟦188⟧ = Vietnam
+⟦189⟧ = war
+⟦190⟧ = war games
+⟦191⟧ = Whites
+⟦192⟧ = Zebras
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦21⟧⟦115⟧⟦72⟧⟦35⟧⟦72⟧⟦64⟧⟦20⟧⟦115⟧⟦71⟧⟦24⟧⟦115⟧⟦71⟧⟦13⟧⟦40⟧⟦168⟧⟦115⟧⟦94⟧⟦96⟧⟦21⟧⟦72⟧⟦34⟧⟦72⟧⟦96⟧⟦167⟧⟦115⟧⟦71⟧⟦96⟧⟦167⟧⟦115⟧⟦71⟧⟦18⟧⟦67⟧⟦186⟧⟦127⟧⟦142⟧⟦55⟧⟦36⟧⟦36⟧⟦96⟧⟦154⟧⟦65⟧⟦56⟧⟦17⟧⟦98⟧⟦97⟧⟦122⟧⟦130⟧⟦146⟧⟦62⟧⟦128⟧⟦169⟧⟦134⟧⟦116⟧⟦115⟧⟦73⟧⟦100⟧⟦100⟧⟦178⟧⟦93⟧⟦135⟧⟦37⟧⟦74⟧⟦128⟧⟦23⟧⟦40⟧⟦14⟧⟦187⟧⟦148⟧⟦71⟧⟦27⟧⟦31⟧⟦74⟧⟦118⟧⟦119⟧⟦52⟧⟦25⟧⟦120⟧⟦2⟧⟦192⟧⟨⟩⟨⟩⟦1⟧⟨⟩⟦191⟧⟨⟩⟦141⟧⟦52⟧⟦153⟧⟦9⟧⟦110⟧⟦39⟧⟦114⟧⟦181⟧⟦46⟧⟦5⟧⟦46⟧⟦155⟧⟦151⟧⟦90⟧⟦109⟧⟦26⟧⟦152⟧⟦164⟧⟦189⟧⟦79⟧⟦19⟧⟦111⟧⟦51⟧⟦91⟧⟦189⟧⟦80⟧⟦157⟧⟦132⟧⟦7⟧⟦143⟧⟦58⟧⟦140⟧⟦150⟧⟦80⟧⟦179⟧⟦57⟧⟦86⟧⟦30⟧⟦29⟧⟦78⟧⟦28⟧⟦69⟧⟦84⟧⟦99⟧⟦44⟧⟦47⟧⟦123⟧⟦124⟧⟦87⟧⟦177⟧⟦70⟧⟦150⟧⟦80⟧⟦15⟧⟦45⟧⟦114⟧⟦156⟧⟦63⟧⟦189⟧⟦190⟧⟦80⟧⟦149⟧⟦68⟧⟦76⟧⟦113⟧⟦130⟧⟦107⟧⟦42⟧⟦145⟧⟦61⟧⟦150⟧⟦80⟧⟦161⟧⟦182⟧⟦182⟧⟦176⟧⟦158⟧⟦49⟧⟦139⟧⟦147⟧⟦188⟧⟦137⟧⟦174⟧⟦81⟧⟦173⟧⟦163⟧⟦189⟧⟦79⟧⟦19⟧⟦111⟧⟦51⟧⟦91⟧⟦189⟧⟦80⟧⟦157⟧⟦132⟧⟦7⟧⟦143⟧⟦58⟧⟦140⟧⟦180⟧⟦117⟧⟦179⟧⟦57⟧⟦86⟧⟦30⟧⟦29⟧⟦78⟧⟦28⟧⟦69⟧⟦84⟧⟦99⟧⟦44⟧⟦47⟧⟦123⟧⟦124⟧⟦87⟧⟦177⟧⟦70⟧⟦150⟧⟦80⟧⟦15⟧⟦45⟧⟦114⟧⟦156⟧⟦63⟧⟦189⟧⟦190⟧⟦80⟧⟦149⟧⟦68⟧⟦76⟧⟦113⟧⟦130⟧⟦107⟧⟦42⟧⟦145⟧⟦61⟧⟦150⟧⟦80⟧⟦161⟧⟦182⟧⟦182⟧⟦176⟧⟦158⟧⟦49⟧⟦139⟧⟦147⟧⟦188⟧⟦137⟧⟦174⟧⟦81⟧⟦173⟧⟦165⟧⟦189⟧⟦79⟧⟦19⟧⟦111⟧⟦51⟧⟦91⟧⟦189⟧⟦80⟧⟦157⟧⟦132⟧⟦7⟧⟦143⟧⟦58⟧⟦140⟧⟦8⟧⟦11⟧⟦150⟧⟦80⟧⟦179⟧⟦57⟧⟦86⟧⟦30⟧⟦29⟧⟦78⟧⟦28⟧⟦69⟧⟦83⟧⟦99⟧⟦44⟧⟦47⟧⟦123⟧⟦124⟧⟦87⟧⟦177⟧⟦70⟧⟦150⟧⟦80⟧⟦15⟧⟦45⟧⟦114⟧⟦156⟧⟦63⟧⟦189⟧⟦190⟧⟦80⟧⟦149⟧⟦68⟧⟦76⟧⟦113⟧⟦130⟧⟦107⟧⟦42⟧⟦145⟧⟦61⟧⟦150⟧⟦80⟧⟦161⟧⟦182⟧⟦182⟧⟦176⟧⟦158⟧⟦49⟧⟦139⟧⟦147⟧⟦188⟧⟦137⟧⟦174⟧⟦81⟧⟦173⟧⟦89⟧⟨ź⟩⟦33⟧⟦118⟧⟨ż⟩⟦103⟧⟨Ż⟩⟨Ž⟩⟦52⟧⟦53⟧⟨ž⟩⟦74⟧⟨ſ⟩⟨ƀ⟩⟦184⟧⟦170⟧⟦26⟧⟦153⟧⟦10⟧⟦182⟧⟦38⟧⟦77⟧⟦92⟧⟦162⟧⟦85⟧⟦19⟧⟦111⟧⟦51⟧⟦91⟧⟦189⟧⟦80⟧⟦157⟧⟦132⟧⟦7⟧⟦143⟧⟦58⟧⟦140⟧⟦150⟧⟦80⟧⟦179⟧⟦57⟧⟦86⟧⟦30⟧⟦29⟧⟦78⟧⟦28⟧⟦69⟧⟦84⟧⟦99⟧⟦44⟧⟦47⟧⟦123⟧⟦124⟧⟦87⟧⟦177⟧⟦70⟧⟦150⟧⟦80⟧⟦15⟧⟦45⟧⟦114⟧⟦156⟧⟦63⟧⟦189⟧⟦190⟧⟦80⟧⟦149⟧⟦68⟧⟦76⟧⟦113⟧⟦130⟧⟦107⟧⟦42⟧⟦145⟧⟦61⟧⟦150⟧⟦80⟧⟦161⟧⟦182⟧⟦182⟧⟦176⟧⟦158⟧⟦49⟧⟦139⟧⟦147⟧⟦188⟧⟦137⟧⟦174⟧⟦81⟧⟦173⟧⟦88⟧⟦32⟧⟦90⟧⟦75⟧⟦131⟧⟦6⟧⟦7⟧⟦7⟧⟦82⟧⟦52⟧⟦53⟧⟦74⟧⟦144⟧⟦60⟧⟦50⟧⟦128⟧⟦172⟧⟦136⟧⟦52⟧⟦138⟧⟦175⟧⟦54⟧⟦133⟧⟦106⟧⟦3⟧⟦16⟧⟦79⟧⟦22⟧⟦121⟧⟦183⟧⟦130⟧⟦4⟧⟦104⟧⟦66⟧⟦128⟧⟦12⟧⟦48⟧⟦43⟧⟦126⟧⟦112⟧⟦101⟧⟦101⟧⟦191⟧⟦41⟧⟦125⟧⟦48⟧⟦105⟧⟦108⟧⟦59⟧⟦59⟧⟦159⟧⟦101⟧⟦171⟧⟦129⟧⟦160⟧⟦102⟧⟦185⟧⟦95⟧⟦166⟧⟦189⟧⟦79⟧⟦19⟧⟦111⟧⟦51⟧⟦91⟧⟦189⟧⟦80⟧⟦157⟧⟦132⟧⟦7⟧⟦143⟧⟦58⟧⟦140⟧⟦150⟧⟦80⟧⟦179⟧⟦57⟧⟦86⟧⟦30⟧⟦29⟧⟦78⟧⟦28⟧⟦69⟧⟦83⟧⟦99⟧⟦44⟧⟦47⟧⟦123⟧⟦124⟧⟦87⟧⟦177⟧⟦70⟧⟦150⟧⟦80⟧⟦15⟧⟦45⟧⟦114⟧⟦156⟧⟦63⟧⟦189⟧⟦190⟧⟦80⟧⟦149⟧⟦68⟧⟦76⟧⟦113⟧⟦130⟧⟦107⟧⟦42⟧⟦145⟧⟦61⟧⟦150⟧⟦80⟧⟦161⟧⟦182⟧⟦182⟧⟦176⟧⟦158⟧⟦49⟧⟦139⟧⟦147⟧⟦188⟧⟦137⟧⟦174⟧⟦81⟧⟦173⟧
+
+问题：
+Of all the teams John Nyskohus played for, which team was known as "the Black and Whites?"
+
+占位符映射：
+⟨⟩ = 
+⟨⟩ = " and 
+⟨⟩ =  and 
+⟨⟩ = ".
+⟨ź⟩ =  (born 15 October 1951) is 
+⟨Ż⟩ = 
+⟨ż⟩ =  
+⟨Ž⟩ =  who played 
+⟨ž⟩ = 
+⟨ſ⟩ = 
+⟨ƀ⟩ =  for 
+
+---
+
+要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。
+
+格式：
+
+# 路径一：[标题]
+
+步骤1：使用⟦X⟧，提取...
+步骤2：综合⟦Y⟧⟦Z⟧，对比...
+
+结论：[此路径结论]
+
+（继续路径二、三...）
+
+**引用规范**：
+- 单个材料：使用⟦N⟧，提取...，判断...
+- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...
+
+**推理策略**：
+- 对比论证：对比不同材料中的矛盾或差异
+- 交叉验证：从多个材料中找到互相支撑的证据
+- 综合支撑：从多处提取一致的特征或模式

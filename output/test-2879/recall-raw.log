@@ -1,0 +1,2410 @@
+
+===== Grown-Ups starred the actor who was best known for which role on  "'Allo 'Allo!"? =====
+{
+  "question": "Grown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?",
+  "enableThinking": false,
+  "usage": {
+    "prompt_tokens": 4405,
+    "completion_tokens": 1639,
+    "total_tokens": 6044,
+    "prompt_tokens_details": {
+      "cached_tokens": 4224
+    },
+    "prompt_cache_hit_tokens": 4224,
+    "prompt_cache_miss_tokens": 181
+  },
+  "promptLength": 6290,
+  "promptHead": "注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示\"这里存在某种关系\"\n\n你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。\n\n材料：\n⟦1⟧ = \" episode\n⟦2⟧ = \", Warren\n⟦3⟧ = \"Barbara\n⟦4⟧ = \"Emmerdale\n⟦5⟧ = \"Porridge\n⟦6⟧ = (\"The Return\n⟦7⟧ = 10 July\n⟦8⟧ = 17 August\n⟦9⟧ = 19 December\n⟦10⟧ = 1920s Paris\n⟦11⟧ = 5 January\n⟦12⟧ = 8 weeks\n⟦13⟧ = 87 episodes\n⟦14⟧ = a 1980 British BBC television film\n⟦15⟧ = a British sitcom\n⟦16⟧ = a list\n⟦17⟧ = a peak\n⟦18⟧ = a recurring character\n⟦19⟧ = a song\n⟦20⟧ = a Top 10 hit\n⟦21⟧ = accent\n⟦22⟧ = accents\n⟦23⟧ = actor\n⟦24⟧ = actress\n⟦25⟧ = advertisement\n⟦26⟧ = air\n⟦27⟧ = Allo\n⟦28⟧ = Allo 'Allo\n⟦29⟧ = an English accent\n⟦30⟧ = an English actor\n⟦31⟧ = an English actress\n⟦32⟧ = an impressionist\n⟦33⟧ = anniversary\n⟦34⟧ = Arthur Mathews\n⟦35⟧ = artist\n⟦36⟧ = ball\n⟦37⟧ = BBC\n⟦38⟧ = BBC One\n⟦39⟧ = BBC sitcom\n⟦40⟧ = Belgium\n⟦41⟧ = Brenda Blethyn\n⟦42⟧ = Britain\n⟦43⟧ = broadcast\n⟦44⟧ = calls\n⟦45⟧ = Captain Alberto Bertorelli\n⟦46⟧ = Captain Hans Geering\n⟦47⟧ = Chalk Dust\n⟦48⟧ = Channel\n⟦49⟧ = character\n⟦50⟧ = characters\n⟦51⟧ = chart\n⟦52⟧ = comedy\n⟦53⟧ = Dates\n⟦54⟧ = ending\n⟦55⟧ = episode\n⟦56⟧ = episodes\n⟦57⟧ = escapades\n⟦58⟧ = failure\n⟦59⟧ = Father Ted\n⟦60⟧ = film\n⟦61⟧ =",
+  "promptTail": "5⟧⟨Ľ⟩⟨ľ⟩⟦188⟧⟨Ŀ⟩⟦143⟧⟦132⟧⟨Ł⟩⟦52⟧⟨ł⟩⟦119⟧⟨ŀ⟩⟨Ń⟩⟦27⟧⟨ń⟩⟨Ņ⟩⟦18⟧⟦49⟧⟨ņ⟩⟨Ň⟩⟦104⟧⟨ň⟩⟦155⟧⟦124⟧⟨Ŋ⟩⟦101⟧⟨ŉ⟩⟨ŋ⟩⟦4⟧⟨Ō⟩⟦114⟧⟨ō⟩⟦9⟧⟨Ŏ⟩⟦165⟧⟦127⟧⟨Ő⟩⟦95⟧⟨ő⟩⟨ŏ⟩⟦30⟧⟦23⟧⟨Œ⟩⟨œ⟩⟦60⟧⟦60⟧⟨Ŕ⟩⟨ŕ⟩⟦132⟧⟦132⟧⟨Ŗ⟩⟨ŗ⟩⟦110⟧⟦110⟧⟨Ř⟩⟨ř⟩⟦171⟧⟦171⟧⟨Ś⟩⟨ś⟩⟨Ŝ⟩⟦71⟧⟦116⟧⟨ŝ⟩⟨Ş⟩⟦46⟧⟨ş⟩⟦27⟧⟨Š⟩⟦2⟧⟨š⟩⟦5⟧⟦108⟧⟨Ţ⟩⟨ţ⟩⟦131⟧⟨Ť⟩⟦3⟧⟨ť⟩\n\n问题：\nGrown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?\n\n任务：从拓扑链中选取多个你认为回答问题所需的截断片段。\n\n约束：\n- 每个截断必须是拓扑链中连续的符号序列\n- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）\n- 不能编造不存在的符号\n- 不能跳过中间的符号（保持相对顺序）\n- 不能重排符号顺序\n- 只选择能够帮助你解决问题的截断，宁缺毋滥\n\n输出格式：\n输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟩⟨B⟩⟦5⟩\n\n现在只输出符号序列（多个片段用 | 分隔）：",
+  "rawResponse": "⟦67⟧⟨⟩⟦14⟧⟦132⟧⟨⟩⟦60⟧ | ⟦139⟧⟨⟩⟦141⟧⟨⟩⟦121⟧⟦122⟧⟨⟩⟨⟩⟦103⟧⟨ ⟩⟦15⟧⟦121⟧⟨¡⟩⟨¢⟩⟦130⟧⟨£⟩⟦48⟧⟨¤⟩⟨¥⟩⟦76⟧⟦186⟧⟨¦⟩⟨§⟩⟦34⟧⟨¨⟩⟦66⟧⟨©⟩⟦172⟧⟦121⟧⟨ª⟩⟨«⟩⟦59⟧⟨¬⟩⟦163⟧⟦120⟧⟨­⟩⟨®⟩⟦100⟧⟦119⟧⟨¯⟩⟨°⟩⟦123⟧⟦56⟧⟨±⟩⟨²⟩⟦99⟧⟨³⟩⟦97⟧⟨´⟩⟨µ⟩⟦151⟧⟦57⟧⟨¶⟩⟨·⟩⟦65⟧⟦35⟧⟨¹⟩⟨¸⟩⟦10⟧⟨º⟩⟦72⟧⟦185⟧⟨»⟩⟨¼⟩⟨½⟩⟦39⟧⟦121⟧⟨¾⟩⟨¿⟩⟦28⟧⟨À⟩⟦63⟧⟨Á⟩⟦50⟧⟦50⟧⟨Â⟩⟨Ã⟩⟦64⟧⟦22⟧⟨Ä⟩⟨Å⟩⟦148⟧⟦50⟧⟨Æ⟩⟨Ç⟩⟦103⟧⟨È⟩⟦29⟧⟦21⟧⟨É⟩⟨Ê⟩⟦77⟧⟨Ë⟩⟦80⟧⟨Ì⟩⟦11⟧⟨Í⟩⟦30⟧⟦23⟧⟨Î⟩⟨Ï⟩⟦129⟧⟦116⟧⟨Ð⟩⟨Ñ⟩⟦133⟧⟦52⟧⟨Ò⟩⟨Ó⟩⟦70⟧⟦115⟧⟨Ô⟩⟨Õ⟩⟦121⟧⟦121⟧⟨Ö⟩⟨×⟩⟦27⟧⟨Ø⟩⟨Ù⟩⟦94⟧⟨Ú⟩⟦27⟧⟨Û⟩⟦27⟧⟨Ü⟩⟨Ý⟩⟦8⟧⟨Þ⟩⟦187⟧⟨ß⟩⟦150⟧⟦54⟧⟨à⟩⟨á⟩⟦142⟧⟦121⟧⟨â⟩⟨ã⟩⟦27⟧⟨ä⟩⟨å⟩⟦137⟧⟦33⟧⟨æ⟩⟨ç⟩⟦147⟧⟦43⟧⟨è⟩⟨é⟩⟦152⟧⟦119⟧⟨ê⟩⟨ë⟩⟦138⟧⟦107⟧⟨ì⟩⟨í⟩⟦163⟧⟦120⟧⟨î⟩⟨ï⟩⟦187⟧⟨ð⟩⟦174⟧⟦120⟧⟨ñ⟩⟨ò⟩⟦153⟧⟦62⟧⟨ó⟩⟨ô⟩⟦16⟧⟦88⟧⟨õ⟩⟨ö⟩⟦56⟧⟦56⟧⟨÷⟩⟨ø⟩⟦145⟧⟦121⟧⟨ù⟩⟨ú⟩⟦27⟧⟨û⟩⟨ü⟩⟦160⟧⟨ý⟩⟦162⟧⟦119⟧⟨þ⟩⟨ÿ⟩⟦187⟧⟨Ā⟩⟦119⟧⟨ā⟩⟦178⟧⟦56⟧⟨Ă⟩⟨ă⟩⟦119⟧⟨Ą⟩⟦119⟧⟨ą⟩⟦156⟧⟦119⟧⟨Ć⟩⟨ć⟩⟦119⟧⟨Ĉ⟩⟦179⟧⟦56⟧⟨ĉ⟩⟨Ċ⟩⟦27⟧⟨ċ⟩⟦27⟧⟨Č⟩⟨č⟩⟦6⟧⟨Ď⟩⟦27⟧⟨ď⟩⟦27⟧⟨Đ⟩⟨đ⟩⟦176⟧⟦176⟧⟨Ē⟩⟨ē⟩⟦160⟧⟨Ĕ⟩⟦166⟧⟨ĕ⟩⟦167⟧⟦109⟧⟨ė⟩⟦119⟧⟨Ę⟩⟦56⟧⟨Ė⟩⟨ę⟩⟦13⟧⟦56⟧⟨Ě⟩⟨ě⟩⟦53⟧⟦53⟧⟨Ĝ⟩⟨ĝ⟩⟦102⟧⟦26⟧⟨ğ⟩⟦53⟧⟨Ğ⟩⟨Ġ⟩⟦38⟧⟨ġ⟩⟦135⟧⟨Ģ⟩⟦2",
+  "truncatedNodes": [
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦136⟧",
+      "symbolIdx": 136
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦117⟧",
+      "symbolIdx": 117
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦82⟧",
+      "symbolIdx": 82
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦169⟧",
+      "symbolIdx": 169
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦93⟧",
+      "symbolIdx": 93
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦144⟧",
+      "symbolIdx": 144
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦154⟧",
+      "symbolIdx": 154
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦168⟧",
+      "symbolIdx": 168
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦17⟧",
+      "symbolIdx": 17
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦105⟧",
+      "symbolIdx": 105
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦12⟧",
+      "symbolIdx": 12
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦183⟧",
+      "symbolIdx": 183
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦164⟧",
+      "symbolIdx": 164
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦20⟧",
+      "symbolIdx": 20
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦73⟧",
+      "symbolIdx": 73
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦126⟧",
+      "symbolIdx": 126
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦32⟧",
+      "symbolIdx": 32
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦170⟧",
+      "symbolIdx": 170
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦181⟧",
+      "symbolIdx": 181
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦175⟧",
+      "symbolIdx": 175
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦25⟧",
+      "symbolIdx": 25
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦67⟧",
+      "symbolIdx": 67
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦14⟧",
+      "symbolIdx": 14
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦92⟧",
+      "symbolIdx": 92
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦106⟧",
+      "symbolIdx": 106
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦41⟧",
+      "symbolIdx": 41
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦85⟧",
+      "symbolIdx": 85
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦89⟧",
+      "symbolIdx": 89
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¡⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¢⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨£⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¤⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¥⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¦⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦186⟧",
+      "symbolIdx": 186
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨§⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦34⟧",
+      "symbolIdx": 34
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦66⟧",
+      "symbolIdx": 66
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨©⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦172⟧",
+      "symbolIdx": 172
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ª⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨«⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¬⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨­⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨®⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¯⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨°⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨±⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨²⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨³⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨´⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨µ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦151⟧",
+      "symbolIdx": 151
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¶⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨·⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦65⟧",
+      "symbolIdx": 65
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¸⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦35⟧",
+      "symbolIdx": 35
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¹⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦10⟧",
+      "symbolIdx": 10
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨º⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨»⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¼⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨½⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦39⟧",
+      "symbolIdx": 39
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¾⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¿⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨À⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Á⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Â⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ã⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦64⟧",
+      "symbolIdx": 64
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ä⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦22⟧",
+      "symbolIdx": 22
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Å⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦148⟧",
+      "symbolIdx": 148
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Æ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ç⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨È⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨É⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ê⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦77⟧",
+      "symbolIdx": 77
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ë⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ì⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Í⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Î⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ï⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦129⟧",
+      "symbolIdx": 129
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ð⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ñ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ò⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ó⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ô⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Õ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ö⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨×⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ø⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ù⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ú⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Û⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ü⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ý⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦8⟧",
+      "symbolIdx": 8
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Þ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ß⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨à⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦54⟧",
+      "symbolIdx": 54
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨á⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦142⟧",
+      "symbolIdx": 142
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨â⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ã⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ä⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨å⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨æ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ç⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨è⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨é⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦152⟧",
+      "symbolIdx": 152
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ê⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ë⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦138⟧",
+      "symbolIdx": 138
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ì⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨í⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨î⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ï⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ð⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ñ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ò⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ó⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦62⟧",
+      "symbolIdx": 62
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ô⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦16⟧",
+      "symbolIdx": 16
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨õ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ö⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨÷⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ø⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ù⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ú⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨û⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ü⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ý⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨þ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ÿ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ā⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ā⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦178⟧",
+      "symbolIdx": 178
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ă⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ă⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ą⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ą⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ć⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ć⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĉ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĉ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ċ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ċ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Č⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨č⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦6⟧",
+      "symbolIdx": 6
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ď⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ď⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Đ⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨đ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ē⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ē⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĕ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĕ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦167⟧",
+      "symbolIdx": 167
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ė⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ė⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ę⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ę⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦13⟧",
+      "symbolIdx": 13
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ě⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ě⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĝ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĝ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦102⟧",
+      "symbolIdx": 102
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ğ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ğ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ġ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦38⟧",
+      "symbolIdx": 38
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ġ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ģ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ģ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĥ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĥ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦55⟧",
+      "symbolIdx": 55
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ħ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ħ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĩ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĩ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ī⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ī⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĭ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĭ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Į⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨į⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨İ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ı⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĳ⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĳ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦184⟧",
+      "symbolIdx": 184
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĵ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĵ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ķ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ķ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĸ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦180⟧",
+      "symbolIdx": 180
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ĺ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ĺ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦24⟧",
+      "symbolIdx": 24
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ļ⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ļ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ľ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ľ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŀ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŀ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ł⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ł⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ń⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ń⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ņ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦18⟧",
+      "symbolIdx": 18
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ņ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ň⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦104⟧",
+      "symbolIdx": 104
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ň⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŉ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŋ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŋ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦4⟧",
+      "symbolIdx": 4
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ō⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ō⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦9⟧",
+      "symbolIdx": 9
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŏ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦165⟧",
+      "symbolIdx": 165
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŏ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ő⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ő⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Œ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨œ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŕ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŕ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŗ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŗ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ř⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ř⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦171⟧",
+      "symbolIdx": 171
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ś⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦171⟧",
+      "symbolIdx": 171
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ś⟩"
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ŝ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ŝ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ş⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ş⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Š⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦2⟧",
+      "symbolIdx": 2
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨š⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ţ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ţ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦131⟧",
+      "symbolIdx": 131
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ť⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦3⟧",
+      "symbolIdx": 3
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ť⟩"
+    }
+  ],
+  "usedRelIds": [
+    "rel_68",
+    "rel_70",
+    "rel_91",
+    "rel_92",
+    "rel_93",
+    "rel_94",
+    "rel_96",
+    "rel_97",
+    "rel_98",
+    "rel_99",
+    "rel_100",
+    "rel_101",
+    "rel_102",
+    "rel_103",
+    "rel_104",
+    "rel_105",
+    "rel_106",
+    "rel_107",
+    "rel_108",
+    "rel_109",
+    "rel_110",
+    "rel_111",
+    "rel_112",
+    "rel_113",
+    "rel_114",
+    "rel_115",
+    "rel_116",
+    "rel_117",
+    "rel_118",
+    "rel_120",
+    "rel_119",
+    "rel_121",
+    "rel_122",
+    "rel_123",
+    "rel_124",
+    "rel_125",
+    "rel_126",
+    "rel_127",
+    "rel_128",
+    "rel_129",
+    "rel_130",
+    "rel_131",
+    "rel_132",
+    "rel_133",
+    "rel_134",
+    "rel_135",
+    "rel_136",
+    "rel_137",
+    "rel_138",
+    "rel_139",
+    "rel_140",
+    "rel_141",
+    "rel_142",
+    "rel_143",
+    "rel_144",
+    "rel_145",
+    "rel_146",
+    "rel_147",
+    "rel_148",
+    "rel_149",
+    "rel_150",
+    "rel_151",
+    "rel_152",
+    "rel_153",
+    "rel_154",
+    "rel_155",
+    "rel_156",
+    "rel_157",
+    "rel_158",
+    "rel_159",
+    "rel_160",
+    "rel_161",
+    "rel_162",
+    "rel_163",
+    "rel_164",
+    "rel_165",
+    "rel_166",
+    "rel_167",
+    "rel_168",
+    "rel_169",
+    "rel_170",
+    "rel_171",
+    "rel_172",
+    "rel_173",
+    "rel_174",
+    "rel_175",
+    "rel_176",
+    "rel_177",
+    "rel_178",
+    "rel_179",
+    "rel_180",
+    "rel_181",
+    "rel_182",
+    "rel_183",
+    "rel_184",
+    "rel_185",
+    "rel_186",
+    "rel_187",
+    "rel_188",
+    "rel_189",
+    "rel_190",
+    "rel_191",
+    "rel_192",
+    "rel_193",
+    "rel_194",
+    "rel_195",
+    "rel_196",
+    "rel_197",
+    "rel_198",
+    "rel_199",
+    "rel_200",
+    "rel_201",
+    "rel_202",
+    "rel_203",
+    "rel_204",
+    "rel_205",
+    "rel_206",
+    "rel_207",
+    "rel_208",
+    "rel_209",
+    "rel_210",
+    "rel_211",
+    "rel_212",
+    "rel_214",
+    "rel_215",
+    "rel_213",
+    "rel_216",
+    "rel_217",
+    "rel_218",
+    "rel_219",
+    "rel_220",
+    "rel_222",
+    "rel_221",
+    "rel_223",
+    "rel_224",
+    "rel_225",
+    "rel_226",
+    "rel_227",
+    "rel_228",
+    "rel_229",
+    "rel_230",
+    "rel_231",
+    "rel_232",
+    "rel_233",
+    "rel_234",
+    "rel_235",
+    "rel_236",
+    "rel_237",
+    "rel_238",
+    "rel_239",
+    "rel_240",
+    "rel_241",
+    "rel_242",
+    "rel_243",
+    "rel_244",
+    "rel_245",
+    "rel_246",
+    "rel_247",
+    "rel_248",
+    "rel_249",
+    "rel_250",
+    "rel_251",
+    "rel_252",
+    "rel_253",
+    "rel_254",
+    "rel_256",
+    "rel_257",
+    "rel_255",
+    "rel_258",
+    "rel_259",
+    "rel_260",
+    "rel_261",
+    "rel_262",
+    "rel_263",
+    "rel_265",
+    "rel_264",
+    "rel_266",
+    "rel_267",
+    "rel_268",
+    "rel_269",
+    "rel_271",
+    "rel_272",
+    "rel_270",
+    "rel_273",
+    "rel_274",
+    "rel_275",
+    "rel_276",
+    "rel_277",
+    "rel_278",
+    "rel_279",
+    "rel_280",
+    "rel_281",
+    "rel_282",
+    "rel_283",
+    "rel_284",
+    "rel_285",
+    "rel_286",
+    "rel_287",
+    "rel_288",
+    "rel_289",
+    "rel_290",
+    "rel_291",
+    "rel_292"
+  ],
+  "valid": true
+}

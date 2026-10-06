@@ -1,0 +1,20 @@
+# 路径一：电影关联定位
+
+步骤1：使用⟦115⟧，提取“Johnny Angel”这一名称。
+步骤2：综合⟦17⟧⟦80⟧⟦148⟧，判断“Johnny Angel”是 a 1945 film noir，即 1945 年电影。
+步骤3：使用⟦86⟧，提取“George Raft”；综合⟦53⟧⟦178⟧，确认 George Raft 与 Claire Trevor、Signe Hasso 共同出现在该电影相关演员信息中。
+结论：George Raft 是 1945 年电影《Johnny Angel》的主演。
+
+# 路径二：演员身份验证
+
+步骤1：使用⟦86⟧，提取“George Raft”。
+步骤2：综合⟦87⟧，确认 George Raft 又名 George Ranft。
+步骤3：综合⟦36⟧⟦29⟧⟦63⟧⟦18⟧，确认 George Raft 是美国电影演员（an American film actor / actor）和舞者（dancer / a dancer）。
+结论：George Raft 符合问题中“美国电影演员和舞者”的身份描述。
+
+# 路径三：交叉排除歧义
+
+步骤1：使用⟦8⟧⟦181⟧⟦26⟧，注意到“Johnny Angel”也关联一首歌曲，需排除歌曲歧义。
+步骤2：综合⟦115⟧⟦17⟧⟦80⟧⟦148⟧，锁定问题指向的是 1945 年电影《Johnny Angel》。
+步骤3：使用⟦166⟧，提取“Raft”，并与⟦86⟧关联；综合⟦99⟧⟦84⟧⟦18⟧⟦63⟧，确认其演员与舞者背景。
+结论：因此主演该 1945 年电影的是 George Raft。

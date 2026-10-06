@@ -1,0 +1,265 @@
+注意：你看到的拓扑链不是原文，而是符号化后的序列：
+- ⟦N⟧ 代表实体名词
+- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示"这里存在某种关系"
+
+你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。
+
+材料：
+⟦1⟧ = - April
+⟦2⟧ = "Bolero
+⟦3⟧ = "Coach
+⟦4⟧ = "Detour
+⟦5⟧ = "Family Affair
+⟦6⟧ = "Fanny
+⟦7⟧ = "Hollywood Victory Caravan
+⟦8⟧ = "Johnny Angel
+⟦9⟧ = "Southern California
+⟦10⟧ = "Space Invasion
+⟦11⟧ = "The Donna Reed Show
+⟦12⟧ = "The Magic Flute
+⟦13⟧ = 11 August
+⟦14⟧ = 1930s
+⟦15⟧ = 1940s
+⟦16⟧ = 1980s
+⟦17⟧ = a 1945 film noir
+⟦18⟧ = a dancer
+⟦19⟧ = a Ku Klux Klan leader
+⟦20⟧ = a Los Angeles Weekly columnist
+⟦21⟧ = a medley
+⟦22⟧ = a mixture
+⟦23⟧ = a moderate hit
+⟦24⟧ = a number
+⟦25⟧ = a Pentecostal Christian
+⟦26⟧ = a song
+⟦27⟧ = a Swedish actor
+⟦28⟧ = a truck driver
+⟦29⟧ = actor
+⟦30⟧ = actress
+⟦31⟧ = airplay
+⟦32⟧ = album
+⟦33⟧ = Alexander
+⟦34⟧ = American hard rock band Dirty Looks
+⟦35⟧ = an American actress
+⟦36⟧ = an American film actor
+⟦37⟧ = an American film and television director
+⟦38⟧ = an American man
+⟦39⟧ = an American writer
+⟦40⟧ = April
+⟦41⟧ = Atlantic Records
+⟦42⟧ = B Movies
+⟦43⟧ = Bagheera
+⟦44⟧ = band
+⟦45⟧ = Billboard
+⟦46⟧ = Bolero
+⟦47⟧ = both Laurie Loman
+⟦48⟧ = British singer Patti Lynn
+⟦49⟧ = career
+⟦50⟧ = Charles Gordon Booth
+⟦51⟧ = chart
+⟦52⟧ = Christine Armstrong
+⟦53⟧ = Claire Trevor
+⟦54⟧ = Clary
+⟦55⟧ = Claudia Drake
+⟦56⟧ = co
+⟦57⟧ = columnist
+⟦58⟧ = comedy
+⟦59⟧ = cover
+⟦60⟧ = credits
+⟦61⟧ = crime
+⟦62⟧ = crime melodramas
+⟦63⟧ = dancer
+⟦64⟧ = daughter
+⟦65⟧ = death
+⟦66⟧ = Detour
+⟦67⟧ = director
+⟦68⟧ = Disney's "The Jungle Book
+⟦69⟧ = Donna Reed's daughter
+⟦70⟧ = dozens
+⟦71⟧ = driver
+⟦72⟧ = duo
+⟦73⟧ = Edwin L. Marin
+⟦74⟧ = Elvis Presley's co
+⟦75⟧ = episodes
+⟦76⟧ = eventual wife
+⟦77⟧ = Family Affair
+⟦78⟧ = Father
+⟦79⟧ = fifties
+⟦80⟧ = film
+⟦81⟧ = films
+⟦82⟧ = Flickorna
+⟦83⟧ = Frank Gruber
+⟦84⟧ = gangster
+⟦85⟧ = gangsters
+⟦86⟧ = George Raft
+⟦87⟧ = George Ranft
+⟦88⟧ = Georgia Lee
+⟦89⟧ = gospel
+⟦90⟧ = groups
+⟦91⟧ = Hayden Fox's love interest
+⟦92⟧ = her cover
+⟦93⟧ = her recording
+⟦94⟧ = her roles
+⟦95⟧ = His career
+⟦96⟧ = his death
+⟦97⟧ = His directorial career
+⟦98⟧ = His first film part
+⟦99⟧ = his gangster roles
+⟦100⟧ = his Hollywood career
+⟦101⟧ = his last film
+⟦102⟧ = his many credits
+⟦103⟧ = his two sons
+⟦104⟧ = hit
+⟦105⟧ = Hoagy Carmichael
+⟦106⟧ = host
+⟦107⟧ = i Småland
+⟦108⟧ = Indiana
+⟦109⟧ = Indianapolis
+⟦110⟧ = Ingmar Bergman's film version
+⟦111⟧ = interest
+⟦112⟧ = its soundtrack
+⟦113⟧ = January
+⟦114⟧ = Johnny
+⟦115⟧ = Johnny Angel
+⟦116⟧ = Johnny Angel Wendell
+⟦117⟧ = Johnny Lee Clary
+⟦118⟧ = Johnny Wendell
+⟦119⟧ = June
+⟦120⟧ = Karl Gösta Prüzelius
+⟦121⟧ = KFI-AM640
+⟦122⟧ = Klöverhage
+⟦123⟧ = KTLK-AM
+⟦124⟧ = label
+⟦125⟧ = Lapland
+⟦126⟧ = leader
+⟦127⟧ = leading and supporting roles
+⟦128⟧ = Lee Pockriss
+⟦129⟧ = Los Angeles
+⟦130⟧ = love
+⟦131⟧ = Lyn Duddy
+⟦132⟧ = man
+⟦133⟧ = Mary Stone
+⟦134⟧ = Massachusetts
+⟦135⟧ = May
+⟦136⟧ = medley
+⟦137⟧ = melodramas
+⟦138⟧ = Michele Ann Marie Fabares
+⟦139⟧ = mixture
+⟦140⟧ = Monika
+⟦141⟧ = movie
+⟦142⟧ = movies
+⟦143⟧ = Mr. Angel
+⟦144⟧ = music
+⟦145⟧ = musician
+⟦146⟧ = Neo Nazis
+⟦147⟧ = Night
+⟦148⟧ = noir
+⟦149⟧ = novel
+⟦150⟧ = November
+⟦151⟧ = number
+⟦152⟧ = NWF
+⟦153⟧ = October
+⟦154⟧ = Oh Ruby
+⟦155⟧ = oldies
+⟦156⟧ = part
+⟦157⟧ = Perry Mason
+⟦158⟧ = policeman
+⟦159⟧ = pop
+⟦160⟧ = portrayals
+⟦161⟧ = professional wrestler Johnny Angel
+⟦162⟧ = racism
+⟦163⟧ = racism and hate groups
+⟦164⟧ = radio
+⟦165⟧ = radio talk show host
+⟦166⟧ = Raft
+⟦167⟧ = recording
+⟦168⟧ = resident
+⟦169⟧ = rock
+⟦170⟧ = rock stations
+⟦171⟧ = roles
+⟦172⟧ = Russell
+⟦173⟧ = Screen Gems
+⟦174⟧ = September
+⟦175⟧ = Shelley Fabares
+⟦176⟧ = show
+⟦177⟧ = side
+⟦178⟧ = Signe Hasso
+⟦179⟧ = singer
+⟦180⟧ = sitcom
+⟦181⟧ = song
+⟦182⟧ = sons
+⟦183⟧ = soundtrack
+⟦184⟧ = star
+⟦185⟧ = stations
+⟦186⟧ = Steve Fisher
+⟦187⟧ = success
+⟦188⟧ = Summer
+⟦189⟧ = talk
+⟦190⟧ = teaching
+⟦191⟧ = television
+⟦192⟧ = the "Billboard" Hot 100 chart
+⟦193⟧ = the 1930s
+⟦194⟧ = the 1945 film
+⟦195⟧ = the 1980s
+⟦196⟧ = The album
+⟦197⟧ = The American pop music duo
+⟦198⟧ = the Aryan Nations
+⟦199⟧ = the Åsa-Nisse films
+⟦200⟧ = the Badmen
+⟦201⟧ = The Carpenters
+⟦202⟧ = the early fifties
+⟦203⟧ = the Farmer's Daughter
+⟦204⟧ = the film
+⟦205⟧ = the gospel
+⟦206⟧ = the host
+⟦207⟧ = the Ku Klux Klan
+⟦208⟧ = the major-label debut album
+⟦209⟧ = The movie
+⟦210⟧ = the National Wrestling Federation
+⟦211⟧ = the novel
+⟦212⟧ = the original "Scarface
+⟦213⟧ = the policeman
+⟦214⟧ = the show
+⟦215⟧ = the sitcom
+⟦216⟧ = the song
+⟦217⟧ = the Swedish voice
+⟦218⟧ = the UK Singles Chart
+⟦219⟧ = the Wire
+⟦220⟧ = the world
+⟦221⟧ = their album
+⟦222⟧ = these two versions
+⟦223⟧ = three Emmys
+⟦224⟧ = three films
+⟦225⟧ = today
+⟦226⟧ = truck
+⟦227⟧ = version
+⟦228⟧ = versions
+⟦229⟧ = voice
+⟦230⟧ = Wendell
+⟦231⟧ = wife
+⟦232⟧ = William D. Russell
+⟦233⟧ = world
+⟦234⟧ = wrestler
+⟦235⟧ = writer
+⟦236⟧ = year
+⟦237⟧ = You Rock
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦116⟧⟨A⟩⟦39⟧⟦235⟧⟨B⟩⟨C⟩⟦145⟧⟦145⟧⟨D⟩⟨E⟩⟦164⟧⟦165⟧⟨F⟩⟦189⟧⟨H⟩⟦176⟧⟨I⟩⟦106⟧⟨G⟩⟨J⟩⟨K⟩⟦129⟧⟨L⟩⟦103⟧⟦182⟧⟨M⟩⟨N⟩⟨O⟩⟦168⟧⟨P⟩⟦134⟧⟨Q⟩⟦20⟧⟦57⟧⟨R⟩⟨S⟩⟦230⟧⟨T⟩⟦206⟧⟦106⟧⟨U⟩⟨V⟩⟦123⟧⟨W⟩⟦9⟧⟨X⟩⟦118⟧⟨Y⟩⟦230⟧⟨Z⟩⟦121⟧⟨[⟩⟦115⟧⟨\⟩⟦17⟧⟦80⟧⟨^⟩⟦148⟧⟨]⟩⟨_⟩⟦73⟧⟨`⟩⟦83⟧⟨a⟩⟦186⟧⟨b⟩⟦211⟧⟦149⟧⟨c⟩⟨d⟩⟦143⟧⟨e⟩⟦50⟧⟨f⟩⟦209⟧⟦141⟧⟨g⟩⟨h⟩⟦86⟧⟨i⟩⟦53⟧⟨j⟩⟦178⟧⟨k⟩⟦105⟧⟨l⟩⟦138⟧⟨m⟩⟦35⟧⟦30⟧⟨n⟩⟨o⟩⟦179⟧⟦179⟧⟨p⟩⟨q⟩⟦175⟧⟨r⟩⟨s⟩⟦94⟧⟦171⟧⟨t⟩⟨u⟩⟦69⟧⟦64⟧⟨v⟩⟨w⟩⟦133⟧⟨x⟩⟦11⟧⟨y⟩⟦91⟧⟦130⟧⟨{⟩⟦111⟧⟨z⟩⟨|⟩⟦76⟧⟦231⟧⟨}⟩⟨~⟩⟦52⟧⟨⟩⟦215⟧⟦180⟧⟨⟩⟨⟩⟦3⟧⟨⟩⟨⟩⟦74⟧⟦56⟧⟨⟩⟨⟩⟦184⟧⟦184⟧⟨⟩⟨⟩⟦224⟧⟦81⟧⟨⟩⟨⟩⟨⟩⟦93⟧⟦167⟧⟨⟩⟨⟩⟦8⟧⟨⟩⟦151⟧⟦151⟧⟨⟩⟨⟩⟦192⟧⟦51⟧⟨⟩⟨⟩⟨⟩⟦219⟧⟨⟩⟦208⟧⟦124⟧⟨⟩⟦32⟧⟨⟩⟨⟩⟦34⟧⟦169⟧⟨⟩⟦44⟧⟨⟩⟨⟩⟨⟩⟦41⟧⟨⟩⟨⟩⟦216⟧⟦181⟧⟨⟩⟨⟩⟦154⟧⟨⟩⟦31⟧⟦31⟧⟨ ⟩⟨¡⟩⟦169⟧⟦170⟧⟨¢⟩⟦185⟧⟨£⟩⟨¤⟩⟨¥⟩⟦237⟧⟨¦⟩⟦204⟧⟦80⟧⟨§⟩⟨¨⟩⟦114⟧⟨©⟩⟦112⟧⟦183⟧⟨ª⟩⟨«⟩⟦196⟧⟦32⟧⟨¬⟩⟨­⟩⟦45⟧⟦45⟧⟨®⟩⟨¯⟩⟦232⟧⟨°⟩⟦40⟧⟨±⟩⟦1⟧⟨²⟩⟦37⟧⟦80⟧⟨´⟩⟦191⟧⟨µ⟩⟦67⟧⟨³⟩⟨¶⟩⟨·⟩⟦109⟧⟨¸⟩⟦108⟧⟨¹⟩⟦40⟧⟨º⟩⟦100⟧⟦49⟧⟨»⟩⟨¼⟩⟦194⟧⟦80⟧⟨½⟩⟨¾⟩⟦7⟧⟨¿⟩⟨À⟩⟦95⟧⟦49⟧⟨Á⟩⟨Â⟩⟦80⟧⟦80⟧⟨Ã⟩⟨Ä⟩⟦101⟧⟦80⟧⟨Å⟩⟨Æ⟩⟦200⟧⟨Ç⟩⟨È⟩⟦202⟧⟦79⟧⟨É⟩⟨Ê⟩⟦191⟧⟦191⟧⟨Ë⟩⟨Ì⟩⟦173⟧⟨Í⟩⟦102⟧⟦60⟧⟨Î⟩⟨Ï⟩⟦75⟧⟦75⟧⟨Ð⟩⟨Ñ⟩⟦78⟧⟨Ò⟩⟦214⟧⟦176⟧⟨Ó⟩⟨Ô⟩⟦157⟧⟨Õ⟩⟦203⟧⟦64⟧⟨Ö⟩⟨×⟩⟦5⟧⟨Ø⟩⟦172⟧⟨Ù⟩⟦223⟧⟨Ú⟩⟦203⟧⟦64⟧⟨Û⟩⟨Ü⟩⟦77⟧⟨Ý⟩⟨Þ⟩⟦97⟧⟦49⟧⟨ß⟩⟨à⟩⟦96⟧⟦65⟧⟨á⟩⟨â⟩⟦40⟧⟨ã⟩⟦117⟧⟨ä⟩⟦119⟧⟨å⟩⟦153⟧⟨æ⟩⟦38⟧⟦132⟧⟨ç⟩⟨è⟩⟦19⟧⟦126⟧⟨é⟩⟨ê⟩⟦25⟧⟨ë⟩⟦220⟧⟦233⟧⟨ì⟩⟨í⟩⟦205⟧⟦89⟧⟨î⟩⟨ï⟩⟦190⟧⟨ð⟩⟦162⟧⟦163⟧⟨ñ⟩⟦90⟧⟨ò⟩⟨ó⟩⟦207⟧⟨ô⟩⟦146⟧⟨õ⟩⟦198⟧⟨ö⟩⟦54⟧⟨÷⟩⟦161⟧⟦234⟧⟨ù⟩⟨ø⟩⟦187⟧⟦187⟧⟨ú⟩⟨û⟩⟦195⟧⟦16⟧⟨ü⟩⟨ý⟩⟦210⟧⟨þ⟩⟦152⟧⟨ÿ⟩⟦120⟧⟨Ā⟩⟦13⟧⟨ā⟩⟦135⟧⟨Ă⟩⟦27⟧⟦29⟧⟨ă⟩⟨Ą⟩⟨ą⟩⟦98⟧⟦80⟧⟨ć⟩⟦156⟧⟨Ć⟩⟨Ĉ⟩⟦194⟧⟦80⟧⟨ĉ⟩⟨Ċ⟩⟦82⟧⟨ċ⟩⟦107⟧⟨Č⟩⟨č⟩⟦81⟧⟦81⟧⟨Ď⟩⟨ď⟩⟦188⟧⟨Đ⟩⟦140⟧⟨đ⟩⟦10⟧⟨Ē⟩⟦125⟧⟨ē⟩⟦6⟧⟨Ĕ⟩⟦33⟧⟨ĕ⟩⟦110⟧⟦80⟧⟨ė⟩⟦227⟧⟨Ė⟩⟨Ę⟩⟦12⟧⟨ę⟩⟨Ě⟩⟦217⟧⟦229⟧⟨ě⟩⟨Ĝ⟩⟦43⟧⟨ĝ⟩⟦68⟧⟨Ğ⟩⟦213⟧⟦158⟧⟨ğ⟩⟨Ġ⟩⟦122⟧⟨ġ⟩⟦24⟧⟦151⟧⟨Ģ⟩⟨ģ⟩⟦199⟧⟦81⟧⟨Ĥ⟩⟨ĥ⟩⟦86⟧⟨Ħ⟩⟦87⟧⟨ħ⟩⟦174⟧⟨Ĩ⟩⟦150⟧⟨ĩ⟩⟦36⟧⟦80⟧⟨ī⟩⟦29⟧⟨Ī⟩⟨Ĭ⟩⟦63⟧⟦63⟧⟨ĭ⟩⟨Į⟩⟦160⟧⟦160⟧⟨į⟩⟨İ⟩⟦85⟧⟦85⟧⟨ı⟩⟨Ĳ⟩⟦61⟧⟦62⟧⟨ĳ⟩⟦137⟧⟨Ĵ⟩⟨ĵ⟩⟦193⟧⟦14⟧⟨Ķ⟩⟨ķ⟩⟦15⟧⟦15⟧⟨ĸ⟩⟨Ĺ⟩⟨ĺ⟩⟦132⟧⟨Ļ⟩⟦70⟧⟦70⟧⟨ļ⟩⟨Ľ⟩⟦142⟧⟦142⟧⟨ľ⟩⟨Ŀ⟩⟦225⟧⟨ŀ⟩⟦166⟧⟨Ł⟩⟦99⟧⟦84⟧⟨Ń⟩⟦171⟧⟨ł⟩⟨ń⟩⟦212⟧⟨Ņ⟩⟦58⟧⟨ņ⟩⟦18⟧⟦63⟧⟨Ň⟩⟨ň⟩⟦2⟧⟦46⟧⟨ŉ⟩⟨Ŋ⟩⟦28⟧⟦226⟧⟨Ō⟩⟦71⟧⟨ŋ⟩⟨ō⟩⟦147⟧⟦147⟧⟨Ŏ⟩⟨ŏ⟩⟨Ő⟩⟦115⟧⟨ő⟩⟦26⟧⟦181⟧⟨Œ⟩⟨œ⟩⟦131⟧⟨Ŕ⟩⟦128⟧⟨ŕ⟩⟦216⟧⟦181⟧⟨Ŗ⟩⟨ŗ⟩⟦47⟧⟨Ř⟩⟦88⟧⟨ř⟩⟦222⟧⟦228⟧⟨Ś⟩⟨ś⟩⟨Ŝ⟩⟦175⟧⟨ŝ⟩⟦192⟧⟨Ş⟩⟦48⟧⟦179⟧⟨Š⟩⟨ş⟩⟦23⟧⟦104⟧⟨š⟩⟨Ţ⟩⟦92⟧⟦59⟧⟨ţ⟩⟨Ť⟩⟦8⟧⟨ť⟩⟦236⟧⟨Ŧ⟩⟦218⟧⟨ŧ⟩⟦197⟧⟦159⟧⟨ũ⟩⟦144⟧⟨Ū⟩⟦72⟧⟨Ũ⟩⟨ū⟩⟦201⟧⟨Ŭ⟩⟦8⟧⟨ŭ⟩⟦156⟧⟦156⟧⟨Ů⟩⟨ů⟩⟦21⟧⟦136⟧⟨Ű⟩⟨ű⟩⟦155⟧⟦155⟧⟨Ų⟩⟨ų⟩⟦177⟧⟦177⟧⟨Ŵ⟩⟨ŵ⟩⟦221⟧⟦32⟧⟨Ŷ⟩⟨ŷ⟩⟦55⟧⟨Ÿ⟩⟦113⟧⟨Ź⟩⟦153⟧⟨ź⟩⟦35⟧⟦30⟧⟨Ż⟩⟨ż⟩⟦179⟧⟦179⟧⟨Ž⟩⟨ž⟩⟨ſ⟩⟦24⟧⟦151⟧⟨ƀ⟩⟨Ɓ⟩⟦42⟧⟨Ƃ⟩⟦22⟧⟦139⟧⟨ƃ⟩⟨Ƅ⟩⟦127⟧⟦171⟧⟨ƅ⟩⟨Ɔ⟩⟨Ƈ⟩⟦80⟧⟨ƈ⟩⟦4⟧⟦66⟧⟨Ɖ⟩⟨Ɗ⟩
+
+问题：
+Which American film actor and dancer starred in the 1945 film Johnny Angel?
+
+任务：从拓扑链中选取多个你认为回答问题所需的截断片段。
+
+约束：
+- 每个截断必须是拓扑链中连续的符号序列
+- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）
+- 不能编造不存在的符号
+- 不能跳过中间的符号（保持相对顺序）
+- 不能重排符号顺序
+- 只选择能够帮助你解决问题的截断，宁缺毋滥
+
+输出格式：
+输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟩⟨B⟩⟦5⟩
+
+现在只输出符号序列（多个片段用 | 分隔）：

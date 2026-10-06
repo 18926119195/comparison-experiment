@@ -1,0 +1,123 @@
+材料：
+⟦1⟧ = (朱德义
+⟦2⟧ = 1,862,165 people
+⟦3⟧ = 112 km
+⟦4⟧ = 120 km
+⟦5⟧ = 22488.47 km2
+⟦6⟧ = 253 Mathilde
+⟦7⟧ = 6 urban districts
+⟦8⟧ = 朱德义
+⟦9⟧ = a city
+⟦10⟧ = a coastal district
+⟦11⟧ = a coastline
+⟦12⟧ = A crater
+⟦13⟧ = a district
+⟦14⟧ = a rare deer species
+⟦15⟧ = administration
+⟦16⟧ = area
+⟦17⟧ = areas
+⟦18⟧ = asteroid
+⟦19⟧ = bases
+⟦20⟧ = border
+⟦21⟧ = census
+⟦22⟧ = Chengzihe
+⟦23⟧ = China
+⟦24⟧ = Chinese
+⟦25⟧ = city
+⟦26⟧ = coal
+⟦27⟧ = coastline
+⟦28⟧ = conservation
+⟦29⟧ = crater
+⟦30⟧ = Dafeng
+⟦31⟧ = Dafeng District
+⟦32⟧ = deer
+⟦33⟧ = Didao
+⟦34⟧ = district
+⟦35⟧ = districts
+⟦36⟧ = eco
+⟦37⟧ = Heilongjiang
+⟦38⟧ = Heilongjiang province
+⟦39⟧ = Hengshan
+⟦40⟧ = Hengshan District
+⟦41⟧ = its administrative area
+⟦42⟧ = its built-up ("or metro") area
+⟦43⟧ = its well preserved eco-system
+⟦44⟧ = Jiangsu province
+⟦45⟧ = Jiguan
+⟦46⟧ = Jiguan District
+⟦47⟧ = Jixi
+⟦48⟧ = July
+⟦49⟧ = Khanka Lake
+⟦50⟧ = km
+⟦51⟧ = km2
+⟦52⟧ = level
+⟦53⟧ = Lishu District
+⟦54⟧ = Mashan District
+⟦55⟧ = mayor
+⟦56⟧ = Milu (麋鹿
+⟦57⟧ = mining
+⟦58⟧ = nature
+⟦59⟧ = numerous national conservation parks
+⟦60⟧ = parks
+⟦61⟧ = people
+⟦62⟧ = People's Republic
+⟦63⟧ = Père David's Deer
+⟦64⟧ = prefecture
+⟦65⟧ = province
+⟦66⟧ = reserve
+⟦67⟧ = Russia's Primorsky Krai
+⟦68⟧ = salt
+⟦69⟧ = seat
+⟦70⟧ = southeastern Heilongjiang Province
+⟦71⟧ = southwest
+⟦72⟧ = species
+⟦73⟧ = system
+⟦74⟧ = Taizhou
+⟦75⟧ = the 2010 census
+⟦76⟧ = the administration
+⟦77⟧ = The area
+⟦78⟧ = the border
+⟦79⟧ = the city
+⟦80⟧ = The district
+⟦81⟧ = the important coal mining bases
+⟦82⟧ = the Jiangsu North Plain
+⟦83⟧ = the Jixi city
+⟦84⟧ = the largest national nature reserve
+⟦85⟧ = the largest salt-making areas
+⟦86⟧ = The mayor
+⟦87⟧ = the Muling River
+⟦88⟧ = the prefecture-level city
+⟦89⟧ = the seat
+⟦90⟧ = the southwest
+⟦91⟧ = the Urban District
+⟦92⟧ = three districts
+⟦93⟧ = Tinghu District
+⟦94⟧ = up
+⟦95⟧ = Yancheng
+⟦96⟧ = Yandu District
+⟦97⟧ = Zhu Deyi
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦53⟧⟨A⟩⟦13⟧⟦34⟧⟨B⟩⟨C⟩⟦79⟧⟦25⟧⟨D⟩⟨E⟩⟦47⟧⟨F⟩⟦37⟧⟨G⟩⟦62⟧⟨H⟩⟦23⟧⟨I⟩⟦47⟧⟨J⟩⟦9⟧⟦25⟧⟨K⟩⟨L⟩⟦70⟧⟨M⟩⟦23⟧⟨N⟩⟨O⟩⟦75⟧⟦21⟧⟨P⟩⟨Q⟩⟦2⟧⟦61⟧⟨R⟩⟨S⟩⟦41⟧⟦16⟧⟨T⟩⟨U⟩⟦5⟧⟦51⟧⟨V⟩⟨W⟩⟦42⟧⟦94⟧⟨Y⟩⟦16⟧⟨X⟩⟨Z⟩⟦7⟧⟦35⟧⟨[⟩⟨\⟩⟦45⟧⟨]⟩⟦39⟧⟨^⟩⟦22⟧⟨_⟩⟦47⟧⟨`⟩⟦87⟧⟨a⟩⟦50⟧⟨b⟩⟦78⟧⟦20⟧⟨c⟩⟨d⟩⟦67⟧⟨e⟩⟦4⟧⟦50⟧⟨f⟩⟨g⟩⟦49⟧⟨h⟩⟦86⟧⟦55⟧⟨i⟩⟨j⟩⟦47⟧⟨k⟩⟦97⟧⟨l⟩⟦1⟧⟦8⟧⟨m⟩⟨n⟩⟦48⟧⟨o⟩⟦77⟧⟦16⟧⟨p⟩⟨q⟩⟦81⟧⟦26⟧⟨s⟩⟦57⟧⟨t⟩⟦19⟧⟨r⟩⟨u⟩⟦23⟧⟨v⟩⟦12⟧⟦29⟧⟨w⟩⟨x⟩⟦18⟧⟦18⟧⟨y⟩⟨z⟩⟦6⟧⟨{⟩⟦79⟧⟦25⟧⟨|⟩⟨}⟩⟦33⟧⟨~⟩⟦13⟧⟦34⟧⟨⟩⟨⟩⟦79⟧⟦25⟧⟨⟩⟨⟩⟦47⟧⟨⟩⟦38⟧⟦65⟧⟨⟩⟨⟩⟦62⟧⟨⟩⟦23⟧⟨⟩⟦96⟧⟨⟩⟦92⟧⟦35⟧⟨⟩⟨⟩⟦95⟧⟨⟩⟦44⟧⟦65⟧⟨⟩⟨⟩⟦23⟧⟨⟩⟨⟩⟦93⟧⟨⟩⟦31⟧⟨⟩⟦54⟧⟨⟩⟦13⟧⟦34⟧⟨⟩⟨⟩⟦79⟧⟦25⟧⟨⟩⟨⟩⟦47⟧⟨⟩⟦37⟧⟨⟩⟦62⟧⟨⟩⟦23⟧⟨⟩⟨⟩⟦76⟧⟦15⟧⟨⟩⟨⟩⟦83⟧⟦25⟧⟨⟩⟨⟩⟦46⟧⟨ ⟩⟦13⟧⟦34⟧⟨¡⟩⟨¢⟩⟦89⟧⟦69⟧⟨£⟩⟨¤⟩⟦79⟧⟦25⟧⟨¥⟩⟨¦⟩⟦47⟧⟨§⟩⟦38⟧⟦65⟧⟨¨⟩⟨©⟩⟦62⟧⟨ª⟩⟦23⟧⟨«⟩⟦30⟧⟨¬⟩⟦10⟧⟦34⟧⟨­⟩⟨®⟩⟦76⟧⟦15⟧⟨¯⟩⟨°⟩⟦95⟧⟨±⟩⟦44⟧⟦65⟧⟨²⟩⟨³⟩⟦23⟧⟨´⟩⟨µ⟩⟦82⟧⟨¶⟩⟦11⟧⟦27⟧⟨·⟩⟨¸⟩⟦3⟧⟦50⟧⟨¹⟩⟨º⟩⟦30⟧⟨»⟩⟦85⟧⟦68⟧⟨½⟩⟦17⟧⟨¼⟩⟨¾⟩⟦23⟧⟨¿⟩⟦43⟧⟦36⟧⟨Á⟩⟦73⟧⟨À⟩⟨Â⟩⟦59⟧⟦28⟧⟨Ä⟩⟦60⟧⟨Ã⟩⟨Å⟩⟦80⟧⟦34⟧⟨Æ⟩⟨Ç⟩⟦84⟧⟦58⟧⟨É⟩⟦66⟧⟨È⟩⟨Ê⟩⟦14⟧⟦32⟧⟨Ì⟩⟦72⟧⟨Ë⟩⟨Í⟩⟦63⟧⟨Î⟩⟦56⟧⟨Ï⟩⟦24⟧⟨Ð⟩⟨Ñ⟩⟦88⟧⟦64⟧⟨Ó⟩⟦52⟧⟨Ô⟩⟦25⟧⟨Ò⟩⟨Õ⟩⟦74⟧⟨Ö⟩⟦90⟧⟦71⟧⟨×⟩⟨Ø⟩⟦22⟧⟨Ù⟩⟦13⟧⟦34⟧⟨Ú⟩⟨Û⟩⟦47⟧⟨Ü⟩⟦37⟧⟨Ý⟩⟦62⟧⟨Þ⟩⟦23⟧⟨ß⟩⟦93⟧⟨à⟩⟦92⟧⟦35⟧⟨á⟩⟨â⟩⟦95⟧⟨ã⟩⟦44⟧⟦65⟧⟨ä⟩⟨å⟩⟦23⟧⟨æ⟩⟨ç⟩⟦96⟧⟨è⟩⟦31⟧⟨é⟩⟨ê⟩⟦93⟧⟨ë⟩⟦91⟧⟨ì⟩⟦95⟧⟨í⟩⟦40⟧⟨î⟩⟦13⟧⟦34⟧⟨ï⟩⟨ð⟩⟦79⟧⟦25⟧⟨ñ⟩⟨ò⟩⟦47⟧⟨ó⟩⟦38⟧⟦65⟧⟨ô⟩⟨õ⟩⟦62⟧⟨ö⟩⟦23⟧⟨÷⟩
+
+问题：
+What country are both Dafeng District and Jixi in?
+
+注意：你看到的拓扑链不是原文，而是符号化后的序列：
+- ⟦N⟧ 代表实体名词
+- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到
+
+任务：从拓扑链中选取多个你认为回答问题所需的截断片段。
+
+约束：
+- 每个截断必须是拓扑链中连续的符号序列
+- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）
+- 不能编造不存在的符号
+- 不能跳过中间的符号（保持相对顺序）
+- 不能重排符号顺序
+- 只选择能够帮助你解决问题的截断，宁缺毋滥
+
+输出格式：
+输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧
+
+现在只输出符号序列（多个片段用 | 分隔）：

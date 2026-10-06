@@ -1,0 +1,39 @@
+{
+  "qid": "hotpot_4427",
+  "question": "Are Mike Bryan and Ray Ruffels both tennis players?",
+  "expectedAnswer": "yes",
+  "predictedAnswer": "# 路径一：直接职业描述验证\n\n步骤1：使用⟦118⟧⟦119⟧，提取 Michael Carl Bryan 与 Mike Bryan 的名称对应关系，判断 Mike Bryan 即 Michael Carl Bryan 的常用称呼。\n\n步骤2：结合⟦118⟧⟦34⟧，提取 Michael Carl Bryan 被描述为 “an American professional tennis player”，因此 Mike Bryan 是职业网球运动员。\n\n步骤3：使用⟦151⟧⟦150⟧⟦36⟧，提取 Raymond Owen \"Ray\" Ruffels 即 Ray Ruffels，并被描述为 “an Australian former professional tennis player”，因此 Ray Ruffels 也是网球运动员。\n\n结论：是。Mike Bryan 和 Ray Ruffels 都是网球运动员。\n\n# 路径二：赛事冠军语境与职业描述交叉验证\n\n步骤1：使用⟦51⟧⟦119⟧⟦197⟧⟦76⟧⟦59⟧，提取 Bob 与 Mike Bryan 出现在双打冠军语境中，判断 Mike Bryan 参与网球双打赛事并具有冠军身份。\n\n步骤2：使用⟦150⟧⟦195⟧⟦59⟧，提取 Ray Ruffels 与 Allan Stone 出现在卫冕冠军语境中，判断 Ray Ruffels 也参与网球竞赛并具有冠军身份。\n\n步骤3：综合⟦34⟧⟦36⟧⟦174⟧⟦142⟧，两人的赛事语境最终都与 “professional tennis player / former professional tennis player” 的职业描述一致。\n\n结论：是。赛事冠军语境和职业描述相互支撑，表明二者都是网球运动员。\n\n# 路径三：职业类别对比排除干扰\n\n步骤1：使用⟦34⟧，提取 Mike Bryan 的职业类别为 “American professional tennis player”。\n\n步骤2：使用⟦36⟧，提取 Ray Ruffels 的职业类别为 “Australian former professional tennis player”。\n\n步骤3：综合⟦174⟧⟦142⟧⟦177⟧，比较两者标签，虽然国籍不同、现役状态不同，但共同包含 tennis / player 特征，因此都属于网球运动员。\n\n结论：是。国籍和现役状态差异不影响判断，Mike Bryan 和 Ray Ruffels 都是网球运动员。",
+  "recallMode": "recall",
+  "recallValid": true,
+  "recallTruncation": "⟦183⟧⟦22⟧⟦174⟧⟦79⟧⟦182⟧⟦110⟧⟦181⟧⟦157⟧⟦251⟧⟦225⟧⟦162⟧⟦57⟧",
+  "nounCount": 373,
+  "score": 0,
+  "config": {
+    "MODEL": "deepseek-flash",
+    "recallThinking": false,
+    "reasoningThinking": true
+  },
+  "recallUsage": {
+    "prompt_tokens": 6505,
+    "completion_tokens": 266,
+    "total_tokens": 6771,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6505
+  },
+  "reasoningUsage": {
+    "prompt_tokens": 4804,
+    "completion_tokens": 4653,
+    "total_tokens": 9457,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4175
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4804
+  }
+}

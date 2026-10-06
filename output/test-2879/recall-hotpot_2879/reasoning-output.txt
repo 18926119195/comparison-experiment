@@ -1,0 +1,23 @@
+# 路径一：从 Grown-Ups 演员表定位 Sam Kelly
+
+步骤1：使用⟦67⟧⟦14⟧，提取到“Grown-Ups”是 1980 年英国 BBC 电视电影。  
+步骤2：综合⟦67⟧及附近演员信息与⟦118⟧，在 Grown-Ups 的演员/参与列表中出现 Sam Kelly。  
+步骤3：使用⟦118⟧⟦46⟧⟦27⟧⟦28⟧，Sam Kelly 与《'Allo 'Allo!》中的 Captain Hans Geering 关联。  
+
+结论：Grown-Ups 中的该演员是 Sam Kelly，他在《'Allo 'Allo!》中的角色是 **Captain Hans Geering**。
+
+# 路径二：Sam Kelly 传记交叉验证
+
+步骤1：使用⟦118⟧⟦95⟧⟦165⟧⟦127⟧，确认 Sam Kelly 的姓名、艺名及演员身份。  
+步骤2：综合⟦71⟧⟦116⟧，提取 Sam Kelly 的知名角色列表。  
+步骤3：使用⟦46⟧⟦27⟧，其中对应《'Allo 'Allo!》的角色是 Captain Hans Geering；并用⟦131⟧⟦3⟧排除 Barbara 中的 Ted Liversidge。  
+
+结论：问题所问的《'Allo 'Allo!》角色应为 **Captain Hans Geering**。
+
+# 路径三：排除 Richard Gibson 干扰
+
+步骤1：使用⟦111⟧⟦30⟧⟦70⟧⟦139⟧⟦121⟧⟦28⟧，Richard Gibson 最知名角色是《'Allo 'Allo!》中的 Herr Otto Flick。  
+步骤2：综合⟦67⟧⟦118⟧，Grown-Ups 的演员链中连接的是 Sam Kelly，而非 Richard Gibson；Richard Gibson 在此是另一条《'Allo 'Allo!》演员信息，构成干扰项。  
+步骤3：对比⟦118⟧与⟦111⟧，问题问的是“Grown-Ups starred the actor”，应指向 Sam Kelly。  
+
+结论：不是 Herr Otto Flick，而是 **Captain Hans Geering**。

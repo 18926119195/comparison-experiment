@@ -1,0 +1,25 @@
+
+===== [recall] Which American film actor and dancer starred in the 1945 film Johnny Angel? =====
+{
+  "question": "Which American film actor and dancer starred in the 1945 film Johnny Angel?",
+  "mode": "recall",
+  "enableThinking": true,
+  "usage": {
+    "prompt_tokens": 7036,
+    "completion_tokens": 7015,
+    "total_tokens": 14051,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 6600
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 7036
+  },
+  "promptLength": 8055,
+  "promptHead": "注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示\"这里存在某种关系\"\n\n你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。\n\n材料：\n⟦1⟧ = - April\n⟦2⟧ = \"Bolero\n⟦3⟧ = \"Coach\n⟦4⟧ = \"Detour\n⟦5⟧ = \"Family Affair\n⟦6⟧ = \"Fanny\n⟦7⟧ = \"Hollywood Victory Caravan\n⟦8⟧ = \"Johnny Angel\n⟦9⟧ = \"Southern California\n⟦10⟧ = \"Space Invasion\n⟦11⟧ = \"The Donna Reed Show\n⟦12⟧ = \"The Magic Flute\n⟦13⟧ = 11 August\n⟦14⟧ = 1930s\n⟦15⟧ = 1940s\n⟦16⟧ = 1980s\n⟦17⟧ = a 1945 film noir\n⟦18⟧ = a dancer\n⟦19⟧ = a Ku Klux Klan leader\n⟦20⟧ = a Los Angeles Weekly columnist\n⟦21⟧ = a medley\n⟦22⟧ = a mixture\n⟦23⟧ = a moderate hit\n⟦24⟧ = a number\n⟦25⟧ = a Pentecostal Christian\n⟦26⟧ = a song\n⟦27⟧ = a Swedish actor\n⟦28⟧ = a truck driver\n⟦29⟧ = actor\n⟦30⟧ = actress\n⟦31⟧ = airplay\n⟦32⟧ = album\n⟦33⟧ = Alexander\n⟦34⟧ = American hard rock band Dirty Looks\n⟦35⟧ = an American actress\n⟦36⟧ = an American film actor\n⟦37⟧ = an American film and television director\n⟦38⟧ = an American man\n⟦39⟧ = an American writer\n⟦40⟧ = April\n⟦41⟧ = Atlantic Records\n⟦42⟧ = B Movies\n⟦43⟧ = Bagheera\n⟦44⟧ = band\n⟦45⟧ = Billboard\n⟦46⟧ = Bolero\n⟦47⟧ = both Laurie Loman\n⟦48⟧ = British singer Patti Lynn\n⟦49⟧ = career\n⟦50⟧ = Charles Gordon Booth\n⟦51⟧ = chart\n⟦52⟧ = Christine Armstrong\n⟦53⟧ = Claire Trevor\n⟦54⟧ = Clary\n⟦55⟧ = Claudia Drake\n⟦56⟧ = co\n⟦57⟧ = columnist\n⟦58⟧ = comedy\n⟦59⟧ = cover\n⟦60⟧ = credits\n⟦61⟧ = crime\n⟦62⟧ = crime melodramas\n⟦63⟧ = dancer\n⟦64⟧ = daughter\n⟦65⟧ = death\n⟦66⟧ = Detour\n⟦67⟧ = director\n⟦68⟧ = Disney's \"The Jungle Book\n⟦69⟧ = Donn",
+  "promptTail": "⟦122⟧⟦24⟧⟦151⟧⟦199⟧⟦81⟧⟦86⟧⟦87⟧⟦174⟧⟦150⟧⟦36⟧⟦80⟧⟦29⟧⟦63⟧⟦63⟧⟦160⟧⟦160⟧⟦85⟧⟦85⟧⟦61⟧⟦62⟧⟦137⟧⟦193⟧⟦14⟧⟦15⟧⟦15⟧⟦132⟧⟦70⟧⟦70⟧⟦142⟧⟦142⟧⟦225⟧⟦166⟧⟦99⟧⟦84⟧⟦171⟧⟦212⟧⟦58⟧⟦18⟧⟦63⟧⟦2⟧⟦46⟧⟦28⟧⟦226⟧⟦71⟧⟦147⟧⟦147⟧⟦115⟧⟦26⟧⟦181⟧⟦131⟧⟦128⟧⟦216⟧⟦181⟧⟦47⟧⟦88⟧⟦222⟧⟦228⟧⟦175⟧⟦192⟧⟦48⟧⟦179⟧⟦23⟧⟦104⟧⟦92⟧⟦59⟧⟦8⟧⟦236⟧⟦218⟧⟦197⟧⟦159⟧⟦144⟧⟦72⟧⟦201⟧⟦8⟧⟦156⟧⟦156⟧⟦21⟧⟦136⟧⟦155⟧⟦155⟧⟦177⟧⟦177⟧⟦221⟧⟦32⟧⟦55⟧⟦113⟧⟦153⟧⟦35⟧⟦30⟧⟦179⟧⟦179⟧⟦24⟧⟦151⟧⟦42⟧⟦22⟧⟦139⟧⟦127⟧⟦171⟧⟦80⟧⟦4⟧⟦66⟧\n\n占位符映射：\n⟨\\⟩ =  is \n⟨^⟩ =  \n⟨i⟩ = , \n⟨m⟩ =  ( ; born January 19, 1944) is \n\n---\n\n要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。\n\n格式：\n\n# 路径一：[标题]\n\n步骤1：使用⟦X⟧，提取...\n步骤2：综合⟦Y⟧⟦Z⟧，对比...\n\n结论：[此路径结论]\n\n（继续路径二、三...）\n\n**引用规范**：\n- 单个材料：使用⟦N⟧，提取...，判断...\n- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...\n\n**推理策略**：\n- 对比论证：对比不同材料中的矛盾或差异\n- 交叉验证：从多个材料中找到互相支撑的证据\n- 综合支撑：从多处提取一致的特征或模式",
+  "answer": "# 路径一：电影关联定位\n\n步骤1：使用⟦115⟧，提取“Johnny Angel”这一名称。\n步骤2：综合⟦17⟧⟦80⟧⟦148⟧，判断“Johnny Angel”是 a 1945 film noir，即 1945 年电影。\n步骤3：使用⟦86⟧，提取“George Raft”；综合⟦53⟧⟦178⟧，确认 George Raft 与 Claire Trevor、Signe Hasso 共同出现在该电影相关演员信息中。\n结论：George Raft 是 1945 年电影《Johnny Angel》的主演。\n\n# 路径二：演员身份验证\n\n步骤1：使用⟦86⟧，提取“George Raft”。\n步骤2：综合⟦87⟧，确认 George Raft 又名 George Ranft。\n步骤3：综合⟦36⟧⟦29⟧⟦63⟧⟦18⟧，确认 George Raft 是美国电影演员（an American film actor / actor）和舞者（dancer / a dancer）。\n结论：George Raft 符合问题中“美国电影演员和舞者”的身份描述。\n\n# 路径三：交叉排除歧义\n\n步骤1：使用⟦8⟧⟦181⟧⟦26⟧，注意到“Johnny Angel”也关联一首歌曲，需排除歌曲歧义。\n步骤2：综合⟦115⟧⟦17⟧⟦80⟧⟦148⟧，锁定问题指向的是 1945 年电影《Johnny Angel》。\n步骤3：使用⟦166⟧，提取“Raft”，并与⟦86⟧关联；综合⟦99⟧⟦84⟧⟦18⟧⟦63⟧，确认其演员与舞者背景。\n结论：因此主演该 1945 年电影的是 George Raft。",
+  "multiTurnTurnCount": 4
+}

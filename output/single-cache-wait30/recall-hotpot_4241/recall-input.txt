@@ -1,0 +1,272 @@
+注意：你看到的拓扑链不是原文，而是符号化后的序列：
+- ⟦N⟧ 代表实体名词
+- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示"这里存在某种关系"
+
+你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。
+
+材料：
+⟦1⟧ = "Crazy Love
+⟦2⟧ = "Irish Heartbeat
+⟦3⟧ = "Reload
+⟦4⟧ = "The Best
+⟦5⟧ = ("Tupelo Honey
+⟦6⟧ = 11 June
+⟦7⟧ = 12 June
+⟦8⟧ = 13 March
+⟦9⟧ = 19 June
+⟦10⟧ = 1990s
+⟦11⟧ = 25 years
+⟦12⟧ = 27 August
+⟦13⟧ = 31 tracks
+⟦14⟧ = 4 June
+⟦15⟧ = a childhood influence
+⟦16⟧ = a cold
+⟦17⟧ = a compilation album
+⟦18⟧ = a concert
+⟦19⟧ = a critical and commercial success
+⟦20⟧ = a digital version
+⟦21⟧ = a limited edition live album
+⟦22⟧ = a live album
+⟦23⟧ = a Northern Irish band
+⟦24⟧ = a range
+⟦25⟧ = a second and third greatest hits volume
+⟦26⟧ = a song
+⟦27⟧ = Alan Henderson
+⟦28⟧ = album
+⟦29⟧ = albums
+⟦30⟧ = almost every song
+⟦31⟧ = an overview
+⟦32⟧ = April
+⟦33⟧ = artists
+⟦34⟧ = Austin City Limits Festival
+⟦35⟧ = B.B. King
+⟦36⟧ = band
+⟦37⟧ = Belfast
+⟦38⟧ = best shape
+⟦39⟧ = Billy Harrison
+⟦40⟧ = birthplace
+⟦41⟧ = Blue
+⟦42⟧ = Bob Rock
+⟦43⟧ = Bobby Womack
+⟦44⟧ = both "Avalon Sunset
+⟦45⟧ = career
+⟦46⟧ = charity
+⟦47⟧ = childhood
+⟦48⟧ = Chris Barber
+⟦49⟧ = Chris Farlowe
+⟦50⟧ = Clare Teal
+⟦51⟧ = cold
+⟦52⟧ = collaborations
+⟦53⟧ = collection
+⟦54⟧ = compilation
+⟦55⟧ = concert
+⟦56⟧ = concerts
+⟦57⟧ = Cyprus Avenue
+⟦58⟧ = daughter
+⟦59⟧ = death
+⟦60⟧ = disc
+⟦61⟧ = Don Was
+⟦62⟧ = Donegan's first studio album
+⟦63⟧ = duet
+⟦64⟧ = duets
+⟦65⟧ = edition
+⟦66⟧ = efforts
+⟦67⟧ = Eric Wrixon
+⟦68⟧ = finally Bobby Tench's prickly electric guitar
+⟦69⟧ = footage
+⟦70⟧ = four live shows
+⟦71⟧ = four songs
+⟦72⟧ = friends
+⟦73⟧ = garage
+⟦74⟧ = George Benson
+⟦75⟧ = Georgie Fame
+⟦76⟧ = Green
+⟦77⟧ = Gregory Porter
+⟦78⟧ = group
+⟦79⟧ = guests
+⟦80⟧ = guitar
+⟦81⟧ = Gulf Coast victims
+⟦82⟧ = Hammond organ
+⟦83⟧ = headliner
+⟦84⟧ = his career
+⟦85⟧ = his death
+⟦86⟧ = his large volume
+⟦87⟧ = his last two albums
+⟦88⟧ = his own skiffle
+⟦89⟧ = his recording career
+⟦90⟧ = his voice
+⟦91⟧ = history
+⟦92⟧ = Home
+⟦93⟧ = hurricane Katrina
+⟦94⟧ = Hyndford Street
+⟦95⟧ = images
+⟦96⟧ = influence
+⟦97⟧ = Ireland
+⟦98⟧ = Its success
+⟦99⟧ = iTunes Store
+⟦100⟧ = jazz
+⟦101⟧ = jazz singer Georgie Fame
+⟦102⟧ = John Lee Hooker
+⟦103⟧ = Jones' successful album
+⟦104⟧ = Joss Stone
+⟦105⟧ = Line"/"John
+⟦106⟧ = live Van Morrison concerts
+⟦107⟧ = long-time friends
+⟦108⟧ = Lonnie Donegan
+⟦109⟧ = Manhattan/EMI Music Catalog Marketing
+⟦110⟧ = March
+⟦111⟧ = Mark Knopfler
+⟦112⟧ = material
+⟦113⟧ = Mavis Staples
+⟦114⟧ = member
+⟦115⟧ = Michael Bublé
+⟦116⟧ = Mick Hucknall
+⟦117⟧ = money
+⟦118⟧ = Moondance
+⟦119⟧ = Morrison
+⟦120⟧ = Morrison's 1970 album
+⟦121⟧ = Morrison's best-seller
+⟦122⟧ = Morrison's birthplace
+⟦123⟧ = Morrison’s daughter
+⟦124⟧ = Morrison's last four recordings
+⟦125⟧ = Morrison's mainstream popularity
+⟦126⟧ = Morrison's work
+⟦127⟧ = Mose Allison
+⟦128⟧ = music
+⟦129⟧ = Natalie Cole
+⟦130⟧ = New York City
+⟦131⟧ = night
+⟦132⟧ = Northern Ireland
+⟦133⟧ = Northern Irish singer-songwriter Van Morrison
+⟦134⟧ = Northern Irish singer/songwriter Van Morrison
+⟦135⟧ = organ
+⟦136⟧ = overview
+⟦137⟧ = P.J. Proby
+⟦138⟧ = part
+⟦139⟧ = Performances
+⟦140⟧ = Polydor Records
+⟦141⟧ = popularity
+⟦142⟧ = previously unreleased collaborations
+⟦143⟧ = range
+⟦144⟧ = Ray Charles
+⟦145⟧ = RCA Records
+⟦146⟧ = recording
+⟦147⟧ = recordings
+⟦148⟧ = records
+⟦149⟧ = release
+⟦150⟧ = relief
+⟦151⟧ = relief efforts
+⟦152⟧ = resonance
+⟦153⟧ = reviewers
+⟦154⟧ = rock
+⟦155⟧ = Rock Island Line"/"John Henry
+⟦156⟧ = Ronnie Milling
+⟦157⟧ = sax
+⟦158⟧ = schoolmates
+⟦159⟧ = seller
+⟦160⟧ = September
+⟦161⟧ = sessions
+⟦162⟧ = Shana Morrison
+⟦163⟧ = shape
+⟦164⟧ = shows
+⟦165⟧ = singer
+⟦166⟧ = singer Van Morrison's musical career
+⟦167⟧ = Some reviewers
+⟦168⟧ = song
+⟦169⟧ = songs
+⟦170⟧ = songwriter
+⟦171⟧ = standard
+⟦172⟧ = states
+⟦173⟧ = Steve Winwood
+⟦174⟧ = studio
+⟦175⟧ = success
+⟦176⟧ = Taj Mahal
+⟦177⟧ = tenor
+⟦178⟧ = textures
+⟦179⟧ = the 1990s
+⟦180⟧ = The 2003 duet
+⟦181⟧ = the 35th studio album
+⟦182⟧ = the album
+⟦183⟧ = The album's thirty-one tracks
+⟦184⟧ = the artists
+⟦185⟧ = the Austin City Limits Festival concert
+⟦186⟧ = the band
+⟦187⟧ = The Best
+⟦188⟧ = the best-selling records
+⟦189⟧ = the British Invasion
+⟦190⟧ = The Caledonia Soul Orchestra
+⟦191⟧ = the Catalogue
+⟦192⟧ = the CD version
+⟦193⟧ = the charity album
+⟦194⟧ = the Chris Barber jazz band
+⟦195⟧ = The Concert
+⟦196⟧ = the dark resonance
+⟦197⟧ = The duet
+⟦198⟧ = the first night headliner
+⟦199⟧ = the first official video
+⟦200⟧ = the garage rock standard "Gloria
+⟦201⟧ = the Grand Opera House
+⟦202⟧ = the Grand Opera House Belfast
+⟦203⟧ = the group
+⟦204⟧ = the NME states
+⟦205⟧ = the Northern Irish band
+⟦206⟧ = The original five member band
+⟦207⟧ = the release
+⟦208⟧ = the same recording sessions
+⟦209⟧ = the second live album
+⟦210⟧ = the second video
+⟦211⟧ = The Skiffle Sessions
+⟦212⟧ = The Story
+⟦213⟧ = the two artists
+⟦214⟧ = the two-year history
+⟦215⟧ = the U.S.
+⟦216⟧ = the UK
+⟦217⟧ = the United States
+⟦218⟧ = the Van Morrison Official website
+⟦219⟧ = The video
+⟦220⟧ = the vocalist
+⟦221⟧ = their own songs
+⟦222⟧ = then Pat Kyle's bright sharp tenor sax
+⟦223⟧ = This new two-disc collection
+⟦224⟧ = This video
+⟦225⟧ = time
+⟦226⟧ = Tom Jones
+⟦227⟧ = Toni Marcus' violin
+⟦228⟧ = Tony Stewart
+⟦229⟧ = tracks
+⟦230⟧ = twenty years
+⟦231⟧ = two special guests
+⟦232⟧ = Van Morrison
+⟦233⟧ = Van Morrison Volume
+⟦234⟧ = version
+⟦235⟧ = victims
+⟦236⟧ = video
+⟦237⟧ = violin
+⟦238⟧ = vocalist
+⟦239⟧ = voice
+⟦240⟧ = volume
+⟦241⟧ = website
+⟦242⟧ = work
+⟦243⟧ = year
+⟦244⟧ = years
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟨A⟩⟦34⟧⟨B⟩⟦133⟧⟦165⟧⟨D⟩⟦170⟧⟨E⟩⟨C⟩⟦21⟧⟦65⟧⟨G⟩⟦28⟧⟨F⟩⟨H⟩⟦185⟧⟦55⟧⟨I⟩⟨J⟩⟦198⟧⟦131⟧⟨L⟩⟦83⟧⟨K⟩⟨M⟩⟦160⟧⟨N⟩⟨O⟩⟦106⟧⟦56⟧⟨P⟩⟨Q⟩⟦218⟧⟦241⟧⟨R⟩⟨S⟩⟦187⟧⟨T⟩⟦233⟧⟨U⟩⟦17⟧⟦54⟧⟨W⟩⟦28⟧⟨V⟩⟨X⟩⟦133⟧⟦165⟧⟨Z⟩⟦170⟧⟨[⟩⟨Y⟩⟦6⟧⟨\⟩⟦216⟧⟨]⟩⟦20⟧⟦234⟧⟨^⟩⟨_⟩⟦215⟧⟨`⟩⟦99⟧⟨a⟩⟦7⟧⟨b⟩⟦109⟧⟨c⟩⟦192⟧⟦234⟧⟨d⟩⟨e⟩⟦182⟧⟦28⟧⟨f⟩⟨g⟩⟦9⟧⟨h⟩⟦217⟧⟨i⟩⟦223⟧⟦60⟧⟨k⟩⟦53⟧⟨j⟩⟨l⟩⟦13⟧⟦229⟧⟨m⟩⟨n⟩⟦119⟧⟨o⟩⟨p⟩⟦31⟧⟦136⟧⟨q⟩⟨r⟩⟦86⟧⟦240⟧⟨s⟩⟨t⟩⟦112⟧⟦112⟧⟨u⟩⟨v⟩⟦207⟧⟦149⟧⟨w⟩⟨x⟩⟦4⟧⟨y⟩⟦233⟧⟨z⟩⟦183⟧⟦28⟧⟨|⟩⟦229⟧⟨{⟩⟨}⟩⟦142⟧⟦52⟧⟨~⟩⟨⟩⟦226⟧⟨⟩⟦92⟧⟦92⟧⟨⟩⟨⟩⟦5⟧⟨⟩⟦64⟧⟨⟩⟦102⟧⟨⟩⟦35⟧⟨⟩⟦144⟧⟨⟩⟦180⟧⟦63⟧⟨⟩⟨⟩⟦144⟧⟨⟩⟦1⟧⟨⟩⟦26⟧⟦168⟧⟨⟩⟨⟩⟦120⟧⟦28⟧⟨⟩⟨⟩⟦118⟧⟨⟩⟨⟩⟦41⟧⟨⟩⟦76⟧⟨⟩⟦193⟧⟦46⟧⟨⟩⟦28⟧⟨⟩⟨⟩⟦117⟧⟦117⟧⟨⟩⟨⟩⟦150⟧⟦151⟧⟨⟩⟦66⟧⟨⟩⟨⟩⟦81⟧⟦235⟧⟨⟩⟨⟩⟦93⟧⟨⟩⟦197⟧⟦63⟧⟨⟩⟨ ⟩⟦226⟧⟨¡⟩⟦92⟧⟦92⟧⟨¢⟩⟨£⟩⟦208⟧⟦146⟧⟨¥⟩⟦161⟧⟨¤⟩⟨¦⟩⟦63⟧⟨§⟩⟦213⟧⟦33⟧⟨¨⟩⟨©⟩⟦103⟧⟦28⟧⟨ª⟩⟨«⟩⟦3⟧⟨¬⟩⟨­⟩⟦92⟧⟦92⟧⟨®⟩⟨¯⟩⟦14⟧⟨°⟩⟦216⟧⟨±⟩⟦41⟧⟨²⟩⟦76⟧⟨³⟩⟦12⟧⟨´⟩⟦212⟧⟨µ⟩⟦232⟧⟨¶⟩⟦17⟧⟦54⟧⟨¸⟩⟦28⟧⟨·⟩⟨¹⟩⟦30⟧⟦168⟧⟨º⟩⟨»⟩⟦205⟧⟦36⟧⟨¼⟩⟨½⟩⟦214⟧⟦243⟧⟨¿⟩⟦91⟧⟨¾⟩⟨À⟩⟦186⟧⟦36⟧⟨Á⟩⟨Â⟩⟦232⟧⟨Ã⟩⟦220⟧⟦238⟧⟨Ä⟩⟨Å⟩⟦203⟧⟦78⟧⟨Æ⟩⟨Ç⟩⟦211⟧⟨È⟩⟦37⟧⟨É⟩⟦22⟧⟦28⟧⟨Ê⟩⟨Ë⟩⟦133⟧⟦165⟧⟨Í⟩⟦170⟧⟨Î⟩⟨Ì⟩⟦108⟧⟨Ï⟩⟦48⟧⟨Ð⟩⟦128⟧⟦128⟧⟨Ñ⟩⟨Ò⟩⟦108⟧⟨Ó⟩⟦194⟧⟦100⟧⟨Õ⟩⟦36⟧⟨Ô⟩⟨Ö⟩⟦155⟧⟦105⟧⟨Ø⟩⟨×⟩⟨Ù⟩⟦15⟧⟦47⟧⟨Û⟩⟦96⟧⟨Ú⟩⟨Ü⟩⟦232⟧⟨Ý⟩⟦88⟧⟨Þ⟩⟦36⟧⟨ß⟩⟦158⟧⟦158⟧⟨à⟩⟨á⟩⟦244⟧⟨â⟩⟦37⟧⟨ã⟩⟦132⟧⟨ä⟩⟨å⟩⟦62⟧⟦174⟧⟨ç⟩⟦28⟧⟨æ⟩⟨è⟩⟦230⟧⟦244⟧⟨é⟩⟨ê⟩⟦84⟧⟦45⟧⟨ë⟩⟨ì⟩⟦85⟧⟦59⟧⟨í⟩⟨î⟩⟨ï⟩⟦202⟧⟨ð⟩⟦22⟧⟦28⟧⟨ñ⟩⟨ò⟩⟦133⟧⟦165⟧⟨ô⟩⟦170⟧⟨õ⟩⟨ó⟩⟦128⟧⟦128⟧⟨ö⟩⟨÷⟩⟨ø⟩⟦70⟧⟦164⟧⟨ù⟩⟨ú⟩⟦110⟧⟨û⟩⟦201⟧⟨ü⟩⟦37⟧⟨ý⟩⟦132⟧⟨þ⟩⟦122⟧⟦40⟧⟨ÿ⟩⟨Ā⟩⟦182⟧⟦28⟧⟨ā⟩⟨Ă⟩⟦169⟧⟦169⟧⟨ă⟩⟨Ą⟩⟦124⟧⟦147⟧⟨ą⟩⟨Ć⟩⟨ć⟩⟦209⟧⟦28⟧⟨Ĉ⟩⟨ĉ⟩⟦119⟧⟨Ċ⟩⟦244⟧⟨ċ⟩⟨Č⟩⟦23⟧⟦36⟧⟨č⟩⟨Ď⟩⟦37⟧⟨ď⟩⟦32⟧⟨Đ⟩⟦200⟧⟦73⟧⟨Ē⟩⟦154⟧⟨ē⟩⟦171⟧⟨Ĕ⟩⟨đ⟩⟦165⟧⟦166⟧⟨ĕ⟩⟦45⟧⟨Ė⟩⟨ė⟩⟦206⟧⟦114⟧⟨ę⟩⟦36⟧⟨Ę⟩⟨Ě⟩⟦119⟧⟨ě⟩⟦27⟧⟨Ĝ⟩⟦156⟧⟨ĝ⟩⟦39⟧⟨Ğ⟩⟦67⟧⟨ğ⟩⟦203⟧⟦78⟧⟨Ġ⟩⟨ġ⟩⟦217⟧⟨Ģ⟩⟦138⟧⟦138⟧⟨ģ⟩⟨Ĥ⟩⟦189⟧⟨ĥ⟩⟦187⟧⟨Ħ⟩⟦232⟧⟨ħ⟩⟦17⟧⟦54⟧⟨ĩ⟩⟦28⟧⟨Ĩ⟩⟨Ī⟩⟦133⟧⟦165⟧⟨Ĭ⟩⟦170⟧⟨ĭ⟩⟨ī⟩⟨Į⟩⟦169⟧⟦169⟧⟨į⟩⟨İ⟩⟦11⟧⟦244⟧⟨ı⟩⟨Ĳ⟩⟦89⟧⟦146⟧⟨Ĵ⟩⟦45⟧⟨ĳ⟩⟨ĵ⟩⟨Ķ⟩⟦140⟧⟨ķ⟩⟦182⟧⟦28⟧⟨ĸ⟩⟨Ĺ⟩⟦19⟧⟦175⟧⟨ĺ⟩⟨Ļ⟩⟦188⟧⟦148⟧⟨ļ⟩⟨Ľ⟩⟦179⟧⟦10⟧⟨ľ⟩⟨Ŀ⟩⟦125⟧⟦141⟧⟨ŀ⟩⟨Ł⟩⟦98⟧⟦175⟧⟨ł⟩⟨Ń⟩⟦25⟧⟦240⟧⟨ń⟩⟨Ņ⟩⟦182⟧⟦28⟧⟨ņ⟩⟨Ň⟩⟦121⟧⟦159⟧⟨ň⟩⟨ŉ⟩⟦232⟧⟨Ŋ⟩⟦97⟧⟨ŋ⟩⟦199⟧⟦236⟧⟨Ō⟩⟨ō⟩⟦133⟧⟦165⟧⟨ŏ⟩⟦170⟧⟨Ő⟩⟨Ŏ⟩⟦18⟧⟦55⟧⟨ő⟩⟨Œ⟩⟦119⟧⟨œ⟩⟦132⟧⟨Ŕ⟩⟦244⟧⟨ŕ⟩⟦219⟧⟦236⟧⟨Ŗ⟩⟨ŗ⟩⟦69⟧⟦69⟧⟨Ř⟩⟨ř⟩⟦186⟧⟦36⟧⟨Ś⟩⟨ś⟩⟦97⟧⟨Ŝ⟩⟦95⟧⟦95⟧⟨ŝ⟩⟨Ş⟩⟦37⟧⟨ş⟩⟦94⟧⟨Š⟩⟦57⟧⟨š⟩⟦228⟧⟨Ţ⟩⟦204⟧⟦172⟧⟨ţ⟩⟨Ť⟩⟦186⟧⟦36⟧⟨ť⟩⟨Ŧ⟩⟦24⟧⟦143⟧⟨ŧ⟩⟨Ũ⟩⟦178⟧⟦178⟧⟨ũ⟩⟨Ū⟩⟦190⟧⟨ū⟩⟦196⟧⟦152⟧⟨Ŭ⟩⟨ŭ⟩⟦227⟧⟦237⟧⟨Ů⟩⟨ů⟩⟦222⟧⟦177⟧⟨ű⟩⟦157⟧⟨Ű⟩⟨Ų⟩⟦68⟧⟦80⟧⟨ų⟩⟨Ŵ⟩⟦64⟧⟦64⟧⟨ŵ⟩⟨Ŷ⟩⟦191⟧⟨ŷ⟩⟦181⟧⟦174⟧⟨Ź⟩⟦28⟧⟨Ÿ⟩⟨ź⟩⟦134⟧⟦165⟧⟨ż⟩⟦170⟧⟨Ž⟩⟨Ż⟩⟨ž⟩⟦8⟧⟨ſ⟩⟦145⟧⟨ƀ⟩⟨Ɓ⟩⟦232⟧⟨Ƃ⟩⟦61⟧⟨ƃ⟩⟦42⟧⟨Ƅ⟩⟦169⟧⟦169⟧⟨ƅ⟩⟨Ɔ⟩⟦119⟧⟨Ƈ⟩⟦225⟧⟨ƈ⟩⟦64⟧⟦64⟧⟨Ɖ⟩⟨Ɗ⟩⟦139⟧⟨Ƌ⟩⟦184⟧⟦33⟧⟨ƌ⟩⟨ƍ⟩⟦43⟧⟨Ǝ⟩⟦173⟧⟨Ə⟩⟦111⟧⟨Ɛ⟩⟦176⟧⟨Ƒ⟩⟦113⟧⟨ƒ⟩⟦115⟧⟨Ɠ⟩⟦129⟧⟨Ɣ⟩⟦74⟧⟨ƕ⟩⟦77⟧⟨Ɩ⟩⟦50⟧⟨Ɨ⟩⟦137⟧⟨Ƙ⟩⟦104⟧⟨ƙ⟩⟦75⟧⟨ƚ⟩⟦116⟧⟨ƛ⟩⟦49⟧⟨Ɯ⟩⟦123⟧⟦58⟧⟨Ɲ⟩⟨ƞ⟩⟦162⟧⟨Ɵ⟩⟦232⟧⟨Ơ⟩⟦195⟧⟨ơ⟩⟦210⟧⟦236⟧⟨Ƣ⟩⟨ƣ⟩⟦133⟧⟦165⟧⟨ƥ⟩⟦170⟧⟨Ʀ⟩⟨Ƥ⟩⟨Ƨ⟩⟦130⟧⟨ƨ⟩⟦243⟧⟨Ʃ⟩⟦195⟧⟦55⟧⟨ƪ⟩⟨ƫ⟩⟦231⟧⟦79⟧⟨Ƭ⟩⟨ƭ⟩⟦107⟧⟦225⟧⟨Ư⟩⟦72⟧⟨Ʈ⟩⟨ư⟩⟦127⟧⟨Ʊ⟩⟦102⟧⟨Ʋ⟩⟦221⟧⟦169⟧⟨Ƴ⟩⟨ƴ⟩⟦224⟧⟦236⟧⟨Ƶ⟩⟨ƶ⟩⟦126⟧⟦242⟧⟨Ʒ⟩⟨Ƹ⟩⟦87⟧⟦29⟧⟨ƹ⟩⟨ƺ⟩⟦71⟧⟦169⟧⟨ƻ⟩⟨Ƽ⟩⟦44⟧⟨ƽ⟩⟦2⟧⟨ƾ⟩⟦219⟧⟦236⟧⟨ƿ⟩⟨ǀ⟩⟦100⟧⟦101⟧⟨ǁ⟩⟦165⟧⟨ǃ⟩⟨ǂ⟩⟦82⟧⟦135⟧⟨Ǆ⟩⟨ǅ⟩⟦167⟧⟦153⟧⟨ǆ⟩⟨Ǉ⟩⟦232⟧⟨ǈ⟩⟦38⟧⟦163⟧⟨ǉ⟩⟨Ǌ⟩⟦195⟧⟦55⟧⟨ǋ⟩⟨ǌ⟩⟦90⟧⟦239⟧⟨Ǎ⟩⟨ǎ⟩⟦16⟧⟦51⟧⟨Ǐ⟩⟨ǐ⟩
+
+问题：
+The Story of Them Featuring Van Morrison is a compilation album recorded by what Northern Irish band formed in Belfast in April 1964?
+
+任务：从拓扑链中选取多个你认为回答问题所需的截断片段。
+
+约束：
+- 每个截断必须是拓扑链中连续的符号序列
+- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）
+- 不能编造不存在的符号
+- 不能跳过中间的符号（保持相对顺序）
+- 不能重排符号顺序
+- 只选择能够帮助你解决问题的截断，宁缺毋滥
+
+输出格式：
+输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟩⟨B⟩⟦5⟩
+
+现在只输出符号序列（多个片段用 | 分隔）：

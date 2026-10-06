@@ -1,0 +1,25 @@
+
+===== [recall] Which American film actor and dancer starred in the 1945 film Johnny Angel? =====
+{
+  "question": "Which American film actor and dancer starred in the 1945 film Johnny Angel?",
+  "mode": "recall",
+  "enableThinking": true,
+  "usage": {
+    "prompt_tokens": 9294,
+    "completion_tokens": 5158,
+    "total_tokens": 14452,
+    "prompt_tokens_details": {
+      "cached_tokens": 4992
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4562
+    },
+    "prompt_cache_hit_tokens": 4992,
+    "prompt_cache_miss_tokens": 4302
+  },
+  "promptLength": 10370,
+  "promptHead": "注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非实体关系（动词、连接词、修饰语等），仅表示\"这里存在某种关系\"\n\n你的任务：根据问题，判断哪些实体之间的关系可能是回答所需的，并输出拓扑排序结果。\n\n材料：\n⟦1⟧ = - April\n⟦2⟧ = \"Bolero\n⟦3⟧ = \"Coach\n⟦4⟧ = \"Detour\n⟦5⟧ = \"Family Affair\n⟦6⟧ = \"Fanny\n⟦7⟧ = \"Hollywood Victory Caravan\n⟦8⟧ = \"Johnny Angel\n⟦9⟧ = \"Southern California\n⟦10⟧ = \"Space Invasion\n⟦11⟧ = \"The Donna Reed Show\n⟦12⟧ = \"The Magic Flute\n⟦13⟧ = 11 August\n⟦14⟧ = 1930s\n⟦15⟧ = 1940s\n⟦16⟧ = 1980s\n⟦17⟧ = a 1945 film noir\n⟦18⟧ = a dancer\n⟦19⟧ = a Ku Klux Klan leader\n⟦20⟧ = a Los Angeles Weekly columnist\n⟦21⟧ = a medley\n⟦22⟧ = a mixture\n⟦23⟧ = a moderate hit\n⟦24⟧ = a number\n⟦25⟧ = a Pentecostal Christian\n⟦26⟧ = a song\n⟦27⟧ = a Swedish actor\n⟦28⟧ = a truck driver\n⟦29⟧ = actor\n⟦30⟧ = actress\n⟦31⟧ = airplay\n⟦32⟧ = album\n⟦33⟧ = Alexander\n⟦34⟧ = American hard rock band Dirty Looks\n⟦35⟧ = an American actress\n⟦36⟧ = an American film actor\n⟦37⟧ = an American film and television director\n⟦38⟧ = an American man\n⟦39⟧ = an American writer\n⟦40⟧ = April\n⟦41⟧ = Atlantic Records\n⟦42⟧ = B Movies\n⟦43⟧ = Bagheera\n⟦44⟧ = band\n⟦45⟧ = Billboard\n⟦46⟧ = Bolero\n⟦47⟧ = both Laurie Loman\n⟦48⟧ = British singer Patti Lynn\n⟦49⟧ = career\n⟦50⟧ = Charles Gordon Booth\n⟦51⟧ = chart\n⟦52⟧ = Christine Armstrong\n⟦53⟧ = Claire Trevor\n⟦54⟧ = Clary\n⟦55⟧ = Claudia Drake\n⟦56⟧ = co\n⟦57⟧ = columnist\n⟦58⟧ = comedy\n⟦59⟧ = cover\n⟦60⟧ = credits\n⟦61⟧ = crime\n⟦62⟧ = crime melodramas\n⟦63⟧ = dancer\n⟦64⟧ = daughter\n⟦65⟧ = death\n⟦66⟧ = Detour\n⟦67⟧ = director\n⟦68⟧ = Disney's \"The Jungle Book\n⟦69⟧ = Donn",
+  "promptTail": "one on \n⟨Ş⟩ = .\n⟨ş⟩ = \n⟨Š⟩ =  Patti Lynn had \n⟨š⟩ = \n⟨Ţ⟩ =  with \n⟨ţ⟩ = \n⟨Ť⟩ =  of \n⟨ť⟩ = \" the same \n⟨Ŧ⟩ =  on \n⟨ŧ⟩ = .\n⟨Ũ⟩ = \n⟨ũ⟩ =  \n⟨Ū⟩ =  \n⟨ū⟩ =  \n⟨Ŭ⟩ =  also covered \n⟨ŭ⟩ = \" in 1973 as \n⟨Ů⟩ = \n⟨ů⟩ =  of \n⟨Ű⟩ = \n⟨ű⟩ =  of \n⟨Ų⟩ = \n⟨ų⟩ =  on \n⟨Ŵ⟩ = \n⟨ŵ⟩ =  two of \n⟨Ŷ⟩ = \n⟨ŷ⟩ =  \"Now & Then\".\n⟨Ÿ⟩ =  (\n⟨Ź⟩ =  30, 1918 – \n⟨ź⟩ =  19, 1997) was \n⟨Ż⟩ = \n⟨ż⟩ =  and \n⟨Ž⟩ = \n⟨ž⟩ = .\n⟨ſ⟩ =  She appeared in \n⟨ƀ⟩ = \n⟨Ɓ⟩ =  of \n⟨Ƃ⟩ =  in \n⟨ƃ⟩ = \n⟨Ƅ⟩ =  of \n⟨ƅ⟩ = \n⟨Ɔ⟩ = .\n⟨Ƈ⟩ =  She starred in the 1945 \n⟨ƈ⟩ =  noir \n⟨Ɖ⟩ = \n⟨Ɗ⟩ = \".\n\n---\n\n要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。\n\n格式：\n\n# 路径一：[标题]\n\n步骤1：使用⟦X⟧，提取...\n步骤2：综合⟦Y⟧⟦Z⟧，对比...\n\n结论：[此路径结论]\n\n（继续路径二、三...）\n\n**引用规范**：\n- 单个材料：使用⟦N⟧，提取...，判断...\n- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...\n\n**推理策略**：\n- 对比论证：对比不同材料中的矛盾或差异\n- 交叉验证：从多个材料中找到互相支撑的证据\n- 综合支撑：从多处提取一致的特征或模式",
+  "answer": "# 路径一：从影片《Johnny Angel》的演员阵容定位\n\n步骤1：使用⟦115⟧⟦17⟧⟦80⟧⟦148⟧，提取“Johnny Angel”对应一部1945年的film noir，即1945年黑色电影。\n\n步骤2：综合⟦209⟧⟦141⟧⟦86⟧⟦53⟧⟦178⟧⟦105⟧，在该影片语境中，主演阵容包括⟦86⟧ George Raft、⟦53⟧ Claire Trevor、⟦178⟧ Signe Hasso，并包含⟦105⟧ Hoagy Carmichael。\n\n步骤3：对比演员身份，问题要求的是“American film actor and dancer”。主演中，⟦86⟧ George Raft是男性电影演员，且材料中有⟦18⟧ a dancer、⟦63⟧ dancer等身份线索；⟦53⟧ Claire Trevor与⟦178⟧ Signe Hasso更常作为女演员出现，⟦105⟧ Hoagy Carmichael则更偏音乐人/演员。\n\n结论：在1945年电影《Johnny Angel》中出演的American film actor and dancer是George Raft。\n\n# 路径二：验证George Raft的职业身份\n\n步骤1：使用⟦86⟧⟦87⟧，提取George Raft与George Ranft指向同一人物，即George Raft。\n\n步骤2：使用⟦36⟧⟦29⟧，George Raft被归为American film actor / actor，符合“American film actor”的身份限定。\n\n步骤3：使用⟦18⟧⟦63⟧，材料中同时存在dancer身份线索，说明George Raft不仅从影，也具有dancer身份。\n\n步骤4：综合⟦99⟧⟦84⟧⟦171⟧⟦212⟧，其gangster roles、roles以及“Scarface”等履历进一步支撑他是具有代表性的美国电影演员。\n\n结论：George Raft同时具备American film actor与dancer身份。\n\n# 路径三：交叉验证问题中的多重限定\n\n步骤1：使用⟦115⟧⟦17⟧，确认Johnny Angel是1945年film noir，锁定问题所指影片。\n\n步骤2：使用⟦86⟧⟦53⟧⟦178⟧⟦105⟧，在影片相关演员中筛选，只有⟦86⟧ George Raft最符合“actor and dancer”的性别与职业限定。\n\n步骤3：综合⟦36⟧⟦18⟧⟦63⟧，George Raft兼具American film actor与dancer身份，且与⟦115⟧ Johnny Angel的演员阵容交叉吻合。\n\n结论：答案是George Raft。",
+  "multiTurnTurnCount": 4
+}

@@ -1,0 +1,29 @@
+# 路径一：直接职业经历定位
+
+步骤1：使用⟦89⟧，并结合其后占位符 ⟨Ž⟩、⟨ƀ⟩ 与⟦52⟧⟦53⟧⟦184⟧⟦170⟧⟦26⟧⟦153⟧，提取 John Nyskohus 是前澳大利亚足球运动员，其俱乐部足球经历中包括 USC Lion、South Australian State League、Adelaide City、National Soccer League 等。
+
+步骤2：综合⟦27⟧⟦25⟧⟦120⟧⟦2⟧⟦192⟧⟦1⟧⟦191⟧，提取 Adelaide City Football Club 位于 Adelaide, South Australia，别称为 “The Zebras”/“Zebras”，并被称为 “the Black and Whites”。
+
+步骤3：交叉验证：John Nyskohus 的职业经历中出现了 ⟦26⟧ Adelaide City，而 “the Black and Whites” 的别称正属于 ⟦27⟧ Adelaide City Football Club。
+
+结论：John Nyskohus 效力过的球队中，被称为 “the Black and Whites” 的是 **Adelaide City**，即 **Adelaide City Football Club（The Zebras）**。
+
+# 路径二：别名共现排除
+
+步骤1：使用⟦2⟧⟦192⟧⟦1⟧⟦191⟧，材料链中 “The Zebras/Zebras” 与 “the Black and Whites” 连续共现，说明这两个别称指向同一俱乐部。
+
+步骤2：使用⟦89⟧及其后的⟦184⟧⟦170⟧⟦26⟧⟦153⟧，提取 John Nyskohus 的球队/比赛经历包括 USC Lion、South Australian State League、Adelaide City、National Soccer League 等。
+
+步骤3：对比其他候选：⟦184⟧ USC Lion 和⟦38⟧ Australia 未与 “the Black and Whites” 在材料中相关联；只有 ⟦26⟧ Adelaide City 同时与 “Zebras” 和 “the Black and Whites” 材料相连。
+
+结论：因此答案是 **Adelaide City**。
+
+# 路径三：拓扑链关键片段定位
+
+步骤1：在拓扑链中定位 “the Black and Whites” 的构成：⟦1⟧ + 占位符 ⟨⟩ + ⟦191⟧，并紧邻⟦2⟧⟦192⟧，对应 “The Zebras” 与 “the Black and Whites”。
+
+步骤2：该片段前接⟦27⟧⟦25⟧⟦120⟧，说明该别称属于 Adelaide City Football Club，位于 Adelaide, South Australia。
+
+步骤3：综合⟦89⟧及其后⟦26⟧⟦153⟧，John Nyskohus 的职业经历中确实包含 Adelaide City 和 National Soccer League 等。
+
+结论：John Nyskohus 效力过且被称为 “the Black and Whites” 的球队是 **Adelaide City Football Club**，简称 **Adelaide City**。

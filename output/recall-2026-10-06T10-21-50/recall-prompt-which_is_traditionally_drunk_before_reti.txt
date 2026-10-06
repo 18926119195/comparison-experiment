@@ -1,0 +1,237 @@
+材料：
+⟦1⟧ = ""submarine
+⟦2⟧ = (blackcurrant liqueur
+⟦3⟧ = (literally 'cooked wine
+⟦4⟧ = 1940 Giannini
+⟦5⟧ = 22,000 fans
+⟦6⟧ = a 44-42 defeat
+⟦7⟧ = a bar
+⟦8⟧ = a beverage
+⟦9⟧ = a cocktail
+⟦10⟧ = a crowd
+⟦11⟧ = a glass
+⟦12⟧ = a good cider apple harvest
+⟦13⟧ = A hot toddy
+⟦14⟧ = a long spoon
+⟦15⟧ = a measure
+⟦16⟧ = a member
+⟦17⟧ = a mixed drink
+⟦18⟧ = a popular French cocktail
+⟦19⟧ = a strong ruby-colored wine
+⟦20⟧ = a type
+⟦21⟧ = a US-based record label
+⟦22⟧ = a variant
+⟦23⟧ = Abruzzo
+⟦24⟧ = albums
+⟦25⟧ = alcohol
+⟦26⟧ = also vi'cotto
+⟦27⟧ = Amp Live
+⟦28⟧ = an iced tea spoon
+⟦29⟧ = an integral part
+⟦30⟧ = apple
+⟦31⟧ = Argentina
+⟦32⟧ = artist
+⟦33⟧ = artists
+⟦34⟧ = Ascoli Piceno
+⟦35⟧ = bar
+⟦36⟧ = basketball
+⟦37⟧ = Bassnectar
+⟦38⟧ = beverage
+⟦39⟧ = blackcurrant
+⟦40⟧ = blueberries
+⟦41⟧ = both artist albums
+⟦42⟧ = bulk
+⟦43⟧ = business
+⟦44⟧ = cassis
+⟦45⟧ = Central Italy
+⟦46⟧ = cheese
+⟦47⟧ = chocolate
+⟦48⟧ = Chris Smith
+⟦49⟧ = cider
+⟦50⟧ = climbers
+⟦51⟧ = cocktail
+⟦52⟧ = community
+⟦53⟧ = compilations
+⟦54⟧ = cotto
+⟦55⟧ = crème de cassis
+⟦56⟧ = crowd
+⟦57⟧ = cultivators
+⟦58⟧ = dance
+⟦59⟧ = dance music
+⟦60⟧ = dark chocolate
+⟦61⟧ = defeat
+⟦62⟧ = Dirty Vegas
+⟦63⟧ = drink
+⟦64⟧ = drinking
+⟦65⟧ = education
+⟦66⟧ = electronic music
+⟦67⟧ = fame
+⟦68⟧ = fans
+⟦69⟧ = fields
+⟦70⟧ = flu
+⟦71⟧ = fruity
+⟦72⟧ = glass
+⟦73⟧ = glasses
+⟦74⟧ = Greenskeepers
+⟦75⟧ = Groove Armada
+⟦76⟧ = hál
+⟦77⟧ = hale
+⟦78⟧ = harvest
+⟦79⟧ = health
+⟦80⟧ = heil
+⟦81⟧ = herbs
+⟦82⟧ = hills
+⟦83⟧ = hip
+⟦84⟧ = hip hop
+⟦85⟧ = his other teammates
+⟦86⟧ = historically humble cultivators
+⟦87⟧ = honey
+⟦88⟧ = hop
+⟦89⟧ = hot milk
+⟦90⟧ = hot mulled cider
+⟦91⟧ = Hot toddy
+⟦92⟧ = Hot toddy recipes
+⟦93⟧ = hot whiskey
+⟦94⟧ = Indiana Taurus
+⟦95⟧ = Ireland
+⟦96⟧ = its fruity taste
+⟦97⟧ = Its name
+⟦98⟧ = J Boogie
+⟦99⟧ = jaggery
+⟦100⟧ = Juan Atkins
+⟦101⟧ = Kaskade
+⟦102⟧ = Kir
+⟦103⟧ = label
+⟦104⟧ = Ladybug Mecca
+⟦105⟧ = liqueurs
+⟦106⟧ = liquor
+⟦107⟧ = Macerata
+⟦108⟧ = Madison Square Garden
+⟦109⟧ = Majority
+⟦110⟧ = measure
+⟦111⟧ = member
+⟦112⟧ = milk
+⟦113⟧ = music
+⟦114⟧ = Nadar
+⟦115⟧ = Nadar climbers
+⟦116⟧ = Naked Music NYC
+⟦117⟧ = name
+⟦118⟧ = night
+⟦119⟧ = occupation
+⟦120⟧ = Old English
+⟦121⟧ = Old Norse "ves heil
+⟦122⟧ = Om Lounge
+⟦123⟧ = Om Records
+⟦124⟧ = Om's current roster
+⟦125⟧ = other important fields
+⟦126⟧ = palmyra
+⟦127⟧ = palmyra trees
+⟦128⟧ = Pannayeri Nadars
+⟦129⟧ = Pannayeri Shanars
+⟦130⟧ = part
+⟦131⟧ = Past artists
+⟦132⟧ = People
+⟦133⟧ = puddings
+⟦134⟧ = Ralph "Toddy" Giannini
+⟦135⟧ = recipes
+⟦136⟧ = record
+⟦137⟧ = roster
+⟦138⟧ = ruby
+⟦139⟧ = Samantha James
+⟦140⟧ = San Francisco
+⟦141⟧ = Santa Clara University
+⟦142⟧ = Santa Clara University's Hall
+⟦143⟧ = sect
+⟦144⟧ = series
+⟦145⟧ = small glasses
+⟦146⟧ = some recipes
+⟦147⟧ = Spanish
+⟦148⟧ = spices
+⟦149⟧ = spoon
+⟦150⟧ = star
+⟦151⟧ = sub
+⟦152⟧ = submarine
+⟦153⟧ = submarino
+⟦154⟧ = sugar
+⟦155⟧ = symptoms
+⟦156⟧ = taste
+⟦157⟧ = tea
+⟦158⟧ = team
+⟦159⟧ = teammates
+⟦160⟧ = the "largest sub sect
+⟦161⟧ = the "Magicians
+⟦162⟧ = the 1940 All-American basketball team
+⟦163⟧ = the alcohol
+⟦164⟧ = the All-American all star team
+⟦165⟧ = The Blueberry Tea
+⟦166⟧ = the chocolate
+⟦167⟧ = the drink
+⟦168⟧ = the Harlem Globetrotters
+⟦169⟧ = the hills
+⟦170⟧ = the honey
+⟦171⟧ = the hot toddy
+⟦172⟧ = The label
+⟦173⟧ = the major bulk
+⟦174⟧ = the Maplewood
+⟦175⟧ = the Marche
+⟦176⟧ = the most notable compilations
+⟦177⟧ = the Mushroom Jazz series
+⟦178⟧ = the night
+⟦179⟧ = the Province
+⟦180⟧ = the San Francisco Prep Hall
+⟦181⟧ = The Stairs
+⟦182⟧ = The submarino
+⟦183⟧ = the symptoms
+⟦184⟧ = the vitamin C
+⟦185⟧ = their traditionally occupation
+⟦186⟧ = today
+⟦187⟧ = today's Nadar community
+⟦188⟧ = today’s Nadar community
+⟦189⟧ = toddy
+⟦190⟧ = toddy trade
+⟦191⟧ = trade
+⟦192⟧ = trees
+⟦193⟧ = type
+⟦194⟧ = Underworld
+⟦195⟧ = Uruguay
+⟦196⟧ = variant
+⟦197⟧ = various compilations
+⟦198⟧ = vi'cuotte
+⟦199⟧ = Victoria Moore
+⟦200⟧ = Vino cotto
+⟦201⟧ = vitamin
+⟦202⟧ = Wagon Cookin
+⟦203⟧ = Wassail
+⟦204⟧ = water
+⟦205⟧ = weather
+⟦206⟧ = wet or cold weather
+⟦207⟧ = whiskey
+⟦208⟧ = white wine
+⟦209⟧ = wine
+⟦210⟧ = Wolfgang Gartner
+⟦211⟧ = year
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦13⟧⟦189⟧⟨A⟩⟨B⟩⟦93⟧⟦207⟧⟨C⟩⟨D⟩⟦95⟧⟨E⟩⟦17⟧⟦63⟧⟨F⟩⟨G⟩⟦106⟧⟦106⟧⟨H⟩⟨I⟩⟦204⟧⟦204⟧⟨J⟩⟨K⟩⟦87⟧⟦87⟧⟨L⟩⟨M⟩⟦146⟧⟦135⟧⟨N⟩⟨O⟩⟦154⟧⟦154⟧⟨P⟩⟨Q⟩⟦81⟧⟦81⟧⟨R⟩⟨S⟩⟦157⟧⟦157⟧⟨T⟩⟨U⟩⟦148⟧⟦148⟧⟨V⟩⟨W⟩⟦92⟧⟦189⟧⟨Y⟩⟦135⟧⟨X⟩⟨Z⟩⟦178⟧⟦118⟧⟨[⟩⟨\⟩⟦206⟧⟦205⟧⟨]⟩⟨^⟩⟨_⟩⟦167⟧⟦63⟧⟨`⟩⟨a⟩⟦183⟧⟦155⟧⟨b⟩⟨c⟩⟦70⟧⟦70⟧⟨d⟩⟨e⟩⟦199⟧⟨f⟩⟦167⟧⟦63⟧⟨g⟩⟨h⟩⟦184⟧⟦201⟧⟨j⟩⟨i⟩⟦79⟧⟦79⟧⟨k⟩⟨l⟩⟦170⟧⟦87⟧⟨m⟩⟨n⟩⟦163⟧⟦25⟧⟨o⟩⟨p⟩⟦114⟧⟦115⟧⟨q⟩⟦50⟧⟨r⟩⟨s⟩⟦128⟧⟨t⟩⟦129⟧⟨u⟩⟦173⟧⟦42⟧⟨v⟩⟨w⟩⟦186⟧⟦188⟧⟨x⟩⟦52⟧⟨y⟩⟨z⟩⟨{⟩⟦160⟧⟦151⟧⟨}⟩⟦143⟧⟨|⟩⟨~⟩⟦186⟧⟦187⟧⟨⟩⟦52⟧⟨⟩⟨⟩⟨⟩⟦86⟧⟦57⟧⟨⟩⟨⟩⟦126⟧⟦127⟧⟨⟩⟦192⟧⟨⟩⟨⟩⟦99⟧⟦99⟧⟨⟩⟨⟩⟦189⟧⟦190⟧⟨⟩⟦191⟧⟨⟩⟨⟩⟦109⟧⟨⟩⟦114⟧⟨⟩⟦50⟧⟦50⟧⟨⟩⟨⟩⟦185⟧⟦119⟧⟨⟩⟨⟩⟦189⟧⟨⟩⟦186⟧⟨⟩⟦65⟧⟦65⟧⟨⟩⟨⟩⟦43⟧⟦43⟧⟨⟩⟨⟩⟦125⟧⟦69⟧⟨⟩⟨⟩⟦182⟧⟦153⟧⟨⟩⟨⟩⟦1⟧⟦152⟧⟨⟩⟨⟩⟦147⟧⟨⟩⟦8⟧⟦38⟧⟨ ⟩⟨¡⟩⟦31⟧⟨¢⟩⟦195⟧⟨£⟩⟨¤⟩⟦7⟧⟦35⟧⟨¥⟩⟨¦⟩⟦60⟧⟦47⟧⟨§⟩⟨¨⟩⟦11⟧⟦72⟧⟨©⟩⟨ª⟩⟦89⟧⟦112⟧⟨«⟩⟨¬⟩⟦14⟧⟦149⟧⟨­⟩⟨®⟩⟦28⟧⟦157⟧⟨°⟩⟦149⟧⟨¯⟩⟨±⟩⟦166⟧⟦47⟧⟨²⟩⟨³⟩⟦91⟧⟦189⟧⟨´⟩⟨µ⟩⟦17⟧⟦63⟧⟨¶⟩⟨·⟩⟦25⟧⟦25⟧⟨¸⟩⟨¹⟩⟦134⟧⟨º⟩⟦91⟧⟨»⟩⟦16⟧⟦111⟧⟨¼⟩⟨½⟩⟦162⟧⟦36⟧⟨¿⟩⟦158⟧⟨¾⟩⟨À⟩⟦141⟧⟨Á⟩⟨Â⟩⟦85⟧⟦159⟧⟨Ã⟩⟨Ä⟩⟦161⟧⟨Å⟩⟦174⟧⟨Æ⟩⟨Ç⟩⟦4⟧⟨È⟩⟦164⟧⟦150⟧⟨Ê⟩⟦158⟧⟨É⟩⟨Ë⟩⟦6⟧⟦61⟧⟨Ì⟩⟨Í⟩⟦168⟧⟨Î⟩⟦10⟧⟦56⟧⟨Ï⟩⟨Ð⟩⟦5⟧⟦68⟧⟨Ñ⟩⟨Ò⟩⟦108⟧⟨Ó⟩⟦134⟧⟨Ô⟩⟦180⟧⟨Õ⟩⟦67⟧⟦67⟧⟨Ö⟩⟨×⟩⟦142⟧⟨Ø⟩⟦67⟧⟨Ù⟩⟦102⟧⟨Ú⟩⟦18⟧⟦51⟧⟨Û⟩⟨Ü⟩⟦15⟧⟦110⟧⟨Ý⟩⟨Þ⟩⟦55⟧⟦44⟧⟨ß⟩⟨à⟩⟦2⟧⟦39⟧⟨â⟩⟨á⟩⟦208⟧⟦209⟧⟨ã⟩⟨ä⟩⟦200⟧⟦54⟧⟨å⟩⟨æ⟩⟦3⟧⟦209⟧⟨ç⟩⟨è⟩⟦26⟧⟨é⟩⟦198⟧⟨ê⟩⟦20⟧⟦193⟧⟨ë⟩⟨ì⟩⟦209⟧⟦209⟧⟨í⟩⟨î⟩⟦175⟧⟨ï⟩⟦23⟧⟨ð⟩⟦45⟧⟨ñ⟩⟦169⟧⟦82⟧⟨ò⟩⟨ó⟩⟦179⟧⟨ô⟩⟦34⟧⟨õ⟩⟦179⟧⟨ö⟩⟦107⟧⟨÷⟩⟨ø⟩⟦19⟧⟦138⟧⟨ú⟩⟦209⟧⟨ù⟩⟨û⟩⟦145⟧⟦73⟧⟨ü⟩⟨ý⟩⟦133⟧⟦133⟧⟨þ⟩⟨ÿ⟩⟦46⟧⟦46⟧⟨Ā⟩⟨ā⟩⟦165⟧⟨Ă⟩⟦9⟧⟦51⟧⟨ă⟩⟨Ą⟩⟦157⟧⟦157⟧⟨ą⟩⟨Ć⟩⟦105⟧⟦105⟧⟨ć⟩⟨Ĉ⟩⟨ĉ⟩⟦22⟧⟦196⟧⟨Ċ⟩⟨ċ⟩⟦171⟧⟦189⟧⟨Č⟩⟨č⟩⟦97⟧⟦117⟧⟨Ď⟩⟨ď⟩⟦96⟧⟦71⟧⟨đ⟩⟦156⟧⟨Đ⟩⟨Ē⟩⟦40⟧⟦40⟧⟨ē⟩⟨Ĕ⟩⟦203⟧⟦203⟧⟨ĕ⟩⟨Ė⟩⟦121⟧⟦80⟧⟨ė⟩⟨Ę⟩⟦120⟧⟨ę⟩⟦76⟧⟦76⟧⟨Ě⟩⟨ě⟩⟦77⟧⟦77⟧⟨Ĝ⟩⟨ĝ⟩⟦8⟧⟦38⟧⟨Ğ⟩⟨ğ⟩⟦90⟧⟦49⟧⟨Ġ⟩⟨ġ⟩⟦29⟧⟦130⟧⟨Ģ⟩⟨ģ⟩⟦64⟧⟨Ĥ⟩⟦12⟧⟦49⟧⟨Ħ⟩⟦30⟧⟨ħ⟩⟦78⟧⟨ĥ⟩⟨Ĩ⟩⟦211⟧⟨ĩ⟩⟦123⟧⟨Ī⟩⟦21⟧⟦136⟧⟨Ĭ⟩⟦103⟧⟨ī⟩⟨ĭ⟩⟦66⟧⟦113⟧⟨Į⟩⟨į⟩⟦58⟧⟦59⟧⟨İ⟩⟦113⟧⟨ı⟩⟨Ĳ⟩⟦83⟧⟦84⟧⟨ĳ⟩⟦88⟧⟨Ĵ⟩⟨ĵ⟩⟦172⟧⟦103⟧⟨Ķ⟩⟨ķ⟩⟦140⟧⟨ĸ⟩⟦48⟧⟨Ĺ⟩⟦123⟧⟨ĺ⟩⟦41⟧⟦32⟧⟨ļ⟩⟦24⟧⟨Ļ⟩⟨Ľ⟩⟦197⟧⟦53⟧⟨ľ⟩⟨Ŀ⟩⟨ŀ⟩⟦176⟧⟦53⟧⟨Ł⟩⟨ł⟩⟦122⟧⟨Ń⟩⟦177⟧⟦144⟧⟨ń⟩⟨Ņ⟩⟦124⟧⟦137⟧⟨ņ⟩⟨Ň⟩⟦33⟧⟦33⟧⟨ň⟩⟨ŉ⟩⟦75⟧⟨Ŋ⟩⟦194⟧⟨ŋ⟩⟦62⟧⟨Ō⟩⟦37⟧⟨ō⟩⟦94⟧⟨Ŏ⟩⟦98⟧⟨ŏ⟩⟦132⟧⟨Ő⟩⟦181⟧⟨ő⟩⟦139⟧⟨Œ⟩⟦27⟧⟨œ⟩⟦74⟧⟨Ŕ⟩⟦91⟧⟨ŕ⟩⟦202⟧⟨Ŗ⟩⟦131⟧⟦33⟧⟨ŗ⟩⟨Ř⟩⟦101⟧⟨ř⟩⟦210⟧⟨Ś⟩⟦104⟧⟨ś⟩⟦100⟧⟨Ŝ⟩⟦116⟧⟨ŝ⟩
+
+问题：
+which is traditionally drunk before retiring to bed, Hot toddy or Kir?
+
+注意：你看到的拓扑链不是原文，而是符号化后的序列：
+- ⟦N⟧ 代表实体名词
+- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到
+
+任务：从拓扑链中选取多个你认为回答问题所需的截断片段。
+
+约束：
+- 每个截断必须是拓扑链中连续的符号序列
+- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）
+- 不能编造不存在的符号
+- 不能跳过中间的符号（保持相对顺序）
+- 不能重排符号顺序
+- 只选择能够帮助你解决问题的截断，宁缺毋滥
+
+输出格式：
+输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧
+
+现在只输出符号序列（多个片段用 | 分隔）：

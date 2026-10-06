@@ -1,0 +1,39 @@
+{
+  "qid": "hotpot_373",
+  "question": "which is traditionally drunk before retiring to bed, Hot toddy or Kir?",
+  "expectedAnswer": "Hot toddy",
+  "predictedAnswer": "# 路径一：Hot toddy 的夜间/睡前传统\n\n步骤1：使用⟦13⟧⟦91⟧，提取候选饮料之一为 Hot toddy / Hot toddy。  \n步骤2：综合⟦93⟧⟦95⟧⟦207⟧，Hot toddy 又称 hot whiskey，并与 Ireland、whiskey 相关，属于热饮型烈酒饮料。  \n步骤3：综合⟦178⟧⟦118⟧⟦206⟧⟦205⟧，拓扑链中 Hot toddy 段紧接 the night / night 与 wet or cold weather / weather，说明其传统使用场景是夜间、湿冷天气。  \n步骤4：综合⟦183⟧⟦155⟧⟦70⟧⟦184⟧⟦201⟧⟦79⟧，该饮料还与 symptoms、flu、vitamin C、health 相连，符合睡前饮用以缓解感冒的传统用法。  \n\n结论：Hot toddy 是传统上睡前饮用的选项。\n\n# 路径二：Kir 的鸡尾酒定位排除睡前传统\n\n步骤1：使用⟦102⟧，提取 Kir。  \n步骤2：综合⟦18⟧⟦51⟧，Kir 被描述为 a popular French cocktail / cocktail，而非夜间热饮。  \n步骤3：综合⟦55⟧⟦44⟧⟦2⟧⟦39⟧⟦208⟧⟦209⟧，Kir 由 crème de cassis、blackcurrant liqueur 与 white wine / wine 组成，属于法国鸡尾酒配方。  \n步骤4：对比 Hot toddy 段中的⟦178⟧⟦118⟧⟦206⟧，Kir 段没有 night / wet or cold weather 等睡前语境。  \n\n结论：Kir 不是传统睡前饮用；应选 Hot toddy。\n\n# 路径三：拓扑链交叉验证\n\n步骤1：使用⟦92⟧⟦189⟧⟦135⟧，Hot toddy recipes / toddy / recipes 位于同一拓扑链。  \n步骤2：综合⟦178⟧⟦118⟧⟦206⟧⟦205⟧，该链把 Hot toddy 与 the night / night、wet or cold weather / weather 直接相邻。  \n步骤3：对比⟦102⟧⟦18⟧⟦51⟧⟦55⟧⟦208⟧，Kir 相邻的是 French cocktail、cocktail、crème de cassis、white wine，属于鸡尾酒/开胃酒语境。  \n步骤4：再综合⟦167⟧⟦63⟧⟦183⟧⟦155⟧⟦70⟧，Hot toddy 段还出现 the drink / drink、symptoms / flu，进一步支撑其夜间或病时饮用。  \n\n结论：交叉验证后，传统上睡前饮用的是 Hot toddy。",
+  "recallMode": "recall",
+  "recallValid": true,
+  "recallTruncation": "⟦13⟧⟨A⟩⟦189⟧⟨B⟩⟦93⟧⟦207⟧⟦95⟧⟦17⟧⟦63⟧⟦106⟧⟦106⟧⟦204⟧",
+  "nounCount": 276,
+  "score": 0.8,
+  "config": {
+    "MODEL": "deepseek-flash",
+    "recallThinking": false,
+    "reasoningThinking": true
+  },
+  "recallUsage": {
+    "prompt_tokens": 6505,
+    "completion_tokens": 266,
+    "total_tokens": 6771,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6505
+  },
+  "reasoningUsage": {
+    "prompt_tokens": 3670,
+    "completion_tokens": 5839,
+    "total_tokens": 9509,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5198
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3670
+  }
+}

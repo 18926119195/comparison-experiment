@@ -1,0 +1,7845 @@
+
+===== Mía Maestro had a role in the 2002 biopic directed by whom? =====
+{
+  "question": "Mía Maestro had a role in the 2002 biopic directed by whom?",
+  "enableThinking": false,
+  "usage": {
+    "prompt_tokens": 3671,
+    "completion_tokens": 111,
+    "total_tokens": 3782,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3671
+  },
+  "promptLength": 5541,
+  "promptHead": "材料：\n⟦1⟧ = \"Alias\n⟦2⟧ = \"Feelin' Good\n⟦3⟧ = \"Lo Que Tiene el Otro\n⟦4⟧ = \"Secuestro Express\n⟦5⟧ = \"The Strain\n⟦6⟧ = \"The Twilight Saga\n⟦7⟧ = (Spanish\n⟦8⟧ = a 1998 Argentine-Spanish musical drama tango film\n⟦9⟧ = a 2000 American experimental film\n⟦10⟧ = a 2002 American biopic drama film\n⟦11⟧ = a 2005 Venezuelan crime film\n⟦12⟧ = a 2011 thriller film\n⟦13⟧ = a 2013 American comedy film\n⟦14⟧ = A Biography\n⟦15⟧ = a fictional character\n⟦16⟧ = a large ensemble cast\n⟦17⟧ = a main character\n⟦18⟧ = a Venezuelan Film\n⟦19⟧ = a Venezuelan film actor\n⟦20⟧ = actor\n⟦21⟧ = Actress\n⟦22⟧ = Adam Brody\n⟦23⟧ = album\n⟦24⟧ = Alfred Molina\n⟦25⟧ = an Argentine actress\n⟦26⟧ = Anna Thomas\n⟦27⟧ = Argentine actress Mía Maestro\n⟦28⟧ = August\n⟦29⟧ = biopic\n⟦30⟧ = book\n⟦31⟧ = career\n⟦32⟧ = Carlos Malave\n⟦33⟧ = Carlos Saura\n⟦34⟧ = Carmen\n⟦35⟧ = cast\n⟦36⟧ = character\n⟦37⟧ = Christina Dieckmann\n⟦38⟧ = Christina Kahlo\n⟦39⟧ = cinematographer Vittorio Storaro\n⟦40⟧ = Clancy Sigal\n⟦41⟧ = comedy\n⟦42⟧ = Condition\n⟦43⟧ = countries\n⟦44⟧ = crime\n⟦45⟧ = Daisy von Scherler Mayer\n⟦46⟧ = dance\n⟦47⟧ = Diane Lake\n⟦48⟧ = Dido\n⟦49⟧ = Diego Rivera\n⟦50⟧ = drama\n⟦51⟧ = Edgar Ramirez\n⟦52⟧ = Emily Watson\n⟦53⟧ = English\n⟦54⟧ = era\n⟦55⟧ = Evan",
+  "promptTail": "3⟧⟨þ⟩⟦117⟧⟨ÿ⟩⟦71⟧⟨Ā⟩⟦78⟧⟨ā⟩⟦164⟧⟨Ă⟩⟦87⟧⟨ă⟩⟦90⟧⟨Ą⟩⟦127⟧⟦62⟧⟨ą⟩⟨Ć⟩⟦13⟧⟦41⟧⟨Ĉ⟩⟦58⟧⟨ć⟩⟨ĉ⟩⟦45⟧⟨Ċ⟩⟦101⟧⟨ċ⟩⟨Č⟩⟦143⟧⟦110⟧⟨č⟩⟨Ď⟩⟦145⟧⟦99⟧⟨ď⟩⟨Đ⟩⟦85⟧⟨đ⟩⟦141⟧⟦58⟧⟨Ē⟩⟨ē⟩⟦22⟧⟨Ĕ⟩⟦82⟧⟨ĕ⟩⟦166⟧⟨Ė⟩⟦90⟧⟨ė⟩⟦76⟧⟨Ę⟩⟦52⟧⟨ę⟩⟦141⟧⟦58⟧⟨Ě⟩⟨ě⟩⟦80⟧⟨Ĝ⟩⟦86⟧⟨ĝ⟩\n\n问题：\nMía Maestro had a role in the 2002 biopic directed by whom?\n\n注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到\n\n任务：从拓扑链中选取多个你认为回答问题所需的截断片段。\n\n约束：\n- 每个截断必须是拓扑链中连续的符号序列\n- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）\n- 不能编造不存在的符号\n- 不能跳过中间的符号（保持相对顺序）\n- 不能重排符号顺序\n- 只选择能够帮助你解决问题的截断，宁缺毋滥\n\n输出格式：\n输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧\n\n现在只输出符号序列（多个片段用 | 分隔）：",
+  "rawResponse": "⟦90⟧⟨¤⟩⟦25⟧⟦21⟧⟨¥⟩⟨¦⟩⟦123⟧⟦125⟧⟨§⟩⟦129⟧⟨¨⟩ | ⟦10⟧⟦29⟧⟨⟩⟦50⟧⟨⟩⟦58⟧⟨⟩⟨⟩⟦79⟧ | ⟦118⟧⟨⟩⟦66⟧⟦112⟧⟨⟩",
+  "truncatedNodes": [
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦77⟧",
+      "symbolIdx": 77
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦73⟧",
+      "symbolIdx": 73
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦102⟧",
+      "symbolIdx": 102
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦106⟧",
+      "symbolIdx": 106
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦165⟧",
+      "symbolIdx": 165
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦12⟧",
+      "symbolIdx": 12
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦55⟧",
+      "symbolIdx": 55
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦131⟧",
+      "symbolIdx": 131
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦148⟧",
+      "symbolIdx": 148
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦105⟧",
+      "symbolIdx": 105
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦2⟧",
+      "symbolIdx": 2
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦89⟧",
+      "symbolIdx": 89
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦8⟧",
+      "symbolIdx": 8
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦39⟧",
+      "symbolIdx": 39
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦10⟧",
+      "symbolIdx": 10
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦144⟧",
+      "symbolIdx": 144
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦151⟧",
+      "symbolIdx": 151
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦66⟧",
+      "symbolIdx": 66
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦24⟧",
+      "symbolIdx": 24
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦67⟧",
+      "symbolIdx": 67
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦142⟧",
+      "symbolIdx": 142
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦64⟧",
+      "symbolIdx": 64
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦14⟧",
+      "symbolIdx": 14
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦65⟧",
+      "symbolIdx": 65
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¤⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦25⟧",
+      "symbolIdx": 25
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¥⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¦⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨§⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨¨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦129⟧",
+      "symbolIdx": 129
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦104⟧",
+      "symbolIdx": 104
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦152⟧",
+      "symbolIdx": 152
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦38⟧",
+      "symbolIdx": 38
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦34⟧",
+      "symbolIdx": 34
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦6⟧",
+      "symbolIdx": 6
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦17⟧",
+      "symbolIdx": 17
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦20⟧",
+      "symbolIdx": 20
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦126⟧",
+      "symbolIdx": 126
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦4⟧",
+      "symbolIdx": 4
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦136⟧",
+      "symbolIdx": 136
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦154⟧",
+      "symbolIdx": 154
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦3⟧",
+      "symbolIdx": 3
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦92⟧",
+      "symbolIdx": 92
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦18⟧",
+      "symbolIdx": 18
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦32⟧",
+      "symbolIdx": 32
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦138⟧",
+      "symbolIdx": 138
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦54⟧",
+      "symbolIdx": 54
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦9⟧",
+      "symbolIdx": 9
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦93⟧",
+      "symbolIdx": 93
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦16⟧",
+      "symbolIdx": 16
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦35⟧",
+      "symbolIdx": 35
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦117⟧",
+      "symbolIdx": 117
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦164⟧",
+      "symbolIdx": 164
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦62⟧",
+      "symbolIdx": 62
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦13⟧",
+      "symbolIdx": 13
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦41⟧",
+      "symbolIdx": 41
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦85⟧",
+      "symbolIdx": 85
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦22⟧",
+      "symbolIdx": 22
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦82⟧",
+      "symbolIdx": 82
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    }
+  ],
+  "usedRelIds": [
+    "rel_69",
+    "rel_70",
+    "rel_68",
+    "rel_71",
+    "rel_79",
+    "rel_80",
+    "rel_99",
+    "rel_100",
+    "rel_101",
+    "rel_102",
+    "rel_103"
+  ],
+  "valid": true
+}
+
+===== Where did the designer of the Van de Graaff generator teach at? =====
+{
+  "question": "Where did the designer of the Van de Graaff generator teach at?",
+  "enableThinking": false,
+  "usage": {
+    "prompt_tokens": 6462,
+    "completion_tokens": 117,
+    "total_tokens": 6579,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6462
+  },
+  "promptLength": 9792,
+  "promptHead": "材料：\n⟦1⟧ = \" 187 pounds\n⟦2⟧ = \"Bully\n⟦3⟧ = \"Bully\" Van de Graaff\n⟦4⟧ = (short conductive tubes\n⟦5⟧ = 1869-1919 era\n⟦6⟧ = 20 February\n⟦7⟧ = 49–47–6\n⟦8⟧ = a 5 MeV Van de Graaff electrostatic nuclear accelerator\n⟦9⟧ = a 65 ft tall pear-shaped tower\n⟦10⟧ = a backdrop video screen\n⟦11⟧ = a bronze medal\n⟦12⟧ = a chain\n⟦13⟧ = a concert tour\n⟦14⟧ = a criticism\n⟦15⟧ = a DC voltage\n⟦16⟧ = a Dutch rower\n⟦17⟧ = a good show\n⟦18⟧ = a high velocity\n⟦19⟧ = a hollow metal globe\n⟦20⟧ = a mechanical transportation system\n⟦21⟧ = a moving belt\n⟦22⟧ = A pelletron\n⟦23⟧ = a pressure vessel\n⟦24⟧ = a proposed defensive weapon\n⟦25⟧ = a record\n⟦26⟧ = a result\n⟦27⟧ = a retired Dutch rower\n⟦28⟧ = a supporting album\n⟦29⟧ = a type\n⟦30⟧ = a vacuum chamber\n⟦31⟧ = a Van de Graaff generator\n⟦32⟧ = a warm-up show\n⟦33⟧ = accelerator\n⟦34⟧ = acts\n⟦35⟧ = administrator\n⟦36⟧ = Adrian\n⟦37⟧ = age\n⟦38⟧ = aimed nozzles\n⟦39⟧ = Alabama\n⟦40⟧ = Alabama football players\n⟦41⟧ = album\n⟦42⟧ = American physicist Robert J. Van de Graaff\n⟦43⟧ = American rock band ZZ Top\n⟦44⟧ = amplifiers\n⟦45⟧ = amplifiers stacks\n⟦46⟧ = an \"Associated Press\" Southeast Area All-Time football team\n⟦47⟧ = an All-American\n⟦48⟧ = an American engineer\n⟦49⟧ = an A",
+  "promptTail": "0⟧⟨ǃ⟩⟦182⟧⟦182⟧⟨Ǆ⟩⟨ǅ⟩⟦216⟧⟦216⟧⟨ǆ⟩⟨Ǉ⟩⟦161⟧⟦161⟧⟨ǈ⟩⟨ǉ⟩⟦18⟧⟦279⟧⟨Ǌ⟩⟨ǋ⟩⟦30⟧⟦277⟧⟨Ǎ⟩⟦79⟧⟨ǌ⟩⟨ǎ⟩⟦111⟧⟦200⟧⟨Ǐ⟩⟨ǐ⟩⟦38⟧⟦171⟧⟨Ǒ⟩⟨ǒ⟩⟦143⟧⟦223⟧⟨Ǔ⟩⟨ǔ⟩⟦228⟧⟨Ǖ⟩⟦259⟧⟦127⟧⟨ǖ⟩⟨Ǘ⟩⟦228⟧⟨ǘ⟩⟦260⟧⟦289⟧⟨Ǚ⟩⟨ǚ⟩⟦130⟧⟦131⟧⟨Ǜ⟩⟦142⟧⟨ǜ⟩⟨ǝ⟩⟦55⟧⟦198⟧⟨Ǟ⟩⟨ǟ⟩\n\n问题：\nWhere did the designer of the Van de Graaff generator teach at?\n\n注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到\n\n任务：从拓扑链中选取多个你认为回答问题所需的截断片段。\n\n约束：\n- 每个截断必须是拓扑链中连续的符号序列\n- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）\n- 不能编造不存在的符号\n- 不能跳过中间的符号（保持相对顺序）\n- 不能重排符号顺序\n- 只选择能够帮助你解决问题的截断，宁缺毋滥\n\n输出格式：\n输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧\n\n现在只输出符号序列（多个片段用 | 分隔）：",
+  "rawResponse": "⟦204⟧⟨Ɠ⟩⟦100⟧⟨Ɣ⟩⟦147⟧⟨ƕ⟩⟦48⟧⟦115⟧⟨Ɩ⟩⟨Ɨ⟩⟦185⟧⟦185⟧⟨Ƙ⟩⟨ƙ⟩⟦139⟧⟦101⟧⟨ƚ⟩⟨ƛ⟩⟦94⟧⟦94⟧ | ⟦195⟧⟨Ƣ⟩⟦160⟧ | ⟦42⟧⟦185⟧",
+  "truncatedNodes": [
+    {
+      "type": "noun",
+      "symbol": "⟦245⟧",
+      "symbolIdx": 245
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦13⟧",
+      "symbolIdx": 13
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦93⟧",
+      "symbolIdx": 93
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦268⟧",
+      "symbolIdx": 268
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦257⟧",
+      "symbolIdx": 257
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦205⟧",
+      "symbolIdx": 205
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦32⟧",
+      "symbolIdx": 32
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦291⟧",
+      "symbolIdx": 291
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦256⟧",
+      "symbolIdx": 256
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦268⟧",
+      "symbolIdx": 268
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦265⟧",
+      "symbolIdx": 265
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦210⟧",
+      "symbolIdx": 210
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦41⟧",
+      "symbolIdx": 41
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦202⟧",
+      "symbolIdx": 202
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦14⟧",
+      "symbolIdx": 14
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦256⟧",
+      "symbolIdx": 256
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦268⟧",
+      "symbolIdx": 268
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦290⟧",
+      "symbolIdx": 290
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦242⟧",
+      "symbolIdx": 242
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦235⟧",
+      "symbolIdx": 235
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦205⟧",
+      "symbolIdx": 205
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦206⟧",
+      "symbolIdx": 206
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦34⟧",
+      "symbolIdx": 34
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦17⟧",
+      "symbolIdx": 17
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦295⟧",
+      "symbolIdx": 295
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦197⟧",
+      "symbolIdx": 197
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦194⟧",
+      "symbolIdx": 194
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦269⟧",
+      "symbolIdx": 269
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦245⟧",
+      "symbolIdx": 245
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦219⟧",
+      "symbolIdx": 219
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦211⟧",
+      "symbolIdx": 211
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦243⟧",
+      "symbolIdx": 243
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦92⟧",
+      "symbolIdx": 92
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦286⟧",
+      "symbolIdx": 286
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦251⟧",
+      "symbolIdx": 251
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦219⟧",
+      "symbolIdx": 219
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦54⟧",
+      "symbolIdx": 54
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦105⟧",
+      "symbolIdx": 105
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦10⟧",
+      "symbolIdx": 10
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦283⟧",
+      "symbolIdx": 283
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦209⟧",
+      "symbolIdx": 209
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦285⟧",
+      "symbolIdx": 285
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦106⟧",
+      "symbolIdx": 106
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦283⟧",
+      "symbolIdx": 283
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦284⟧",
+      "symbolIdx": 284
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦82⟧",
+      "symbolIdx": 82
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦229⟧",
+      "symbolIdx": 229
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦230⟧",
+      "symbolIdx": 230
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦184⟧",
+      "symbolIdx": 184
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦218⟧",
+      "symbolIdx": 218
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦292⟧",
+      "symbolIdx": 292
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦8⟧",
+      "symbolIdx": 8
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦261⟧",
+      "symbolIdx": 261
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦264⟧",
+      "symbolIdx": 264
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦201⟧",
+      "symbolIdx": 201
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦77⟧",
+      "symbolIdx": 77
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦183⟧",
+      "symbolIdx": 183
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦240⟧",
+      "symbolIdx": 240
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦208⟧",
+      "symbolIdx": 208
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦196⟧",
+      "symbolIdx": 196
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦241⟧",
+      "symbolIdx": 241
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦262⟧",
+      "symbolIdx": 262
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦294⟧",
+      "symbolIdx": 294
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦236⟧",
+      "symbolIdx": 236
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦66⟧",
+      "symbolIdx": 66
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦172⟧",
+      "symbolIdx": 172
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦201⟧",
+      "symbolIdx": 201
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦9⟧",
+      "symbolIdx": 9
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦270⟧",
+      "symbolIdx": 270
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦22⟧",
+      "symbolIdx": 22
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦180⟧",
+      "symbolIdx": 180
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦274⟧",
+      "symbolIdx": 274
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦181⟧",
+      "symbolIdx": 181
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦215⟧",
+      "symbolIdx": 215
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦217⟧",
+      "symbolIdx": 217
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦275⟧",
+      "symbolIdx": 275
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦288⟧",
+      "symbolIdx": 288
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦288⟧",
+      "symbolIdx": 288
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦276⟧",
+      "symbolIdx": 276
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦152⟧",
+      "symbolIdx": 152
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦62⟧",
+      "symbolIdx": 62
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦164⟧",
+      "symbolIdx": 164
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦167⟧",
+      "symbolIdx": 167
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦151⟧",
+      "symbolIdx": 151
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦247⟧",
+      "symbolIdx": 247
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦287⟧",
+      "symbolIdx": 287
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦175⟧",
+      "symbolIdx": 175
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦165⟧",
+      "symbolIdx": 165
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦144⟧",
+      "symbolIdx": 144
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦65⟧",
+      "symbolIdx": 65
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦168⟧",
+      "symbolIdx": 168
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦126⟧",
+      "symbolIdx": 126
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦20⟧",
+      "symbolIdx": 20
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦271⟧",
+      "symbolIdx": 271
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦12⟧",
+      "symbolIdx": 12
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦4⟧",
+      "symbolIdx": 4
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦272⟧",
+      "symbolIdx": 272
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦288⟧",
+      "symbolIdx": 288
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦249⟧",
+      "symbolIdx": 249
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦227⟧",
+      "symbolIdx": 227
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦252⟧",
+      "symbolIdx": 252
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦193⟧",
+      "symbolIdx": 193
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦282⟧",
+      "symbolIdx": 282
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦213⟧",
+      "symbolIdx": 213
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦220⟧",
+      "symbolIdx": 220
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦221⟧",
+      "symbolIdx": 221
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦136⟧",
+      "symbolIdx": 136
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦64⟧",
+      "symbolIdx": 64
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦250⟧",
+      "symbolIdx": 250
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦104⟧",
+      "symbolIdx": 104
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦253⟧",
+      "symbolIdx": 253
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦227⟧",
+      "symbolIdx": 227
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦212⟧",
+      "symbolIdx": 212
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦178⟧",
+      "symbolIdx": 178
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦178⟧",
+      "symbolIdx": 178
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦169⟧",
+      "symbolIdx": 169
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦293⟧",
+      "symbolIdx": 293
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦3⟧",
+      "symbolIdx": 3
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦85⟧",
+      "symbolIdx": 85
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦35⟧",
+      "symbolIdx": 35
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦273⟧",
+      "symbolIdx": 273
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦258⟧",
+      "symbolIdx": 258
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦39⟧",
+      "symbolIdx": 39
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦191⟧",
+      "symbolIdx": 191
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦2⟧",
+      "symbolIdx": 2
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦224⟧",
+      "symbolIdx": 224
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦278⟧",
+      "symbolIdx": 278
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦244⟧",
+      "symbolIdx": 244
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦25⟧",
+      "symbolIdx": 25
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦199⟧",
+      "symbolIdx": 199
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦117⟧",
+      "symbolIdx": 117
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦89⟧",
+      "symbolIdx": 89
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦234⟧",
+      "symbolIdx": 234
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦248⟧",
+      "symbolIdx": 248
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦186⟧",
+      "symbolIdx": 186
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦239⟧",
+      "symbolIdx": 239
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦102⟧",
+      "symbolIdx": 102
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦259⟧",
+      "symbolIdx": 259
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦288⟧",
+      "symbolIdx": 288
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦73⟧",
+      "symbolIdx": 73
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦203⟧",
+      "symbolIdx": 203
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦207⟧",
+      "symbolIdx": 207
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦237⟧",
+      "symbolIdx": 237
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦232⟧",
+      "symbolIdx": 232
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦224⟧",
+      "symbolIdx": 224
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦207⟧",
+      "symbolIdx": 207
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦263⟧",
+      "symbolIdx": 263
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦294⟧",
+      "symbolIdx": 294
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦266⟧",
+      "symbolIdx": 266
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦238⟧",
+      "symbolIdx": 238
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦233⟧",
+      "symbolIdx": 233
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦237⟧",
+      "symbolIdx": 237
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦232⟧",
+      "symbolIdx": 232
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦231⟧",
+      "symbolIdx": 231
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦224⟧",
+      "symbolIdx": 224
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦254⟧",
+      "symbolIdx": 254
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦6⟧",
+      "symbolIdx": 6
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦148⟧",
+      "symbolIdx": 148
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦16⟧",
+      "symbolIdx": 16
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦207⟧",
+      "symbolIdx": 207
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦237⟧",
+      "symbolIdx": 237
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦232⟧",
+      "symbolIdx": 232
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦224⟧",
+      "symbolIdx": 224
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦254⟧",
+      "symbolIdx": 254
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦204⟧",
+      "symbolIdx": 204
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ɠ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ɣ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ƕ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ɩ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ɨ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ƙ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ƙ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ƚ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ƛ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦138⟧",
+      "symbolIdx": 138
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦287⟧",
+      "symbolIdx": 287
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦195⟧",
+      "symbolIdx": 195
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ƣ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦225⟧",
+      "symbolIdx": 225
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦67⟧",
+      "symbolIdx": 67
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦129⟧",
+      "symbolIdx": 129
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦255⟧",
+      "symbolIdx": 255
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦267⟧",
+      "symbolIdx": 267
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦280⟧",
+      "symbolIdx": 280
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦281⟧",
+      "symbolIdx": 281
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦287⟧",
+      "symbolIdx": 287
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦154⟧",
+      "symbolIdx": 154
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦226⟧",
+      "symbolIdx": 226
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦24⟧",
+      "symbolIdx": 24
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦289⟧",
+      "symbolIdx": 289
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦170⟧",
+      "symbolIdx": 170
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦216⟧",
+      "symbolIdx": 216
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦216⟧",
+      "symbolIdx": 216
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦18⟧",
+      "symbolIdx": 18
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦279⟧",
+      "symbolIdx": 279
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦277⟧",
+      "symbolIdx": 277
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦200⟧",
+      "symbolIdx": 200
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦38⟧",
+      "symbolIdx": 38
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦171⟧",
+      "symbolIdx": 171
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦223⟧",
+      "symbolIdx": 223
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦228⟧",
+      "symbolIdx": 228
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦259⟧",
+      "symbolIdx": 259
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦228⟧",
+      "symbolIdx": 228
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦260⟧",
+      "symbolIdx": 260
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦289⟧",
+      "symbolIdx": 289
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦131⟧",
+      "symbolIdx": 131
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦142⟧",
+      "symbolIdx": 142
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦55⟧",
+      "symbolIdx": 55
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦198⟧",
+      "symbolIdx": 198
+    }
+  ],
+  "usedRelIds": [
+    "rel_338",
+    "rel_339",
+    "rel_340",
+    "rel_341",
+    "rel_342",
+    "rel_343",
+    "rel_344",
+    "rel_345",
+    "rel_346",
+    "rel_353"
+  ],
+  "valid": true
+}
+
+===== Of all the teams John Nyskohus played for, which team was known as "the Black and Whites?" =====
+{
+  "question": "Of all the teams John Nyskohus played for, which team was known as \"the Black and Whites?\"",
+  "enableThinking": false,
+  "usage": {
+    "prompt_tokens": 6550,
+    "completion_tokens": 99,
+    "total_tokens": 6649,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6550
+  },
+  "promptLength": 8445,
+  "promptHead": "材料：\n⟦1⟧ = \"the Black\n⟦2⟧ = \"The Zebras\n⟦3⟧ = (Tactical) Team Chess\n⟦4⟧ = [typically 4-6] players\n⟦5⟧ = 17 South Australian championships\n⟦6⟧ = 1950s\n⟦7⟧ = 1960s\n⟦8⟧ = 26 July\n⟦9⟧ = 27 seasons\n⟦10⟧ = 45 times\n⟦11⟧ = 5 August\n⟦12⟧ = 8 classical chess board\n⟦13⟧ = a black background\n⟦14⟧ = a black version\n⟦15⟧ = a Control\n⟦16⟧ = a game\n⟦17⟧ = A number\n⟦18⟧ = a quasi-national emblem\n⟦19⟧ = a series\n⟦20⟧ = a silver fern\n⟦21⟧ = A silver fern flag\n⟦22⟧ = a sport\n⟦23⟧ = a white background\n⟦24⟧ = a white silver fern\n⟦25⟧ = Adelaide\n⟦26⟧ = Adelaide City\n⟦27⟧ = Adelaide City Football Club\n⟦28⟧ = affairs\n⟦29⟧ = aim\n⟦30⟧ = an aim\n⟦31⟧ = an Australian football\n⟦32⟧ = an Australian former rugby league footballer\n⟦33⟧ = an Australian former soccer player\n⟦34⟧ = an unofficial flag\n⟦35⟧ = any flag design\n⟦36⟧ = arms\n⟦37⟧ = association\n⟦38⟧ = Australia\n⟦39⟧ = Australia's most decorated sides\n⟦40⟧ = background\n⟦41⟧ = Blacks\n⟦42⟧ = Blue Teams\n⟦43⟧ = board\n⟦44⟧ = both domestic and foreign characters\n⟦45⟧ = both sides\n⟦46⟧ = championships\n⟦47⟧ = characters\n⟦48⟧ = chess\n⟦49⟧ = China\n⟦50⟧ = Chinchilla's team\n⟦51⟧ = classified high level war games\n⟦52⟧ = club\n⟦53⟧ = club football\n⟦54⟧ = clubs\n⟦55⟧ = coat\n⟦5",
+  "promptTail": "80⟧⟨ȶ⟩⟨ȷ⟩⟦149⟧⟦68⟧⟨ȹ⟩⟦76⟧⟨ȸ⟩⟨Ⱥ⟩⟦113⟧⟦130⟧⟨Ȼ⟩⟨ȼ⟩⟦107⟧⟨Ƚ⟩⟦42⟧⟨Ⱦ⟩⟨ȿ⟩⟦145⟧⟦61⟧⟨ɀ⟩⟨Ɂ⟩⟦150⟧⟦80⟧⟨ɂ⟩⟨Ƀ⟩⟦161⟧⟨Ʉ⟩⟦182⟧⟦182⟧⟨Ʌ⟩⟨Ɇ⟩⟦176⟧⟨ɇ⟩⟦158⟧⟨Ɉ⟩⟦49⟧⟨ɉ⟩⟦139⟧⟨Ɋ⟩⟦147⟧⟨ɋ⟩⟦188⟧⟨Ɍ⟩⟦137⟧⟨ɍ⟩⟦174⟧⟨Ɏ⟩⟦81⟧⟨ɏ⟩⟦173⟧⟨ɐ⟩\n\n问题：\nOf all the teams John Nyskohus played for, which team was known as \"the Black and Whites?\"\n\n注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到\n\n任务：从拓扑链中选取多个你认为回答问题所需的截断片段。\n\n约束：\n- 每个截断必须是拓扑链中连续的符号序列\n- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）\n- 不能编造不存在的符号\n- 不能跳过中间的符号（保持相对顺序）\n- 不能重排符号顺序\n- 只选择能够帮助你解决问题的截断，宁缺毋滥\n\n输出格式：\n输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧\n\n现在只输出符号序列（多个片段用 | 分隔）：",
+  "rawResponse": "⟦89⟧⟨ź⟩⟦33⟧⟦118⟧⟨ż⟩⟦103⟧⟨Ż⟩⟨Ž⟩⟦52⟧⟦53⟧⟨ž⟩⟦74⟧⟨ſ⟩⟨ƀ⟩⟦184⟧ | ⟦2⟧⟦192⟧⟨⟩⟨⟩⟦1⟧⟨⟩⟦191⟧⟨⟩",
+  "truncatedNodes": [
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦35⟧",
+      "symbolIdx": 35
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦64⟧",
+      "symbolIdx": 64
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦20⟧",
+      "symbolIdx": 20
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦24⟧",
+      "symbolIdx": 24
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦13⟧",
+      "symbolIdx": 13
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦168⟧",
+      "symbolIdx": 168
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦34⟧",
+      "symbolIdx": 34
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦167⟧",
+      "symbolIdx": 167
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦167⟧",
+      "symbolIdx": 167
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦18⟧",
+      "symbolIdx": 18
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦67⟧",
+      "symbolIdx": 67
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦186⟧",
+      "symbolIdx": 186
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦142⟧",
+      "symbolIdx": 142
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦55⟧",
+      "symbolIdx": 55
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦154⟧",
+      "symbolIdx": 154
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦65⟧",
+      "symbolIdx": 65
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦17⟧",
+      "symbolIdx": 17
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦62⟧",
+      "symbolIdx": 62
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦169⟧",
+      "symbolIdx": 169
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦73⟧",
+      "symbolIdx": 73
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦178⟧",
+      "symbolIdx": 178
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦93⟧",
+      "symbolIdx": 93
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦14⟧",
+      "symbolIdx": 14
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦148⟧",
+      "symbolIdx": 148
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦25⟧",
+      "symbolIdx": 25
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦2⟧",
+      "symbolIdx": 2
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦191⟧",
+      "symbolIdx": 191
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦9⟧",
+      "symbolIdx": 9
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦39⟧",
+      "symbolIdx": 39
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦181⟧",
+      "symbolIdx": 181
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦151⟧",
+      "symbolIdx": 151
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦152⟧",
+      "symbolIdx": 152
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦164⟧",
+      "symbolIdx": 164
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦180⟧",
+      "symbolIdx": 180
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦117⟧",
+      "symbolIdx": 117
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦165⟧",
+      "symbolIdx": 165
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦8⟧",
+      "symbolIdx": 8
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦89⟧",
+      "symbolIdx": 89
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ź⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ż⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ż⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ž⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ž⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ſ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ƀ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦184⟧",
+      "symbolIdx": 184
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦170⟧",
+      "symbolIdx": 170
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦10⟧",
+      "symbolIdx": 10
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦38⟧",
+      "symbolIdx": 38
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦77⟧",
+      "symbolIdx": 77
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦92⟧",
+      "symbolIdx": 92
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦85⟧",
+      "symbolIdx": 85
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦32⟧",
+      "symbolIdx": 32
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦131⟧",
+      "symbolIdx": 131
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦6⟧",
+      "symbolIdx": 6
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦82⟧",
+      "symbolIdx": 82
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦144⟧",
+      "symbolIdx": 144
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦172⟧",
+      "symbolIdx": 172
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦136⟧",
+      "symbolIdx": 136
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦138⟧",
+      "symbolIdx": 138
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦175⟧",
+      "symbolIdx": 175
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦54⟧",
+      "symbolIdx": 54
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦106⟧",
+      "symbolIdx": 106
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦3⟧",
+      "symbolIdx": 3
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦16⟧",
+      "symbolIdx": 16
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦22⟧",
+      "symbolIdx": 22
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦183⟧",
+      "symbolIdx": 183
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦4⟧",
+      "symbolIdx": 4
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦104⟧",
+      "symbolIdx": 104
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦66⟧",
+      "symbolIdx": 66
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦12⟧",
+      "symbolIdx": 12
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦126⟧",
+      "symbolIdx": 126
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦191⟧",
+      "symbolIdx": 191
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦41⟧",
+      "symbolIdx": 41
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦105⟧",
+      "symbolIdx": 105
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦171⟧",
+      "symbolIdx": 171
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦129⟧",
+      "symbolIdx": 129
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦102⟧",
+      "symbolIdx": 102
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    }
+  ],
+  "usedRelIds": [
+    "rel_78",
+    "rel_79",
+    "rel_80",
+    "rel_81",
+    "rel_313",
+    "rel_315",
+    "rel_314",
+    "rel_316",
+    "rel_317",
+    "rel_318",
+    "rel_319"
+  ],
+  "valid": true
+}
+
+===== What supernatural horror film did Miles Doleac have a role in? =====
+{
+  "question": "What supernatural horror film did Miles Doleac have a role in?",
+  "enableThinking": false,
+  "usage": {
+    "prompt_tokens": 6566,
+    "completion_tokens": 33,
+    "total_tokens": 6599,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6566
+  },
+  "promptLength": 9845,
+  "promptHead": "材料：\n⟦1⟧ = , literally \"The Third Mother\n⟦2⟧ = \"Carrie\n⟦3⟧ = \"Mater Lachrymarum\n⟦4⟧ = \"Mother\n⟦5⟧ = \"Needle\n⟦6⟧ = \"Suspiria\n⟦7⟧ = \"The Legend\n⟦8⟧ = \"The Magnificent Seven\n⟦9⟧ = \"The Omen\n⟦10⟧ = \"The Third Mother\n⟦11⟧ = \"The Three Mothers\n⟦12⟧ = (Australia\n⟦13⟧ = 1 September\n⟦14⟧ = 12th\n⟦15⟧ = 13 weeks\n⟦16⟧ = 1976 British/American supernatural horror drama film\n⟦17⟧ = 28 July\n⟦18⟧ = 29 July\n⟦19⟧ = 3 awards\n⟦20⟧ = 62 screens\n⟦21⟧ = 82 countries\n⟦22⟧ = a 1991 Tamil supernatural horror film\n⟦23⟧ = a 1999 American Gothic supernatural horror film\n⟦24⟧ = a 1999 American supernatural horror film\n⟦25⟧ = a 2007 supernatural horror film\n⟦26⟧ = a 2010 Australian independent supernatural horror film\n⟦27⟧ = a 2012 American supernatural horror film\n⟦28⟧ = a 2014 drama film\n⟦29⟧ = a 2016 American crime film\n⟦30⟧ = a 2016 comedy horror film\n⟦31⟧ = a box office bomb\n⟦32⟧ = a demon hunter\n⟦33⟧ = a film adaptation\n⟦34⟧ = a limited eight-screen release\n⟦35⟧ = a murder mystery\n⟦36⟧ = a mysterious Headless Horseman\n⟦37⟧ = a sequel\n⟦38⟧ = a series\n⟦39⟧ = a singer\n⟦40⟧ = a successful release\n⟦41⟧ = a supernatural force\n⟦42⟧ = acting\n⟦43⟧ = acting roles\n⟦44⟧ = actor\n⟦45⟧ = Adam Gierasch\n⟦46⟧ = adaptation\n⟦47",
+  "promptTail": "ƺ⟩⟦148⟧⟨ƻ⟩⟦174⟧⟨Ƽ⟩⟦222⟧⟦222⟧⟨ƽ⟩⟨ƾ⟩⟦142⟧⟨ƿ⟩⟦163⟧⟨ǀ⟩⟦183⟧⟦57⟧⟨ǁ⟩⟨ǂ⟩⟦263⟧⟦218⟧⟨ǃ⟩⟨Ǆ⟩⟨ǅ⟩⟦220⟧⟨ǆ⟩⟦275⟧⟦192⟧⟨Ǉ⟩⟨ǈ⟩⟦182⟧⟨ǉ⟩⟦209⟧⟨Ǌ⟩⟦292⟧⟨ǋ⟩⟦177⟧⟦192⟧⟨ǌ⟩⟨Ǎ⟩⟦246⟧⟦108⟧⟨ǎ⟩⟨Ǐ⟩⟦289⟧⟦188⟧⟨ǐ⟩⟨Ǒ⟩⟦9⟧⟨ǒ⟩⟦16⟧⟦122⟧⟨ǔ⟩⟦100⟧⟨Ǖ⟩⟦108⟧⟨Ǔ⟩⟨ǖ⟩⟦189⟧⟨Ǘ⟩\n\n问题：\nWhat supernatural horror film did Miles Doleac have a role in?\n\n注意：你看到的拓扑链不是原文，而是符号化后的序列：\n- ⟦N⟧ 代表实体名词\n- ⟨A⟩、⟨B⟩ 等代表非名词内容（动词、连接词、标点等），但原文是什么你看不到\n\n任务：从拓扑链中选取多个你认为回答问题所需的截断片段。\n\n约束：\n- 每个截断必须是拓扑链中连续的符号序列\n- 多个截断必须按拓扑链中的原始顺序排列（不允许交叉）\n- 不能编造不存在的符号\n- 不能跳过中间的符号（保持相对顺序）\n- 不能重排符号顺序\n- 只选择能够帮助你解决问题的截断，宁缺毋滥\n\n输出格式：\n输出多个拓扑链截断片段，用 | 分隔，例如：⟦1⟧⟨A⟩⟦2⟧ | ⟦3⟧⟨B⟩⟦5⟧\n\n现在只输出符号序列（多个片段用 | 分隔）：",
+  "rawResponse": "⟦156⟧⟨Ħ⟩⟦246⟧⟦108⟧⟨ħ⟩ | ⟦27⟧⟦122⟧",
+  "truncatedNodes": [
+    {
+      "type": "noun",
+      "symbol": "⟦260⟧",
+      "symbolIdx": 260
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦186⟧",
+      "symbolIdx": 186
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦71⟧",
+      "symbolIdx": 71
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦24⟧",
+      "symbolIdx": 24
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦37⟧",
+      "symbolIdx": 37
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦202⟧",
+      "symbolIdx": 202
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦237⟧",
+      "symbolIdx": 237
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦2⟧",
+      "symbolIdx": 2
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦256⟧",
+      "symbolIdx": 256
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦171⟧",
+      "symbolIdx": 171
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦262⟧",
+      "symbolIdx": 262
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦165⟧",
+      "symbolIdx": 165
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦221⟧",
+      "symbolIdx": 221
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦72⟧",
+      "symbolIdx": 72
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦62⟧",
+      "symbolIdx": 62
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦115⟧",
+      "symbolIdx": 115
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦211⟧",
+      "symbolIdx": 211
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦254⟧",
+      "symbolIdx": 254
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦141⟧",
+      "symbolIdx": 141
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦102⟧",
+      "symbolIdx": 102
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦131⟧",
+      "symbolIdx": 131
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦101⟧",
+      "symbolIdx": 101
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦127⟧",
+      "symbolIdx": 127
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦50⟧",
+      "symbolIdx": 50
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦116⟧",
+      "symbolIdx": 116
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦224⟧",
+      "symbolIdx": 224
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦259⟧",
+      "symbolIdx": 259
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦66⟧",
+      "symbolIdx": 66
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦26⟧",
+      "symbolIdx": 26
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦152⟧",
+      "symbolIdx": 152
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦135⟧",
+      "symbolIdx": 135
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦281⟧",
+      "symbolIdx": 281
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦283⟧",
+      "symbolIdx": 283
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦63⟧",
+      "symbolIdx": 63
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦138⟧",
+      "symbolIdx": 138
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦35⟧",
+      "symbolIdx": 35
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦161⟧",
+      "symbolIdx": 161
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦164⟧",
+      "symbolIdx": 164
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦212⟧",
+      "symbolIdx": 212
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦79⟧",
+      "symbolIdx": 79
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦232⟧",
+      "symbolIdx": 232
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦227⟧",
+      "symbolIdx": 227
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦265⟧",
+      "symbolIdx": 265
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦279⟧",
+      "symbolIdx": 279
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦76⟧",
+      "symbolIdx": 76
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦173⟧",
+      "symbolIdx": 173
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦58⟧",
+      "symbolIdx": 58
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦241⟧",
+      "symbolIdx": 241
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦197⟧",
+      "symbolIdx": 197
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦34⟧",
+      "symbolIdx": 34
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦198⟧",
+      "symbolIdx": 198
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦59⟧",
+      "symbolIdx": 59
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦77⟧",
+      "symbolIdx": 77
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦17⟧",
+      "symbolIdx": 17
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦40⟧",
+      "symbolIdx": 40
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦187⟧",
+      "symbolIdx": 187
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦285⟧",
+      "symbolIdx": 285
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦18⟧",
+      "symbolIdx": 18
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦170⟧",
+      "symbolIdx": 170
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦240⟧",
+      "symbolIdx": 240
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦172⟧",
+      "symbolIdx": 172
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦20⟧",
+      "symbolIdx": 20
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦200⟧",
+      "symbolIdx": 200
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦15⟧",
+      "symbolIdx": 15
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦296⟧",
+      "symbolIdx": 296
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦13⟧",
+      "symbolIdx": 13
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦21⟧",
+      "symbolIdx": 21
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦86⟧",
+      "symbolIdx": 86
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦191⟧",
+      "symbolIdx": 191
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦191⟧",
+      "symbolIdx": 191
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦149⟧",
+      "symbolIdx": 149
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦233⟧",
+      "symbolIdx": 233
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦147⟧",
+      "symbolIdx": 147
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦290⟧",
+      "symbolIdx": 290
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦117⟧",
+      "symbolIdx": 117
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦288⟧",
+      "symbolIdx": 288
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦229⟧",
+      "symbolIdx": 229
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦113⟧",
+      "symbolIdx": 113
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦178⟧",
+      "symbolIdx": 178
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦69⟧",
+      "symbolIdx": 69
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦215⟧",
+      "symbolIdx": 215
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦111⟧",
+      "symbolIdx": 111
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦206⟧",
+      "symbolIdx": 206
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦130⟧",
+      "symbolIdx": 130
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦217⟧",
+      "symbolIdx": 217
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦12⟧",
+      "symbolIdx": 12
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦5⟧",
+      "symbolIdx": 5
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦213⟧",
+      "symbolIdx": 213
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦296⟧",
+      "symbolIdx": 296
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦175⟧",
+      "symbolIdx": 175
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦297⟧",
+      "symbolIdx": 297
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦166⟧",
+      "symbolIdx": 166
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦125⟧",
+      "symbolIdx": 125
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦286⟧",
+      "symbolIdx": 286
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦196⟧",
+      "symbolIdx": 196
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦235⟧",
+      "symbolIdx": 235
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦14⟧",
+      "symbolIdx": 14
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦93⟧",
+      "symbolIdx": 93
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦74⟧",
+      "symbolIdx": 74
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦167⟧",
+      "symbolIdx": 167
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦155⟧",
+      "symbolIdx": 155
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦51⟧",
+      "symbolIdx": 51
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦230⟧",
+      "symbolIdx": 230
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦97⟧",
+      "symbolIdx": 97
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦300⟧",
+      "symbolIdx": 300
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦300⟧",
+      "symbolIdx": 300
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦184⟧",
+      "symbolIdx": 184
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦184⟧",
+      "symbolIdx": 184
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦119⟧",
+      "symbolIdx": 119
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦70⟧",
+      "symbolIdx": 70
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦39⟧",
+      "symbolIdx": 39
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦210⟧",
+      "symbolIdx": 210
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦216⟧",
+      "symbolIdx": 216
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦216⟧",
+      "symbolIdx": 216
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦268⟧",
+      "symbolIdx": 268
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦269⟧",
+      "symbolIdx": 269
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦44⟧",
+      "symbolIdx": 44
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦60⟧",
+      "symbolIdx": 60
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦185⟧",
+      "symbolIdx": 185
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦193⟧",
+      "symbolIdx": 193
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦205⟧",
+      "symbolIdx": 205
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦230⟧",
+      "symbolIdx": 230
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦231⟧",
+      "symbolIdx": 231
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦207⟧",
+      "symbolIdx": 207
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦282⟧",
+      "symbolIdx": 282
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦49⟧",
+      "symbolIdx": 49
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦195⟧",
+      "symbolIdx": 195
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦83⟧",
+      "symbolIdx": 83
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦194⟧",
+      "symbolIdx": 194
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦194⟧",
+      "symbolIdx": 194
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦204⟧",
+      "symbolIdx": 204
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦106⟧",
+      "symbolIdx": 106
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦244⟧",
+      "symbolIdx": 244
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦42⟧",
+      "symbolIdx": 42
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦43⟧",
+      "symbolIdx": 43
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦193⟧",
+      "symbolIdx": 193
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦261⟧",
+      "symbolIdx": 261
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦109⟧",
+      "symbolIdx": 109
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦8⟧",
+      "symbolIdx": 8
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦239⟧",
+      "symbolIdx": 239
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦27⟧",
+      "symbolIdx": 27
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦276⟧",
+      "symbolIdx": 276
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦118⟧",
+      "symbolIdx": 118
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦92⟧",
+      "symbolIdx": 92
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦55⟧",
+      "symbolIdx": 55
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦201⟧",
+      "symbolIdx": 201
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦277⟧",
+      "symbolIdx": 277
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦140⟧",
+      "symbolIdx": 140
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦190⟧",
+      "symbolIdx": 190
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦258⟧",
+      "symbolIdx": 258
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦272⟧",
+      "symbolIdx": 272
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦81⟧",
+      "symbolIdx": 81
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦223⟧",
+      "symbolIdx": 223
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦245⟧",
+      "symbolIdx": 245
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦91⟧",
+      "symbolIdx": 91
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦270⟧",
+      "symbolIdx": 270
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦112⟧",
+      "symbolIdx": 112
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦41⟧",
+      "symbolIdx": 41
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦110⟧",
+      "symbolIdx": 110
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦257⟧",
+      "symbolIdx": 257
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦107⟧",
+      "symbolIdx": 107
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦31⟧",
+      "symbolIdx": 31
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦68⟧",
+      "symbolIdx": 68
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦172⟧",
+      "symbolIdx": 172
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦67⟧",
+      "symbolIdx": 67
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦88⟧",
+      "symbolIdx": 88
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦267⟧",
+      "symbolIdx": 267
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦253⟧",
+      "symbolIdx": 253
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦176⟧",
+      "symbolIdx": 176
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦126⟧",
+      "symbolIdx": 126
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦145⟧",
+      "symbolIdx": 145
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦168⟧",
+      "symbolIdx": 168
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦47⟧",
+      "symbolIdx": 47
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦160⟧",
+      "symbolIdx": 160
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦294⟧",
+      "symbolIdx": 294
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦250⟧",
+      "symbolIdx": 250
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦28⟧",
+      "symbolIdx": 28
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨Ħ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "relation",
+      "placeholder": "⟨ħ⟩"
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦98⟧",
+      "symbolIdx": 98
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦298⟧",
+      "symbolIdx": 298
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦80⟧",
+      "symbolIdx": 80
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦136⟧",
+      "symbolIdx": 136
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦114⟧",
+      "symbolIdx": 114
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦146⟧",
+      "symbolIdx": 146
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦137⟧",
+      "symbolIdx": 137
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦23⟧",
+      "symbolIdx": 23
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦273⟧",
+      "symbolIdx": 273
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦33⟧",
+      "symbolIdx": 33
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦46⟧",
+      "symbolIdx": 46
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦236⟧",
+      "symbolIdx": 236
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦7⟧",
+      "symbolIdx": 7
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦295⟧",
+      "symbolIdx": 295
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦139⟧",
+      "symbolIdx": 139
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦75⟧",
+      "symbolIdx": 75
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦157⟧",
+      "symbolIdx": 157
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦153⟧",
+      "symbolIdx": 153
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦73⟧",
+      "symbolIdx": 73
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦133⟧",
+      "symbolIdx": 133
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦226⟧",
+      "symbolIdx": 226
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦193⟧",
+      "symbolIdx": 193
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦258⟧",
+      "symbolIdx": 258
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦179⟧",
+      "symbolIdx": 179
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦180⟧",
+      "symbolIdx": 180
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦181⟧",
+      "symbolIdx": 181
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦95⟧",
+      "symbolIdx": 95
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦169⟧",
+      "symbolIdx": 169
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦38⟧",
+      "symbolIdx": 38
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦203⟧",
+      "symbolIdx": 203
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦162⟧",
+      "symbolIdx": 162
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦266⟧",
+      "symbolIdx": 266
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦291⟧",
+      "symbolIdx": 291
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦214⟧",
+      "symbolIdx": 214
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦36⟧",
+      "symbolIdx": 36
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦30⟧",
+      "symbolIdx": 30
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦82⟧",
+      "symbolIdx": 82
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦154⟧",
+      "symbolIdx": 154
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦99⟧",
+      "symbolIdx": 99
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦132⟧",
+      "symbolIdx": 132
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦32⟧",
+      "symbolIdx": 32
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦123⟧",
+      "symbolIdx": 123
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦158⟧",
+      "symbolIdx": 158
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦252⟧",
+      "symbolIdx": 252
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦121⟧",
+      "symbolIdx": 121
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦52⟧",
+      "symbolIdx": 52
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦120⟧",
+      "symbolIdx": 120
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦94⟧",
+      "symbolIdx": 94
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦143⟧",
+      "symbolIdx": 143
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦278⟧",
+      "symbolIdx": 278
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦129⟧",
+      "symbolIdx": 129
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦48⟧",
+      "symbolIdx": 48
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦219⟧",
+      "symbolIdx": 219
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦226⟧",
+      "symbolIdx": 226
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦193⟧",
+      "symbolIdx": 193
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦255⟧",
+      "symbolIdx": 255
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦228⟧",
+      "symbolIdx": 228
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦144⟧",
+      "symbolIdx": 144
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦1⟧",
+      "symbolIdx": 1
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦25⟧",
+      "symbolIdx": 25
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦90⟧",
+      "symbolIdx": 90
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦56⟧",
+      "symbolIdx": 56
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦89⟧",
+      "symbolIdx": 89
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦159⟧",
+      "symbolIdx": 159
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦287⟧",
+      "symbolIdx": 287
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦85⟧",
+      "symbolIdx": 85
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦105⟧",
+      "symbolIdx": 105
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦151⟧",
+      "symbolIdx": 151
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦3⟧",
+      "symbolIdx": 3
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦10⟧",
+      "symbolIdx": 10
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦104⟧",
+      "symbolIdx": 104
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦280⟧",
+      "symbolIdx": 280
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦248⟧",
+      "symbolIdx": 248
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦274⟧",
+      "symbolIdx": 274
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦4⟧",
+      "symbolIdx": 4
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦228⟧",
+      "symbolIdx": 228
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦264⟧",
+      "symbolIdx": 264
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦53⟧",
+      "symbolIdx": 53
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦128⟧",
+      "symbolIdx": 128
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦293⟧",
+      "symbolIdx": 293
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦45⟧",
+      "symbolIdx": 45
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦208⟧",
+      "symbolIdx": 208
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦242⟧",
+      "symbolIdx": 242
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦124⟧",
+      "symbolIdx": 124
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦54⟧",
+      "symbolIdx": 54
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦284⟧",
+      "symbolIdx": 284
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦11⟧",
+      "symbolIdx": 11
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦6⟧",
+      "symbolIdx": 6
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦243⟧",
+      "symbolIdx": 243
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦84⟧",
+      "symbolIdx": 84
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦249⟧",
+      "symbolIdx": 249
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦299⟧",
+      "symbolIdx": 299
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦150⟧",
+      "symbolIdx": 150
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦251⟧",
+      "symbolIdx": 251
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦29⟧",
+      "symbolIdx": 29
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦87⟧",
+      "symbolIdx": 87
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦156⟧",
+      "symbolIdx": 156
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦19⟧",
+      "symbolIdx": 19
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦61⟧",
+      "symbolIdx": 61
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦64⟧",
+      "symbolIdx": 64
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦225⟧",
+      "symbolIdx": 225
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦78⟧",
+      "symbolIdx": 78
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦238⟧",
+      "symbolIdx": 238
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦134⟧",
+      "symbolIdx": 134
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦301⟧",
+      "symbolIdx": 301
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦103⟧",
+      "symbolIdx": 103
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦65⟧",
+      "symbolIdx": 65
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦22⟧",
+      "symbolIdx": 22
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦199⟧",
+      "symbolIdx": 199
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦234⟧",
+      "symbolIdx": 234
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦271⟧",
+      "symbolIdx": 271
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦247⟧",
+      "symbolIdx": 247
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦96⟧",
+      "symbolIdx": 96
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦148⟧",
+      "symbolIdx": 148
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦174⟧",
+      "symbolIdx": 174
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦222⟧",
+      "symbolIdx": 222
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦142⟧",
+      "symbolIdx": 142
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦163⟧",
+      "symbolIdx": 163
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦183⟧",
+      "symbolIdx": 183
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦57⟧",
+      "symbolIdx": 57
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦263⟧",
+      "symbolIdx": 263
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦218⟧",
+      "symbolIdx": 218
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦220⟧",
+      "symbolIdx": 220
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦275⟧",
+      "symbolIdx": 275
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦182⟧",
+      "symbolIdx": 182
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦209⟧",
+      "symbolIdx": 209
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦292⟧",
+      "symbolIdx": 292
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦177⟧",
+      "symbolIdx": 177
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦192⟧",
+      "symbolIdx": 192
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦246⟧",
+      "symbolIdx": 246
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦289⟧",
+      "symbolIdx": 289
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦188⟧",
+      "symbolIdx": 188
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦9⟧",
+      "symbolIdx": 9
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦16⟧",
+      "symbolIdx": 16
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦122⟧",
+      "symbolIdx": 122
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦100⟧",
+      "symbolIdx": 100
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦108⟧",
+      "symbolIdx": 108
+    },
+    {
+      "type": "noun",
+      "symbol": "⟦189⟧",
+      "symbolIdx": 189
+    }
+  ],
+  "usedRelIds": [
+    "rel_229",
+    "rel_230"
+  ],
+  "valid": true
+}

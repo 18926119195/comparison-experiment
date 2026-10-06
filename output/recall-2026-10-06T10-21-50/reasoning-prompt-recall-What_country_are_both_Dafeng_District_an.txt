@@ -1,0 +1,135 @@
+材料：
+⟦1⟧ = (朱德义
+⟦2⟧ = 1,862,165 people
+⟦3⟧ = 112 km
+⟦4⟧ = 120 km
+⟦5⟧ = 22488.47 km2
+⟦6⟧ = 253 Mathilde
+⟦7⟧ = 6 urban districts
+⟦8⟧ = 朱德义
+⟦9⟧ = a city
+⟦10⟧ = a coastal district
+⟦11⟧ = a coastline
+⟦12⟧ = A crater
+⟦13⟧ = a district
+⟦14⟧ = a rare deer species
+⟦15⟧ = administration
+⟦16⟧ = area
+⟦17⟧ = areas
+⟦18⟧ = asteroid
+⟦19⟧ = bases
+⟦20⟧ = border
+⟦21⟧ = census
+⟦22⟧ = Chengzihe
+⟦23⟧ = China
+⟦24⟧ = Chinese
+⟦25⟧ = city
+⟦26⟧ = coal
+⟦27⟧ = coastline
+⟦28⟧ = conservation
+⟦29⟧ = crater
+⟦30⟧ = Dafeng
+⟦31⟧ = Dafeng District
+⟦32⟧ = deer
+⟦33⟧ = Didao
+⟦34⟧ = district
+⟦35⟧ = districts
+⟦36⟧ = eco
+⟦37⟧ = Heilongjiang
+⟦38⟧ = Heilongjiang province
+⟦39⟧ = Hengshan
+⟦40⟧ = Hengshan District
+⟦41⟧ = its administrative area
+⟦42⟧ = its built-up ("or metro") area
+⟦43⟧ = its well preserved eco-system
+⟦44⟧ = Jiangsu province
+⟦45⟧ = Jiguan
+⟦46⟧ = Jiguan District
+⟦47⟧ = Jixi
+⟦48⟧ = July
+⟦49⟧ = Khanka Lake
+⟦50⟧ = km
+⟦51⟧ = km2
+⟦52⟧ = level
+⟦53⟧ = Lishu District
+⟦54⟧ = Mashan District
+⟦55⟧ = mayor
+⟦56⟧ = Milu (麋鹿
+⟦57⟧ = mining
+⟦58⟧ = nature
+⟦59⟧ = numerous national conservation parks
+⟦60⟧ = parks
+⟦61⟧ = people
+⟦62⟧ = People's Republic
+⟦63⟧ = Père David's Deer
+⟦64⟧ = prefecture
+⟦65⟧ = province
+⟦66⟧ = reserve
+⟦67⟧ = Russia's Primorsky Krai
+⟦68⟧ = salt
+⟦69⟧ = seat
+⟦70⟧ = southeastern Heilongjiang Province
+⟦71⟧ = southwest
+⟦72⟧ = species
+⟦73⟧ = system
+⟦74⟧ = Taizhou
+⟦75⟧ = the 2010 census
+⟦76⟧ = the administration
+⟦77⟧ = The area
+⟦78⟧ = the border
+⟦79⟧ = the city
+⟦80⟧ = The district
+⟦81⟧ = the important coal mining bases
+⟦82⟧ = the Jiangsu North Plain
+⟦83⟧ = the Jixi city
+⟦84⟧ = the largest national nature reserve
+⟦85⟧ = the largest salt-making areas
+⟦86⟧ = The mayor
+⟦87⟧ = the Muling River
+⟦88⟧ = the prefecture-level city
+⟦89⟧ = the seat
+⟦90⟧ = the southwest
+⟦91⟧ = the Urban District
+⟦92⟧ = three districts
+⟦93⟧ = Tinghu District
+⟦94⟧ = up
+⟦95⟧ = Yancheng
+⟦96⟧ = Yandu District
+⟦97⟧ = Zhu Deyi
+
+拓扑链（符号化表示，占位符 ⟨A⟩、⟨B⟩ 等代表非名词内容，原文不可见）：
+⟦53⟧⟦13⟧⟦34⟧⟦79⟧⟦25⟧⟦47⟧⟦37⟧⟦62⟧⟦23⟧⟦47⟧⟦9⟧⟦25⟧⟦70⟧⟦23⟧⟦75⟧⟦21⟧⟦2⟧⟦61⟧⟦41⟧⟦16⟧⟦5⟧⟦51⟧⟦42⟧⟦94⟧⟦16⟧⟦7⟧⟦35⟧⟦45⟧⟦39⟧⟦22⟧⟦47⟧⟦87⟧⟦50⟧⟦78⟧⟦20⟧⟦67⟧⟦4⟧⟦50⟧⟦49⟧⟦86⟧⟦55⟧⟦47⟧⟦97⟧⟦1⟧⟦8⟧⟦48⟧⟦77⟧⟦16⟧⟦81⟧⟦26⟧⟦57⟧⟦19⟧⟦23⟧⟦12⟧⟦29⟧⟦18⟧⟦18⟧⟦6⟧⟦79⟧⟦25⟧⟦33⟧⟦13⟧⟦34⟧⟦79⟧⟦25⟧⟦47⟧⟦38⟧⟦65⟧⟦62⟧⟦23⟧⟦96⟧⟦92⟧⟦35⟧⟦95⟧⟦44⟧⟦65⟧⟦23⟧⟦93⟧⟦31⟧⟦54⟧⟦13⟧⟦34⟧⟦79⟧⟦25⟧⟦47⟧⟨⟩⟦37⟧⟨⟩⟦62⟧⟨⟩⟦23⟧⟦76⟧⟦15⟧⟦83⟧⟦25⟧⟦46⟧⟦13⟧⟦34⟧⟦89⟧⟦69⟧⟦79⟧⟦25⟧⟦47⟧⟦38⟧⟦65⟧⟦62⟧⟦23⟧⟦30⟧⟨¬⟩⟦10⟧⟦34⟧⟦76⟧⟦15⟧⟦95⟧⟨±⟩⟦44⟧⟦65⟧⟦23⟧⟦82⟧⟦11⟧⟦27⟧⟦3⟧⟦50⟧⟦30⟧⟦85⟧⟦68⟧⟦17⟧⟦23⟧⟦43⟧⟦36⟧⟦73⟧⟦59⟧⟦28⟧⟦60⟧⟦80⟧⟦34⟧⟦84⟧⟦58⟧⟦66⟧⟦14⟧⟦32⟧⟦72⟧⟦63⟧⟦56⟧⟦24⟧⟦88⟧⟦64⟧⟦52⟧⟦25⟧⟦74⟧⟦90⟧⟦71⟧⟦22⟧⟦13⟧⟦34⟧⟦47⟧⟦37⟧⟦62⟧⟦23⟧⟦93⟧⟦92⟧⟦35⟧⟦95⟧⟦44⟧⟦65⟧⟦23⟧⟦96⟧⟦31⟧⟦93⟧⟦91⟧⟦95⟧⟦40⟧⟦13⟧⟦34⟧⟦79⟧⟦25⟧⟦47⟧⟦38⟧⟦65⟧⟦62⟧⟦23⟧
+
+问题：
+What country are both Dafeng District and Jixi in?
+
+占位符映射：
+⟨⟩ = , 
+⟨⟩ = , 
+⟨⟩ =  of 
+⟨¬⟩ =  () is 
+⟨±⟩ = , 
+
+---
+
+要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料⟦N⟧。
+
+格式：
+
+# 路径一：[标题]
+
+步骤1：使用⟦X⟧，提取...
+步骤2：综合⟦Y⟧⟦Z⟧，对比...
+
+结论：[此路径结论]
+
+（继续路径二、三...）
+
+**引用规范**：
+- 单个材料：使用⟦N⟧，提取...，判断...
+- 多个材料：综合⟦N⟧⟦M⟧，对比/交叉验证/综合提取...
+
+**推理策略**：
+- 对比论证：对比不同材料中的矛盾或差异
+- 交叉验证：从多个材料中找到互相支撑的证据
+- 综合支撑：从多处提取一致的特征或模式

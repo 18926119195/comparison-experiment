@@ -1,0 +1,27 @@
+# 路径一：从“2002 biopic”定位影片再找导演
+
+步骤1：使用⟦10⟧，提取“a 2002 American biopic drama film”；使用⟦59⟧，提取片名“Frida”；使用⟦29⟧，确认其为“biopic”。综合判断：2002年的传记片是《Frida》。
+
+步骤2：结合拓扑链中 ⟦59⟧⟦10⟧⟦29⟧…⟨ directed by ⟩⟦79⟧，并引用⟦79⟧“Julie Taymor”，判断《Frida》的导演是 Julie Taymor。
+
+结论：Mía Maestro 参演的 2002 biopic 是《Frida》，导演为 **Julie Taymor**。
+
+# 路径二：从 Mía Maestro 的角色链定位到《Frida》
+
+步骤1：使用⟦90⟧“Mía Maestro”与⟦27⟧“Argentine actress Mía Maestro”，确认问题中的人物是 Mía Maestro。
+
+步骤2：综合⟦38⟧“Christina Kahlo”与⟦59⟧“Frida”，并结合拓扑链中角色链段 ⟦38⟧⟦59⟧，判断 Mía Maestro 在《Frida》中有一个角色，即 Christina/Cristina Kahlo。
+
+步骤3：使用⟦59⟧⟦10⟧确认《Frida》是 2002 年传记片；再使用⟦79⟧“Julie Taymor”，得到导演信息。
+
+结论：Mía Maestro 在《Frida》中的角色由 **Julie Taymor** 执导。
+
+# 路径三：通过传记对象与导演信息交叉验证
+
+步骤1：使用⟦151⟧“the surrealist Mexican painter Frida Kahlo”、⟦60⟧“Frida Kahlo”、⟦59⟧“Frida”，确认《Frida》是关于 Frida Kahlo 的传记片。
+
+步骤2：使用⟦10⟧“a 2002 American biopic drama film”与⟦29⟧“biopic”，确认该片符合“2002 biopic”描述。
+
+步骤3：使用⟦79⟧“Julie Taymor”，并与拓扑链中 ⟨ directed by ⟩⟦79⟧ 交叉验证，确认导演为 Julie Taymor。
+
+结论：该 2002 biopic 的导演是 **Julie Taymor**。
